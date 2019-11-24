@@ -1,28 +1,27 @@
 Jane McGary: (SEEDS)
-1. Allium abramsii, Ratko collection
-2. Allium campanulatum, Ratko collection
-3. Allium diabloense, Ratko collection
-4. Allium douglasii, Ratko collection
-5. Allium hyalinum, pink form, Ratko collection
-6. Allium oreophilum ex 'Samur', Ruksans selection
-7. Allium peninsulare, Ratko collection
-8. Allium praecox, Ratko collection
-9. Allium scorzoneriifolium subsp. xericense, Salmon collection
-10. Allium serra, Ratko collection
-11. Anemone palmata, M. Salmon collection
-12. Calochortus amabilis, Robinett collection
+1. Allium abramsii|Ratko collection
+2. Allium campanulatum|Ratko collection
+3. Allium diabloense|Ratko collection
+4. Allium douglasii|Ratko collection
+5. Allium hyalinum|pink form, Ratko collection
+6. Allium oreophilum ex 'Samur'|Ruksans selection
+7. Allium peninsulare|Ratko collection
+8. Allium praecox|Ratko collection
+9. Allium scorzoneriifolium subsp. xericense|Salmon collection
+10. Allium serra|Ratko collection
+11. Anemone palmata|M. Salmon collection
+12. Calochortus amabilis|Robinett collection
 13. Calochortus catalinae
-14. Calochortus clavatus subsp. gracilis, Ratko collection
-15. Calochortus dunnii, Ratko collection
-16. Calochortus elegans, McGary collection, Siskiyou Mts
-17. Calochortus longebarbatus, Leach Botanical Garden collection
+14. Calochortus clavatus subsp. gracilis|Ratko collection
+15. Calochortus dunnii|Ratko collection
+16. Calochortus elegans|McGary collection, Siskiyou Mts
+17. Calochortus longebarbatus|Leach Botanical Garden collection
 18. Calochortus monophyllus
-19. Calochortus striatus, Ratko collection
-20. Calochortus superbus, Archibald collection (probably a from a hybrid
-swarm with C. luteus)
-21. Calochortus venustus, red forms from various collections
-22. Calochortus venustus, white forms, from various seed sources
-23. Camassia quamash subsp. breviflora, Phyllis Gustafson collection
+19. Calochortus striatus|Ratko collection
+20. Calochortus superbus|Archibald collection (probably a from a hybrid swarm with C. luteus)
+21. Calochortus venustus|red forms from various collections
+22. Calochortus venustus|white forms, from various seed sources
+23. Camassia quamash subsp. breviflora|Phyllis Gustafson collection
 24. Camassia quamash subsp. maxima 'Puget Blue'
 From Rodney Barton: (SEEDS)
 25. Alophia drummondii
@@ -31,7 +30,7 @@ From Rodney Barton: (SEEDS)
 From Mary Sue Ittner: (SEEDS)
 28. Lilium humboldtii
 29. Lilium pardalinum 'Giganteum'
-30. Haemanthus humilis, few
+30. Haemanthus humilis|few
 31. Veltheimia bracteata
 32. Pelargonium barkleyi
 33. Triteleia peduncularis
