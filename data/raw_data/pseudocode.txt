@@ -1,0 +1,53 @@
+for each i in list such as 320 thru 340
+do
+
+bx_id = i
+
+readign should begin with the first donor, as in "From First Last:"
+
+but sometimes there's extra text there. Shoot.
+
+if simple,...
+
+read donor
+
+while read nextline not starting with "From "...
+do
+
+read item_no as all digits until first .
+once so far there was a , for . typo but lets assume it is ok
+
+discard the ". "
+Take that string from there to its end.
+
+rawstring = all after "\d*\. "
+
+sometimes this string wraps. Big headache.
+For now... just process the non-wrappers.
+
+If it wraps, it usually does not start the next line with digits.
+If nextline not starting with "\d*\. "
+then concatenate it onto the end of rawstring.
+Keep doing that til hit digit at start of line.
+
+Gather that data for later processign step.
+
+done loop
+
+
+Next: process rawstring
+
+Need to:
+* extract taxon
+* extract seeds/bulbs category
+* extract winter/summer growing... may be too difficult
+* remove "Seed of " or "Bulbs of " once category is set
+* if special like rhizome/tuber/corm or cormlets, bulblets, offsets, keep that in comment string
+* how to separate taxon when it is not simply "Genus species"?
+
+maybe mostly scripted but with human clean-up later step
+
+* look for http/https links and put those into photo_link
+*  how to handle when there is a comment that applies to all items in a section?
+
+Ugh
