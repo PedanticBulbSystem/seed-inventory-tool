@@ -1,0 +1,29 @@
+BX 335||From Bjorn Wretman:
+BX 335||||1|Seeds of|Phaedranassa tunguraguae
+BX 335||From Stephen Putman:
+BX 335||||2|Seeds of|Hippeastrum nelsonii
+BX 335||From Ina Crossley:
+BX 335||||3||Zephyranthes fosteri
+BX 335||||4||Zephyranthes dichromantha
+BX 335||||5||Zephyranthes 'Hidalgo'
+BX 335||||6||Zephyranthes reginae
+BX 335||||7||Zephyranthes 'Tenexico'|apricot
+BX 335||||8||Tigridia pavonia|pure white
+BX 335||||9||Zephyranthes citrina
+BX 335||||10||Zephyranthes primulina
+BX 335||||11||Zephyranthes 'Ajax'
+BX 335||||12||Habranthus tubispathus|'Texensis'
+BX 335||||13||Habranthus brachyandrus
+BX 335||||14||Habranthus tubispathusvar. roseus
+BX 335||||15||Zephyranthes 'Sunset Strain'
+BX 335||From Nhu Nguyen:|(S = summer growing, W = winter growing, OP = open pollinated)
+BX 335||SEEDS:
+BX 335||||16||Tigridia pavonia|- S, OP
+BX 335||||17||Herbertia tigridioides|- S, OP
+BX 335||||18||Calydorea amabilis|- S, OP
+BX 335||||19||Cypella herbertii|- S, OP
+BX 335||||20||Ornithogalum regale|- W, control pollinated
+BX 335||BULBS:
+BX 335||||21||Oxalis lasiandra|- S
+BX 335||||22||Oxalis tetraphylla 'Reverse Iron Cross'|| S
+BX 335||||23||Oxalis sp.|Durango, Mexico - S

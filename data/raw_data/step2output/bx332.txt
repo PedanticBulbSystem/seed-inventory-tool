@@ -1,0 +1,22 @@
+BX 332||From Kipp McMichael:
+BX 332||||1|Cormlets of|Watsonia sp. aff. fulgens| red
+BX 332||||2|Seed of|Massonia pustulata| purple and mottled purple
+BX 332||From Stephen Gregg:
+BX 332||||3|Seed of|Albuca nelsonii| ex Silverhill. Grows 2 metres high
+BX 332||From Kathleen Sayce:
+BX 332||||4|Seed of|Erythronium elegans| wild collected Mt Hebo, Tillamook County, Oregon
+BX 332||From Angelo Porcelli:|(SEEDS)
+BX 332||||5||Asphodelus acaulis
+BX 332||||6||Iris coccina
+BX 332||||7||Iris planifolia
+BX 332||||8|Paeonia mascula|ssp mascula
+BX 332||||9||Pancratium canariense
+BX 332||||10||Pancratium parviflorum
+BX 332||From Sophie Dixon:
+BX 332||||11|Seeds of|Ceropegia ballyana
+BX 332||From Guy L'Eplattenier:|(SEEDS)
+BX 332||||12||Dietes grandiflora
+BX 332||||13||Lapiedra martinezii
+BX 332||||14||Pancratium canariense
+BX 332||From Donald Leevers:
+BX 332||||15|Seed of|Narcissus serotinus

@@ -1,0 +1,31 @@
+BX 329||From Tony Avent and Plants Delights Nursery:
+BX 329||||1||Seed of| Rhodophiala bifida, carmine
+BX 329||||2||Seed of| Lilium leichtlinii var maximowiczh ?
+BX 329||||3||Seed of| Crinum PDN#015 [(C. forb x mac) x (mac x acaule)] - already germinating
+BX 329||||4||Seed of| Crinum variabile (already germinating)
+BX 329||From Kathleen Sayce:
+BX 329||||5||ONE bulb| of Ismene 'Festalis'
+BX 329||||6||ONE bulb| of Albuca nelsonii from BX 301 ex Pam Slate
+BX 329||From Paige Woodward:
+BX 329||||7||Seed of| Cardiocrinum giganteum
+BX 329||||8||Seed of| Cardiocrinum cordatum var glehnii
+BX 329||From Donald Leevers: (Seeds)
+BX 329||||9||Allium subhirsutum|
+BX 329||||10||Anomatheca laxa|
+BX 329||||11||Gladiolus tristis|
+BX 329||||12||Habranthus martinezii|
+BX 329||||13||Habranthus brachyandrus|
+BX 329||||14||Habranthus andersonii|
+BX 329||||15||Lilium candidum|
+BX 329||||16||Ornithogalum caudatum|
+BX 329||||17||Pancratium maritimum|
+BX 329||||18||Tulbaghia maritima|
+BX 329||||19||Urginea maritima|
+BX 329||||20||Watsonia latifolia|
+BX 329||||21||Zephyranthes reginae|
+BX 329||From Roland de Boer: (Seeds)
+BX 329||||22||Allium obliquum|
+BX 329||||23||Allium victorialis|, form 1
+BX 329||||24||Allium victorialis|, form 2
+BX 329||||25||Lilium columbianum| ex N. Rocky Mountains
+BX 329||||26||Tropaeolum brachyceras|

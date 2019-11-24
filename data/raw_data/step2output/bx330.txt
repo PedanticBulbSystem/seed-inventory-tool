@@ -1,0 +1,46 @@
+BX 330||From Bob Werra:|(SEEDS)
+BX 330||||1||Calochortus amabilis|Bob says, "It's not too late to plant winter rainfall species."
+BX 330||||2||Dichelostemma ida-maia
+BX 330||||3||Fritillaria affinis| ex Ukiah, CA
+BX 330||||4||Fritillaria liliaceae
+BX 330||||5||Gladiolus huttonii
+BX 330||||6||Gladiolus priori
+BX 330||||7||Moraea ciliata|(CORMLETS)
+BX 330||||8||Moraea ciliate
+BX 330||||9||Moraea elegans
+BX 330||||10||Moraea graminicola| ex Eastern Cape, RSA
+BX 330||||11||Moraea pendula
+BX 330||||12||Moraea polyanthus
+BX 330||||13||Moraea polystachya
+BX 330||||14||Moraea vegeta
+BX 330||||15||Moraea vespertina
+BX 330||||16||Moraea villosa
+BX 330||||17||Rhodophiala| pink
+BX 330||||18||Rhodophiala| dark maroon
+BX 330||||19||Sandersonia aurantiaca
+BX 330||From Roland de Boer: (SEEDS)
+BX 330||||20||Crotolaria capensis
+BX 330||||21||Cyclamen hederifolium| mixed pink forms
+BX 330||||22||Galtonia viridiflora| tall form
+BX 330||||23||Kochia scoparia
+BX 330||||24||Leucocoryne purpurea
+BX 330||||25||Malcomia maritima
+BX 330||||26||Massonia echinata
+BX 330||||27||Massonia pustulata
+BX 330||||28||Paradisia lusitanicum
+BX 330||From Dee Foster: (SEEDS)
+BX 330||||29||Eucomis comosa| green/white
+BX 330||||30||Eucomis comosa| mixed colors, mostly pink
+BX 330||||31||Eucomis cv| dwarf purple flower, green foliage
+BX 330||||32||Gloriosa superba|(rotschildiana)
+BX 330||||33||Veltheimia bracteata| pink
+BX 330||||34||Mirabilis jalapa| "Four O'clocks", magenta
+BX 330||From Mary Sue Ittner:|(all OP)
+BX 330||||35|Seed of|Amaryllis belladonna|OP|winter growing
+BX 330||||36|Seed of|Cyrtanthus elatus x montanus| evergreen
+BX 330||||37|Bulblets of|Cyrtanthus elatus x montanus| evergreen
+BX 330||||38|Seed of|Eucomis bicolor| summer growing 
+BX 330||||39|Seed of|Nerine bowdenii|confused about when it should grow
+BX 330||||40|Seed of|Nerine sarninesis hybrid|(had red flowers)|winter growing
+BX 330||||41|Seed of|Nerine sarniensis hybrid|(seed from rescue bulb)|winter growing
+BX 330||||42|Seeds of|Polianthes geminiflora|summer growing

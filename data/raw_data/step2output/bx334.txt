@@ -1,0 +1,27 @@
+BX 334||From Mary Sue Ittner:
+BX 334||Seed:
+BX 334||||1|Gloriosa modesta|(Littonia modesta)|summer growing
+BX 334||||2|Tigridia vanhouttei||summer growing
+BX 334||Bulbs:
+BX 334||||3||Oxalis triangularis|evergreen if you keep watering it
+BX 334||||4||Oxalis sp. Mexico||summer growing
+BX 334||From Stephen Gregg
+BX 334||||5|Seeds of|Habranthus martinezii x H. robustus
+BX 334||From Jim Waddick and the Species Iris Group of North America:
+BX 334||(SEEDS)
+BX 334||||6||Moraea polystachya
+BX 334||||7||Iris tectorum|'Album'
+BX 334||||8||Iris tectorum, mixed
+BX 334||||9||Geissorhiza|"falcata" (???)
+BX 334||||10||Herbertia lahue
+BX 334||||11||Crocosmia|ex 'Lucifer'
+BX 334||||12||Calydorea amabilis
+BX 334||||13||Cypella coelestis|(syn Phalocallis coelestis)
+BX 334||||14||Dietes iridioides
+BX 334||||15||Romulea monticola
+BX 334||||16||Herbertia pulchella
+BX 334||||17||Dietes bicolor
+BX 334||||18||Freesia laxa, blue
+BX 334||||19||Watsonia|ex 'Frosty Morn'
+BX 334||||20||Crocosmia paniculata
+BX 334||||21||Gelasine elongata

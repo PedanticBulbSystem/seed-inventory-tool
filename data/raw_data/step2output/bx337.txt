@@ -1,0 +1,24 @@
+BX 337||Sun, 05 May 2013 12:53:05 PDT
+BX 337||From Stephen Putman:|SEEDS
+BX 337||||1||Hippeastrum striatum
+BX 337||From Arnold Trachtenberg:
+BX 337||SEEDS: 
+BX 337||||2||Narcissus cantabricus|clusii. Per TPL and IPNI, there is no listing for this. Per TPL, N. clusii is a synonym of N. cantabricus var. cantabricus.  Per IPNI, N. cantabricus and N. clusii are two separate species.
+BX 337||||3||Narcissus romieuxii
+BX 337||||4||Narcissus romieuxii|var mesatlanticus. Per TPL and IPNI, there is no listing for this. Also no listing under N. mesatlanticus.  PBS lists it as a synonym for N. romieuxii ssp. romieuxii var. romieuxii (also not a valid name per TPL & IPNI), but does not indicate where it is validly described.The Alpine Garden Society states, in part, ".or the dubiously distinct variety mesatlanticus.."|(http://alpinegardensociety.net/plants/#ii/12/)
+BX 337||||5||Narcissus cantabricus
+BX 337||||6||Narcissus romieuxii 'Julia Jane'
+BX 337||||7||Narcissus romieuxii 'Jessamy'
+BX 337||||8||Massonia pustulata
+BX 337||||9||Massonia pustulata| purple leaves
+BX 337||SMALL BULBS/CORMS:
+BX 337||||10||Freesia elimensis|(syn? F. caryophyllacea)
+BX 337||||11||Freesia fucata
+BX 337||||12||Lachenalia liliflora
+BX 337||||13||Leucocoryne purpurea
+BX 337||||14||Freesia sp.|?
+BX 337||||15||Arum| unidentified
+BX 337||||16||Ferraria uncinata
+BX 337||||17||Babiana rubrocyanea
+BX 337||From Antigoni Rentzeperis:
+BX 337||||18|Seed of|Massonia pustulata

@@ -1,0 +1,32 @@
+BX 333||SEEDS: 
+BX 333||From Stephen Gregg:
+BX 333||||1||Sprekelia cv, 'Orient Red'|repeat bloomer, prominent white stripe
+BX 333||From David Pilling:
+BX 333||||2||Fritillaria meleagris
+BX 333||||3.1||Lilium formosanum
+BX 333||||3.2||Lilium regale
+BX 333||||4||Zantedeschia aethiopica
+BX 333||From Dennis Kramb:
+BX 333||||5|Manfreda undulata|'Chocolate Chips'
+BX 333||||6||Sinningia speciosa
+BX 333||From Ina Crossley:
+BX 333||||7||Zephyranthes hidalgo x Z. grandiflora| could not be verified
+BX 333||||8||Zephyranthes 'Pink Beauty'
+BX 333||||9||Zephyranthes drummondii
+BX 333||||10||Zephyranthes dichromantha
+BX 333||||11||Zephyranthes flavissima
+BX 333||||12||Zephyranthes lindleyana
+BX 333||||13||Zephyranthes hidalgo 'John Fellers' | could not be verified
+BX 333||||14||Zephyranthes jonesii
+BX 333||||15||Zephyranthes fosteri
+BX 333||||16||Zephyranthes primulina
+BX 333||||17||Zephyranthes reginae
+BX 333||||18||Zephyranthes tenexico|apricot. could not be verified
+BX 333||||19||Zephyranthes verecunda rosea| could not be verified
+BX 333||From Dennis Kramb:|RHIZOMES/TUBERS
+BX 333||||20|Achimenes erecta 'Tiny Red'|RHIZOMES/TUBERS
+BX 333||||21||Achimenes 'Desiree'|RHIZOMES/TUBERS
+BX 333||||22||Gloxinella lindeniana|RHIZOMES/TUBERS
+BX 333||||23||Niphaea oblonga|RHIZOMES/TUBERS
+BX 333||||24||Sinningia eumorpha 'Saltao'|RHIZOMES/TUBERS
+BX 333||||25||Sinningia speciosa
