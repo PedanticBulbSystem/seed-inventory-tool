@@ -1,0 +1,32 @@
+BX 343||SEEDS
+BX 343||From Penny Sommerville:
+BX 343||||1| |    Cyrtanthus brachyscyphus
+BX 343||From Sophie Dixon:
+BX 343||||2| |     Albuca concordiana (from three different parents plants)
+BX 343||From Jerry Lehmann:
+BX 343||||3| |    Albuca shawii
+BX 343||From Rimmer de Vries:
+BX 343||||4| |    Scilla cilicica
+BX 343||||5| |    Cyclamen hederifolium
+BX 343||From Stephen Putman:
+BX 343||||6| |    Hippeastrum stylosum
+BX 343||From Leo Martin:
+BX 343||||7| |    Albuca sp; ? yellow and green
+BX 343||||8| |    Albuca clanwilliamae-gloria
+BX 343||From Monica Swartz:
+BX 343||||9| |    Lachenalia unicolor
+BX 343||||10| |Lachenalia namaquensis
+BX 343||||11| |Polyxena pygmaea
+BX 343||||12| |Lachenalia viridiflora
+BX 343||||13| |Lachenalia splendida
+BX 343||||14| |Lachenalia bachmanii
+BX 343||||15| |Lachenalia contaminata
+BX 343||||16| |Lachenalia orthopetala
+BX 343||||17| |Manfreda sileri
+BX 343||||18| |Ferraria crispa, dark
+BX 343||||19| |Zephyranthes minuta (syn Z. verecunda)
+BX 343||||20| |Habranthus magnoi
+BX 343||From Kathleen Sayce:
+BX 343||||21| |Erythronium revolutum , from seeds collected on Saddle Mountain, NW Oregon
+BX 343||From Larry Neel:
+BX 343||||22| |Lilium pardalinum ssp. pitkinense; Blooming/near blooming size bulbs.  These are a wetland species and are almost never without roots 

@@ -1,0 +1,32 @@
+First use of multi-space after item number. Errors?
+BULBS 
+From Nhu Nguyen:
+||1| |    Oxalis glabra
+||2| |    Oxalis cathara
+||3| |    Oxalis obtusa, MV 5005a
+From Monica Swartz:
+||4| |    Oxalis fabifolia
+||5| |    Oxalis massonorum;(not unequivocally verified.)
+||6| |    Oxalis imbricata
+||7| |    Oxalis polyphylla    var. heptaphylla;(not unequivocally verified.)
+||8| |    Oxalis flava  pectinaria;(not unequivocally verified.)
+||9| |    Oxalis namaquana
+From Mike Mace:
+||10| |Oxalis callosa
+||11| |Oxalis kaasvogdensis;(not unequivocally verified.)
+||12| |Oxalis luteola MV 5567
+||13| |Oxalis obtusa, pink (ex Siskiyou Rare Plants)
+||14| |Oxalis polyphylla var. heptaphylla;MV 6396 (not unequivocally verified.)
+||15| |Oxalis sp., MV 4621A
+||16| |Oxalis sp., MV 4674
+||17| |Oxalis sp., MV 4719D
+||18| |Oxalis sp., MV 4871
+||19| |Oxalis sp., MV 4960B
+||20| |Oxalis sp., MV 5117
+||21| |Oxalis sp., MV 5180
+||22| |Oxalis sp., MV 5532
+||23| |Oxalis sp., MV 5630A
+||24| |Oxalis sp., MV 5752
+||25| |Oxalis sp, probably O. hirta, pink
+||26| |Oxalis stenorhyncha
+

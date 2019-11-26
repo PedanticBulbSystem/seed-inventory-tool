@@ -1,0 +1,49 @@
+BX 341||From Nhu Nguyen:
+BX 341||KEY: S = summer growing, W = winter growing, OP = open pollinated, CP = control pollinated
+BX 341||SEEDS:
+BX 341||||1|Albuca spiralis|- [W, OP] this plant selfs and there were no other Albuca blooming at the same time.
+BX 341||||2||Albuca sp. Willowmore (pod) x Augrabies Hills (pollen) [W, CP] - tentatively identified as forms of Albuca polyphylla 
+BX 341||||3||Albuca sp. Willowmore (pollen) x Augrabies Hills (pod) [W, CP] - tentatively identified as forms of Albuca polyphylla 
+BX 341||||4||Babiana "longituba" [W, OP] 
+BX 341||||5|Gladiolus splendens|[W, OP] 
+BX 341||||6|Gladiolus quadrangularis|[W, OP] 
+BX 341||||7|Gladiolus alatus|[W, OP] 
+BX 341||||8|Geissorhiza radians|[W, OP] 
+BX 341||||9|Geissorhiza corrugata|[W, OP] 
+BX 341||||10|Geissorhiza aspera|[W, OP] 
+BX 341||||11|Sparaxis elegans|[W, OP] 
+BX 341||||12|Sparaxis tricolor|[W, OP] 
+BX 341||||13|Hesperantha bachmannii|[W, OP] no other Hesperantha were blooming at the same time 
+BX 341||||14|Massonia pustulata|NNBH905 [W, OP] originally from Paul Cumbleton, BX181, described as having very few pustules 
+BX 341||||15||Massonia aff. pustulata NNBH786 [W, OP] originally from Roy Herold, BX174 
+BX 341||||16|Lachenalia ensifolia|(syn Polyxena pygmaea) [W, OP] 
+BX 341||||17|Rauhia multiflora|[S, CP] 
+BX 341||||18|Calochortus umbellatus|[W, OP] 
+BX 341||||19|Triteleia lugens|[W, CP] 
+BX 341||||20|Delphinium nudicaule|[W, CP] these seeds should be pure
+BX 341||||21|Lewisia brachycalyx|[W, CP] 
+BX 341||||22|Fritillaria affinis|robust x normal form [W, CP] - we had a discussion about the robust form before that it may be a triploid. However, it crossed just fine with a regular form, from a different location, so I don't think it's a triploid. The seedlings should be an interesting mix of sizes and colors.
+BX 341||BULBS:
+BX 341||||23|Hippeastrum petiolatum|NNBH1306
+BX 341||||24|Hippeastrum petiolatum|NNBH1304
+BX 341||||25||Hippeastrum striatum
+BX 341||||26||Sparaxis elegans
+BX 341||||27||Sparaxis tricolor
+BX 341||From Stephen Gregg:
+BX 341||||28|Seed of|Pancratium maritimum
+BX 341||From Ray Talley:
+BX 341||||29|Seed of|Veltheimia bracteata, pink form, though about 10% turn out to be yellow; ex Cal State Fullerton
+BX 341||From Karl Church:
+BX 341||||30|Seed of|Hippeastrum 'Orange Sovereign', OP
+BX 341||||31|Seed of|Hippeastrum 'Minerva' , OP
+BX 341||From Jim Waddick:
+BX 341||||32|Seed of|Crinum bulbispermum, 'Jumbo'
+BX 341||||33|Seed of|Crinum macowanii
+BX 341||From Jim Shields:
+BX 341||||34|Seed of|Crinum bulbispermum
+BX 341||||35|Seed of|Hymenocallis guerreroensis (VERY FEW)
+BX 341||||36|Seed of|Hymenocallis franklinensis  (VERY FEW)
+BX 341||||37|Seed of|Haemanthus montanus (FEW)
+BX 341||||38|Seed of|Sprekelia howardii
+BX 341||||39|Seed of|Habranthus tubispathus cf texanus
+BX 341||||40|Seed of|Crinum bulbispermum

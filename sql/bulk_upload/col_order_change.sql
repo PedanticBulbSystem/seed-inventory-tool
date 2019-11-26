@@ -1,0 +1,1 @@
+"/Applications/pgAdmin 4.app/Contents/SharedSupport/psql" --command " "\\copy bx.bx_items (bx_id, category, donor, item, taxon, notes, photo_link, season) FROM '/Users/gastil/Documents/git/git_pbs/seed-inventory-tool/data/tabular_data/no_quotes_bx341thru350_pipe.csv' DELIMITER '|' CSV HEADER QUOTE '\"' NULL 'NA' ESCAPE '\"';""

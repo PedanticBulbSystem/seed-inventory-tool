@@ -10,9 +10,10 @@
 
 #for i in 326 327 328 329 340
 #for i in 330 331 332 333 334 335 336 337 338 339
-for i in 333 334 335 336 337 338 339
+#for i in 333 334 335 336 337 338 339
+for i in 341 342 343 344 345 346 347 348 349 350
 do
-  cat bx${i}.txt |\
+  cat archive_mined_input/bx${i}.txt |\
   #sed -E 's/^([1-9][0-9]*)\. /\1|/' > step1output/bx${i}.txt
   #sed -E 's/^([1-9][0-9]*)\. /||\1||/' > step1output/bx${i}.txt
 

@@ -1,0 +1,31 @@
+BX 344||First use of multi-space after item number. Errors?
+BX 344||BULBS 
+BX 344||From Nhu Nguyen:
+BX 344||||1| |    Oxalis glabra
+BX 344||||2| |    Oxalis cathara
+BX 344||||3| |    Oxalis obtusa, MV 5005a
+BX 344||From Monica Swartz:
+BX 344||||4| |    Oxalis fabifolia
+BX 344||||5| |    Oxalis massonorum;(not unequivocally verified.)
+BX 344||||6| |    Oxalis imbricata
+BX 344||||7| |    Oxalis polyphylla    var. heptaphylla;(not unequivocally verified.)
+BX 344||||8| |    Oxalis flava  pectinaria;(not unequivocally verified.)
+BX 344||||9| |    Oxalis namaquana
+BX 344||From Mike Mace:
+BX 344||||10| |Oxalis callosa
+BX 344||||11| |Oxalis kaasvogdensis;(not unequivocally verified.)
+BX 344||||12| |Oxalis luteola MV 5567
+BX 344||||13| |Oxalis obtusa, pink (ex Siskiyou Rare Plants)
+BX 344||||14| |Oxalis polyphylla var. heptaphylla;MV 6396 (not unequivocally verified.)
+BX 344||||15| |Oxalis sp., MV 4621A
+BX 344||||16| |Oxalis sp., MV 4674
+BX 344||||17| |Oxalis sp., MV 4719D
+BX 344||||18| |Oxalis sp., MV 4871
+BX 344||||19| |Oxalis sp., MV 4960B
+BX 344||||20| |Oxalis sp., MV 5117
+BX 344||||21| |Oxalis sp., MV 5180
+BX 344||||22| |Oxalis sp., MV 5532
+BX 344||||23| |Oxalis sp., MV 5630A
+BX 344||||24| |Oxalis sp., MV 5752
+BX 344||||25| |Oxalis sp, probably O. hirta, pink
+BX 344||||26| |Oxalis stenorhyncha

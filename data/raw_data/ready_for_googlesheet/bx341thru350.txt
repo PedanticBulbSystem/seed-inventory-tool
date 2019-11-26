@@ -1,0 +1,491 @@
+BX 341||From Nhu Nguyen:
+BX 341||KEY: S = summer growing, W = winter growing, OP = open pollinated, CP = control pollinated
+BX 341||SEEDS:
+BX 341||||1|Albuca spiralis|- [W, OP] this plant selfs and there were no other Albuca blooming at the same time.
+BX 341||||2||Albuca sp. Willowmore (pod) x Augrabies Hills (pollen) [W, CP] - tentatively identified as forms of Albuca polyphylla 
+BX 341||||3||Albuca sp. Willowmore (pollen) x Augrabies Hills (pod) [W, CP] - tentatively identified as forms of Albuca polyphylla 
+BX 341||||4||Babiana "longituba" [W, OP] 
+BX 341||||5|Gladiolus splendens|[W, OP] 
+BX 341||||6|Gladiolus quadrangularis|[W, OP] 
+BX 341||||7|Gladiolus alatus|[W, OP] 
+BX 341||||8|Geissorhiza radians|[W, OP] 
+BX 341||||9|Geissorhiza corrugata|[W, OP] 
+BX 341||||10|Geissorhiza aspera|[W, OP] 
+BX 341||||11|Sparaxis elegans|[W, OP] 
+BX 341||||12|Sparaxis tricolor|[W, OP] 
+BX 341||||13|Hesperantha bachmannii|[W, OP] no other Hesperantha were blooming at the same time 
+BX 341||||14|Massonia pustulata|NNBH905 [W, OP] originally from Paul Cumbleton, BX181, described as having very few pustules 
+BX 341||||15||Massonia aff. pustulata NNBH786 [W, OP] originally from Roy Herold, BX174 
+BX 341||||16|Lachenalia ensifolia|(syn Polyxena pygmaea) [W, OP] 
+BX 341||||17|Rauhia multiflora|[S, CP] 
+BX 341||||18|Calochortus umbellatus|[W, OP] 
+BX 341||||19|Triteleia lugens|[W, CP] 
+BX 341||||20|Delphinium nudicaule|[W, CP] these seeds should be pure
+BX 341||||21|Lewisia brachycalyx|[W, CP] 
+BX 341||||22|Fritillaria affinis|robust x normal form [W, CP] - we had a discussion about the robust form before that it may be a triploid. However, it crossed just fine with a regular form, from a different location, so I don't think it's a triploid. The seedlings should be an interesting mix of sizes and colors.
+BX 341||BULBS:
+BX 341||||23|Hippeastrum petiolatum|NNBH1306
+BX 341||||24|Hippeastrum petiolatum|NNBH1304
+BX 341||||25||Hippeastrum striatum
+BX 341||||26||Sparaxis elegans
+BX 341||||27||Sparaxis tricolor
+BX 341||From Stephen Gregg:
+BX 341||||28|Seed of|Pancratium maritimum
+BX 341||From Ray Talley:
+BX 341||||29|Seed of|Veltheimia bracteata, pink form, though about 10% turn out to be yellow; ex Cal State Fullerton
+BX 341||From Karl Church:
+BX 341||||30|Seed of|Hippeastrum 'Orange Sovereign', OP
+BX 341||||31|Seed of|Hippeastrum 'Minerva' , OP
+BX 341||From Jim Waddick:
+BX 341||||32|Seed of|Crinum bulbispermum, 'Jumbo'
+BX 341||||33|Seed of|Crinum macowanii
+BX 341||From Jim Shields:
+BX 341||||34|Seed of|Crinum bulbispermum
+BX 341||||35|Seed of|Hymenocallis guerreroensis (VERY FEW)
+BX 341||||36|Seed of|Hymenocallis franklinensis  (VERY FEW)
+BX 341||||37|Seed of|Haemanthus montanus (FEW)
+BX 341||||38|Seed of|Sprekelia howardii
+BX 341||||39|Seed of|Habranthus tubispathus cf texanus
+BX 341||||40|Seed of|Crinum bulbispermum
+BX 342||From Jay Yourch:
+BX 342||||1|||Small bulbs|Crinum 'Summer Nocturne'.  
+BX 342||||2|||Small bulbs|Crinum 'Birthday Party'
+BX 342||||3|||Small bulbsCrinum asiaticum|var pedunculatum
+BX 342||||4|Crinum bulbispermum|'Jumbo' seeds
+BX 342||From Rimmer de Vries:
+BX 342||||5|Bulbs of|Oxalis bowiei ex BX 251
+BX 342||From Kathleen Sayce:
+BX 342||||6|||Small bulbsAmaryllis belladonna|(three different cultivars)
+BX 342||From Monica Swartz:
+BX 342||||7|Cormlets of|Sparaxis parviflora
+BX 342||8.Small bulbs of Ornithogalum glandulosum
+BX 342||||9|Bulbs of|Oxalis convexula
+BX 342||||10|||Small bulbs|Nerine sarniensis
+BX 342||||11|||Small corms|Cyanella hyacinthoides
+BX 342||From Nhu Nguyen:
+BX 342||||12|Bulbs of|Ledebouria socialis, green form, 'Laxifolia'
+BX 342||||13|||bulbs|Ledebouria socialis, purple form
+BX 342||14, Bulbs of Tulbaghia simmleri, light pink form
+BX 342||||15|||Small bulbs|Narcissus 'Taffeta'
+BX 342||From Jim Shields:
+BX 342||||16|Bulbs of|Zephyranthes pulchella
+BX 342||From Penny Sommerville:
+BX 342||||17|Large corms|of Chasmanthe floribunda
+BX 342||From Terry Laskiewicz:
+BX 342||||18|||Small bulbsNarcissus romieuxi|'Julia Jane'
+BX 343||SEEDS
+BX 343||From Penny Sommerville:
+BX 343||||1| |    Cyrtanthus brachyscyphus
+BX 343||From Sophie Dixon:
+BX 343||||2| |     Albuca concordiana (from three different parents plants)
+BX 343||From Jerry Lehmann:
+BX 343||||3| |    Albuca shawii
+BX 343||From Rimmer de Vries:
+BX 343||||4| |    Scilla cilicica
+BX 343||||5| |    Cyclamen hederifolium
+BX 343||From Stephen Putman:
+BX 343||||6| |    Hippeastrum stylosum
+BX 343||From Leo Martin:
+BX 343||||7| |    Albuca sp; ? yellow and green
+BX 343||||8| |    Albuca clanwilliamae-gloria
+BX 343||From Monica Swartz:
+BX 343||||9| |    Lachenalia unicolor
+BX 343||||10| |Lachenalia namaquensis
+BX 343||||11| |Polyxena pygmaea
+BX 343||||12| |Lachenalia viridiflora
+BX 343||||13| |Lachenalia splendida
+BX 343||||14| |Lachenalia bachmanii
+BX 343||||15| |Lachenalia contaminata
+BX 343||||16| |Lachenalia orthopetala
+BX 343||||17| |Manfreda sileri
+BX 343||||18| |Ferraria crispa, dark
+BX 343||||19| |Zephyranthes minuta (syn Z. verecunda)
+BX 343||||20| |Habranthus magnoi
+BX 343||From Kathleen Sayce:
+BX 343||||21| |Erythronium revolutum , from seeds collected on Saddle Mountain, NW Oregon
+BX 343||From Larry Neel:
+BX 343||||22| |Lilium pardalinum ssp. pitkinense; Blooming/near blooming size bulbs.  These are a wetland species and are almost never without roots 
+BX 344||First use of multi-space after item number. Errors?
+BX 344||BULBS 
+BX 344||From Nhu Nguyen:
+BX 344||||1| |    Oxalis glabra
+BX 344||||2| |    Oxalis cathara
+BX 344||||3| |    Oxalis obtusa, MV 5005a
+BX 344||From Monica Swartz:
+BX 344||||4| |    Oxalis fabifolia
+BX 344||||5| |    Oxalis massonorum;(not unequivocally verified.)
+BX 344||||6| |    Oxalis imbricata
+BX 344||||7| |    Oxalis polyphylla    var. heptaphylla;(not unequivocally verified.)
+BX 344||||8| |    Oxalis flava  pectinaria;(not unequivocally verified.)
+BX 344||||9| |    Oxalis namaquana
+BX 344||From Mike Mace:
+BX 344||||10| |Oxalis callosa
+BX 344||||11| |Oxalis kaasvogdensis;(not unequivocally verified.)
+BX 344||||12| |Oxalis luteola MV 5567
+BX 344||||13| |Oxalis obtusa, pink (ex Siskiyou Rare Plants)
+BX 344||||14| |Oxalis polyphylla var. heptaphylla;MV 6396 (not unequivocally verified.)
+BX 344||||15| |Oxalis sp., MV 4621A
+BX 344||||16| |Oxalis sp., MV 4674
+BX 344||||17| |Oxalis sp., MV 4719D
+BX 344||||18| |Oxalis sp., MV 4871
+BX 344||||19| |Oxalis sp., MV 4960B
+BX 344||||20| |Oxalis sp., MV 5117
+BX 344||||21| |Oxalis sp., MV 5180
+BX 344||||22| |Oxalis sp., MV 5532
+BX 344||||23| |Oxalis sp., MV 5630A
+BX 344||||24| |Oxalis sp., MV 5752
+BX 344||||25| |Oxalis sp, probably O. hirta, pink
+BX 344||||26| |Oxalis stenorhyncha
+BX 345||From Jim Shields:
+BX 345||||1|Seeds of|Haemanthus humilis subsp. humilis
+BX 345||||2|||Small bulbs|Hippeastrum aglaiae, cream form, (Doran clone A x Doran clone C) (few)
+BX 345||||3|Seed of|Zephyranthes longifolia (syn Habranthus longifolius)
+BX 345||||4|Seed of|Nerine krigei, mixed pink and red
+BX 345||||5|Seeds of|Hymenocallis glauca (few)
+BX 345||||6|Seeds of|Hymenocallis howardii (few)
+BX 345||From Dave Boucher:
+BX 345||||7|Seed of|Hymenocallis glauca (few)
+BX 345||From Jim Waddick and Jim Murrain:
+BX 345||||8|Seed of|Dracunculus vulgaris, mixed
+BX 345||From Bob Hoel:
+BX 345||||9|Near Blooming|size bulbs of Hippeastrum papilio à SPECIAL PRICE: $7 EACH. Order multiples if you want them.
+BX 345||From Monica Swartz:
+BX 345||BULBS:
+BX 345||||7||Ferraria crispa, "Form A"
+BX 345||||8||Ferraria crispa, dark form
+BX 345||||9||Ferraria schaeferi
+BX 345||||10||Moraea polystachya
+BX 345||From Mary Sue Ittner:
+BX 345||||11|Bulbs of|Hyacinthoides lingulata - summer dormant, fall blooming, starting to form new roots
+BX 345||||12|Bulbs of|Nothoscordum sp. (from Harry Hay seed labeled Nothoscordum ostenii, but with white flowers).|http://www.pacificbulbsociety.org/pbswiki/index.php/Nothoscordum#sp
+BX 345||From Nhu Nguyen:
+BX 345||BULBS:
+BX 345||||15||Allium amplectens
+BX 345||||16|Allium campanulatum|- Southern Sierra Nevada form
+BX 345||||17|Allium unifolium|- nice and typically robust, good in the ground
+BX 345||||18|Babiana nana|- grown from Silverhill seeds
+BX 345||||19||Brodiaea elegans
+BX 345||||20||Brodiaea minor
+BX 345||||21||Brodiaea pallida
+BX 345||||22||Calochortus luteus
+BX 345||||23||Calochortus uniflorus
+BX 345||||24||Calochortus vestae
+BX 345||||25||Dichelostemma multiflorum
+BX 345||||26||Ferraria crispa
+BX 345||||27||Gladiolus liliaceus
+BX 345||||28||Gladiolus trichonemifolius
+BX 345||||29||Gladiolus tristis
+BX 345||||30||Lachenalia purpureo-caerulea
+BX 345||||31||Lachenalia unifolia
+BX 345||||32||Moraea tripetala
+BX 345||||33|Romulea tortuosa|- non curly leaf form
+BX 345||||34||Scilla ramburei
+BX 345||From Larry Neel:
+BX 345||||35|Bulbs of|Erythronium `Pagoda'
+BX 345||From Mike Mace:
+BX 345||BULBS:
+BX 345||||36||Lachenalia arbuthnotiae
+BX 345||||37||Lachenalia mutabilis
+BX 345||||38||Lachenalia rosea
+BX 345||||39|Lachenalia species|(probably L. arbuthnotiae)
+BX 345||||40|Lachenalia viridiflora|(unspotted leaves)
+BX 346||From Kipp McMichael:
+BX 346||||1|Seeds of|Brunsvigia josephiniae
+BX 346||||2|Seeds of|Boophone sp?, seeds from Australia
+BX 346||From Gastil:
+BX 346||||3|Corms of|Gladiolus italicus, mixed sizes
+BX 346||||4|Corms of|Moraea bellendenii ?
+BX 346||From Colin Davis:
+BX 346||||5|Offset bulblets|of Lachenalia sargeantii
+BX 346||From Jim Shields:
+BX 346||||6|Good sized|bulbs of Haemanthus coccineus x H. albiflos  (few)
+BX 346||||7|Good sized|bulbs of Haemanthus coccineus ex Bokkeveld Escarpment (few)
+BX 346||||8|Various sized|bulbs of Haemanthus barkerae (few)
+BX 346||From Arnold Trachtenberg:
+BX 346||||9|Bulblets of|Lachenalia mutabilis
+BX 346||||10|Bulblets of|Lachenalia juncifolia
+BX 346||||11|||Small corms|Ferraria divaricata
+BX 346||From Mary Sue Ittner:
+BX 346||||12|Corms of|Ferraria densipunctulata
+BX 346||From Roy Herold:
+BX 346||BULBS
+BX 346||||13||Ambrosina bassii--Small offsets
+BX 346||||14|Drimia sp|(formerly Rhadamanthus)--ex Tom Glavich, BX214-19. This is indeed quite different from D. platyphylla, although the leaves are similar. The bulbs are two to three times the size of platyphylla, it emerges a month sooner (in full leaf now), and it has the curious habit of forming little bulbils at the soil surface at the top of the bulb neck. It has yet to bloom for me. Only a few.
+BX 346||||15||Drimia sp. Calitzdorp--ex Gariep Nursery. Similar to platyphylla, but the jury is out on a positive ID. Only a few.
+BX 346||||16||Cyrtanthus brachyscyphus
+BX 346||||17|Cyrtanthus hybrid|#1 ex Logee's. Big, soft orange trumpets. Evergreen.
+BX 346||||18|Cyrtanthus hybrid|#2 ex Logee's. Smaller medium orange trumpets fading to pink. Evergreen.
+BX 346||From Larry Neel:
+BX 346||SEEDS
+BX 346||||19||Fritillaria bucharica
+BX 346||||20||Fritillaria stenanthera
+BX 346||||21||Fritillaria yuminensis, pink
+BX 346||||22||Trillium albidum, plain-leafed, high elevation form
+BX 346||||23||Trillium angustipetalum
+BX 346||||24||Trillium angustipetalum, large form
+BX 346||||25||Trillium chloropetalum, rose
+BX 346||||26||Trillium chloropetalum, rose and white
+BX 346||||27||Trillium chloropetalum, plum and white
+BX 346||||28||Trillium kurabayashii
+BX 346||||29||Trillium kurabayashii,  late, high-elevation form
+BX 346||||30||Trillium kurabaysahii, yellow
+BX 346||||31||Trillium ovatum
+BX 346||From Dennis Kramb:
+BX 346||||32|Seeds of|Sinningia cardinalis, red
+BX 346||From Chris Elwell:
+BX 346||SEEDS
+BX 346||||33|Calochortus palmeri|var munzii
+BX 346||||34|Calochortus luteus|(OP)
+BX 346||||35|Calochortus venustus|var. sanguineus (syn C. venustus)
+BX 346||||36||Calochortus venustus, burgundy
+BX 346||From Jonathan Lubar:
+BX 346||SEEDS:
+BX 346||||37||Aristea ecklonii
+BX 346||||38||Calydorea amabilis
+BX 346||||39|Lilium formosanum|var formosanum (syn L.f. var pricei), ex wild-collected seed from Taiwan, 3 - 3.5 ft tall
+BX 347||From Monica Swartz:
+BX 347||||1|Seeds of|Lachenalia liliiflora
+BX 347||From Mike Mace:
+BX 347||||2|Seeds of|Romulea tetragona
+BX 347||||3|Seeds of|Moraea vespertina
+BX 347||From Mary Sue Ittner:
+BX 347||SEEDS:
+BX 347||||4||Cyclamen pseudibericum
+BX 347||||5||Pelargonium incrassatum
+BX 347||||6||Phaedranassa cinerea
+BX 347||||7||Nothoscordum sp. from Harry Hay as N. ostenii
+BX 347||||8||Geissorhiza imbricata
+BX 347||||9|Freesia leichtlinii|ssp. alba
+BX 347||||10||Veltheimia bracteata
+BX 347||||11||Cyclamen repandum
+BX 347||||12||Allium hyalinum
+BX 347||||13|Leucocoryne vittata|hybrid
+BX 347||From Gastil:
+BX 347||||14|Seeds of|Gladiolus italicus
+BX 347||||15|Seeds of|Aristea capitata
+BX 347||From Chris Elwell (I think)
+BX 347||||16|Seeds of|Albuca spiralis
+BX 347||||17|Seeds of|Lachenalia hirta
+BX 347||From Dave Boucher:
+BX 347||SEEDS:
+BX 347||||18||Pamianthe peruviana
+BX 347||||19|Lilium longiflorum|ex Okinawa
+BX 347||||20||Scilla haemorrhoidalis
+BX 347||||21||Herbertia lahue
+BX 347||From Jerry Lehmann:
+BX 347||||22|Seeds of|Albuca shawii
+BX 347||||23|Seeds of|Ornithogalum viridiflorum
+BX 347||From Karl Church:
+BX 347||||24|Seeds of|Ornithogalum fimbrimarginatum HRG 118287, ISI 2013-27, S. Hammer and C. Barnhill. Tall inflorescense with white, narcissus-like flowers, open pollinated
+BX 347||From Kathleen Sayce:
+BX 347||SEEDS:
+BX 347||||25||Lilium columbianum, "Columbia lily" ex hort. Parent seeds from Saddle Mtn, NW Oregon, orange flowers May-June, open pollinated
+BX 347||||26||Leucojum aestivum
+BX 347||||27||Fritillaria affinis
+BX 347||||28||Tulipa turkestanica
+BX 347||||29||Tulipa greigii
+BX 347||||30||Tulipa clusiana
+BX 347||From Marvin Ellenbecker:
+BX 347||||31|Seeds of|Freesia laxa, mostly red
+BX 347||||32|Seeds of|Louisiana iris, light blue
+BX 347||||33|Seeds of|Sisyrinchium bellum, "blue-eyed grass"
+BX 347||From Roy Herold:
+BX 347||SEEDS:
+BX 347||||34||Paeonia obovata, white
+BX 347||||35||Medeola virginiana, wc  Carlisle, MA
+BX 347||||36||Arisaema triphyllum, population 1, wc Carlisle, MA
+BX 347||||37||Arisaema triphyllum, population 2, wc Carlisle, MA
+BX 347||||38|Arisaema triphyllum|ssp. stewardsonii, wc Carlisle, MA
+BX 347||||39||Arisaema flavum
+BX 347||||40||Sinopodophyllum hexandrum
+BX 347||||41||Smilacina (Maianthemum?)racemosa 'Aaron's Variegated'
+BX 348||From Jerry Lehmann:
+BX 348||||1|Typhonium venosum|(Sauromatum) Small tubers already sprouting - plant immediately. Zone 5 winter hardy in sheltered location (although after 10+ yrs, it's never flowered: some springs it emerges late.)
+BX 348||From Ernie De Marie:
+BX 348||BULBS:
+BX 348||||2|Oxalis conorrhiza|(syn. O. andicola), ex Chile Flora
+BX 348||||3||Oxalis caprina
+BX 348||||4||Oxalis compressa, ex BX 218
+BX 348||||5||Oxalis bifurca
+BX 348||||6||Oxalis dichotoma
+BX 348||||7||Oxalis fabifolia, ex BX 218
+BX 348||||8||Oxalis hirta
+BX 348||||9||Oxalis luteola, MV 5090
+BX 348||||10||Oxalis obtusa, no label
+BX 348||||11||Oxalis obtusa, two forms?
+BX 348||||12||Oxalis obtusa, no data
+BX 348||||13||Oxalis "polyphylla var. heptaphylla"
+BX 348||||14||Oxalis simplex
+BX 348||||15||Oxalis, no label, probably O. stenorhynca
+BX 348||||16||Oxalis sp., MV 7088
+BX 348||From Mary Sue Ittner:
+BX 348||BULBS: (all winter growing)
+BX 348||||17|Calochortus vestae|bulblets
+BX 348||||18|Oxalis compressa|double
+BX 348||||19|Oxalis obtusa|coral
+BX 348||||20||Lachenalia (Polyxena) longituba
+BX 348||||21||Spiloxene capensis
+BX 348||From Arnold Trachtenberg:
+BX 348||BULBS:
+BX 348||||22|Narcissus bulbocodium|subsp. praecox (paucinervis?)
+BX 348||||23||Narcissus "albidus folius"
+BX 348||||24|Narcissus bulbocodium|ex Morocco
+BX 348||||25|Narcissus bulbocodium|"var. genuinus"
+BX 348||||26|Narcissus cantabricus|'Silver Palace'
+BX 348||||27|Narcissus jonquilla|subsp. cordubensis
+BX 348||||28||Narcissus 'Firelight Gold'
+BX 348||||29|Narcissus cantabricus|'Peppermint'
+BX 348||||30|Narcissus bulbocodium|subsp. praecox
+BX 348||||31|Narcissus romieuxii|'Julia Jane'
+BX 348||||32|Narcissus romieuxii|"var. mesatlanticus"
+BX 348||||33|Narcussus romieuxii|x N. cantabricus
+BX 348||From Tony Avent:
+BX 348||SEED:
+BX 348||||34|Crinum macowanii|ex Zambia
+BX 348||||35|Crinum macowanii|ex Malawi
+BX 348||||36|Crinum bulbispermum|ex 'Jumbo Champagne'
+BX 348||||37|Crinum bulbispermum|ex Orange River form
+BX 348||||38|Crinum bulbispermum|ex 'Wow'
+BX 348||||39||Crinum [(forbesii x macowanii) x (macowanii x acaule)]
+BX 348||||40||Ammocharis coranica
+BX 349||From Nhu Nguyen:
+BX 349||Seeds:
+BX 349||||1||Albuca albucoides
+BX 349||||2||Albuca namaquensis
+BX 349||||3||Allium dichlamydeum
+BX 349||||4||Allium unifolium
+BX 349||||5|Alstroemeria ligtu|subsp. simsii; a lovely orange form of the subspecies. Seeds self pollinated from the same plant shown on the wiki.|http://pacificbulbsociety.org/pbswiki/index.php/Alstroemeria#ligtu
+BX 349||||6||Brodiaea coronaria
+BX 349||||7|Brodiaea elegans|- a wonderful and rewarding species. It&apos;s also easy to grow, although very prone to virus infections.
+BX 349||||8||Bulbine aff. diphylla
+BX 349||||9||Calochortus luteus
+BX 349||||10||Calochortus vestae
+BX 349||||11||Chlorogalum pomeridianum
+BX 349||||12||Cyclamen africanum
+BX 349||||13||Dichelostemma multiflorum
+BX 349||||14||Drimia platyphylla
+BX 349||||15||Erythronium pusaterii
+BX 349||||16||Iris douglasiana- wild collected from Marin County, California. These seeds should produce progeny with a a wide variety of colors from bright purple to lilac and almost white.
+BX 349||||17|Ixia viridiflora|var. minor
+BX 349||||18||Lachenalia mathewsii
+BX 349||||19||Lachenalia viridiflora
+BX 349||||20||Massonia sp., NNBH385, open pollinated
+BX 349||||21||Lachenalia (Polyxena) sp., NNBH1779
+BX 349||||22||Triteleia hyacinthina
+BX 349||||23||Triteleia laxa, mixed forms
+BX 349||||24||Triteleia laxa, Tilden form
+BX 349||||25||Tulbaghia dregeana
+BX 349||||26|Tulbaghia simmleri|(fragrans), purple form
+BX 349||||27|Umbilicus rupestris|- this is a really nice species, but be warned, the plants produce copious seeds and can run amok in succulent collections. Not recommended for countries/areas where invasive plants 
+BX 349||||28||Xeronema callistemon
+BX 349||||29||Zephyranthes sp., Guatamala City, white
+BX 349||||30||Zephyranthes sp., NNBH1050
+BX 349||From Leo Martin:
+BX 349||||31|Seeds of|Amoreuxia gonzalezii
+BX 349||From Jane McGary:
+BX 349||SEEDS:
+BX 349||||32||Allium peninsulare, Ratko coll., rare CA sp.
+BX 349||||33||Allium praecox, Ratko coll. from CA
+BX 349||||34|Allium scorzonerifolium|"subsp. xericense", bright yellow
+BX 349||||35||Alstroemeria hookeri, small, low species
+BX 349||||36||Calochortus argillosus, southern form, white
+BX 349||||37|Calochortus clavatus|var. gracilis
+BX 349||||38||Calochortus longebarbatus, interior NW species
+BX 349||||39||Calochortus monophyllus, short, early yellow
+BX 349||||40||Calochortus obispoensis, rare endemic, curious
+BX 349||||41||Calochortus plummerae, late-blooming, rare in cult.
+BX 349||||42||Calochortus venustus, red forms from 2 populations
+BX 349||||43||Calochortus venustus, pretty pink forms
+BX 349||||44|Camassia quamash|subsp. maxima, very large form sometimes called `Puget Blue'
+BX 349||||45||Colchicum sp. SBL 412, fairly small sp.
+BX 349||||46||Crocus oreocreticus, autumnal
+BX 349||||47||Cyclamen graecum, from Greek collections
+BX 349||||48||Fritillaria sewerzowi, Central Asian, give plenty of room
+BX 349||||49||Narcissus obvallaris, "Tenby daffodil" of Britain
+BX 349||||50||Sisyrinchium macrocarpum, little plant with big yellow/brown fls
+BX 349||||51||Triteleia ixioides, coll. Salinas Co., CA
+BX 349||||52|Triteleia laxa|"giant form" from Mariposa Co. CA
+BX 349||||53||Triteleia peduncularis, striking inflorescence
+BX 349||||54||Tropaeolum tricolor, hardy strain
+BX 349||||55||Tulipa sprengeri
+BX 350||Dylan Hannon has donated a batch of seeds that have been in cold dry storage for a considerable amount of time. Our hope is that those of you who receive these seeds will keep a record of germination rates and share it with the rest of us via the list. Our hunch is that, when some kinds of seeds are properly stored, they may retain viability for much longer than common wisdom dictates. Most of these seeds come with provenance information and the date of collection. ONE packet which contains a generous number of seeds is available of each taxon. $2 per pkt.
+BX 350||From Dylan Hannon:
+BX 350||||1||Ornithogalum muitifolium, ex Nieuwoudtville, 2006
+BX 350||||2||Bessera elegans, purple, 2006
+BX 350||||3||Cyclamen rohlfsianum, selfed, 2003
+BX 350||||4|Daubenya alba|ex Sutherland, Bu Visririer, 2007
+BX 350||||5||Daubenya stylosa, 2004
+BX 350||6, Dipcadi serotinum, ex Portugal:  Quinta do Lago, 2006
+BX 350||||7||Drimia anomala, ex Grahamstown, 2004
+BX 350||||8|Gladiolus equitans|ex Kamieskroon, 2004
+BX 350||||9||Hyacinthoides vincentina, ex Portugal:  Cabo San Vicente, 2006
+BX 350||||10|Iris planifolia|ex Portugal:  west of Loule, 2011
+BX 350||||11||Lapeirousia oreogena, ex Nieuwoudtville, 2006
+BX 350||||12|Lapeirousia plicata|ex Calvinia, Lavranos 30401, 2001
+BX 350||||13||Leucocoryne vittata, 2006
+BX 350||||14||Massonia depressa, ex N of Steinkopf, 2006
+BX 350||||15||Massonia echinata, ex Nieuwoudtville, 2007
+BX 350||||16||Moraea ciliata, ex Sutherland, Lavranos 30469, 2008
+BX 350||||17||Muilla maritima, dwarf form, ex Baja CA, road to La  Zorra, 2003
+BX 350||||18||Ornithogalum polyphyllum, ex Kamieskroon, 2006
+BX 350||||19||Ornithogalum reverchonii, ex Spain:  Grazalema, 2006
+BX 350||The remaining items in this BX offering are available under the usual conditions. 
+BX 350||From Kipp Mc Michael:
+BX 350||||20|Seed of|Brunsvigia litoralis
+BX 350||From Ellen Watrous:
+BX 350||||21|Seed of|Calochortus ambiguus, wild-collected in Yavapai County, Arizona
+BX 350||||22|Seed of|Calochortus kennedyi, wild-collected in Yavapai County, Arizona, mixed collection of orange and yellow pod parents.
+BX 350||||23|Seed of|Calochortus nuttallii, wild-collected in Utah
+BX 350||From Dee Foster:
+BX 350||||24|Seed of|Eucomis comosa, various colors
+BX 350||||25|Seed of|Freesia viridis, open-pollinated
+BX 350||||26|Seed of|Veltheimia  bracteata, pink
+BX 350||From Angelo Porcelli:
+BX 350||||27|Seeds of|Allium cyrilli
+BX 350||||28|Seed of|Allium nigrum
+BX 350||||29|Seed of|Asphodelus (Asphodeline?) liburnicus
+BX 350||||30|Seed of|Narcissus broussonetii
+BX 350||||31|Seed of|Narcissus bertolonii (N. tazetta subsp. aureus?)
+BX 350||||32|Seed of|Pancratium illyricum
+BX 350||||33|Seed of|Sprekelia formosissima 'Orient Red'  " x superba"
+BX 350||From Mike Mace:
+BX 350||SEEDS:
+BX 350||||34||Allium dichlamydeum
+BX 350||||35|Allium unifolium|(few seeds)
+BX 350||||36||Babiana rubrocyanea
+BX 350||||37||Bloomeria crocea
+BX 350||||38|Calochortus amabilis|(few seeds)
+BX 350||||39||Calochortus argillosus
+BX 350||||40|Calochortus luteus|- striations but no spot
+BX 350||||41|Calochortus uniflorus|(few seeds)
+BX 350||||42||Calochortus weedii
+BX 350||||43|Ferraria crispa|maroon/olive
+BX 350||||44|Ferraria crispa|subsp. nortieri
+BX 350||||45|Ferraria undulata|(F. crispa subsp crispa?), olive/brown
+BX 350||||46||Geissorhiza aspera
+BX 350||||47||Geissorhiza monanthos
+BX 350||||48||Gladiolus trichonemifolius
+BX 350||||49||Gladiolus violaceolineatus
+BX 350||||50||Moraea aristata
+BX 350||||51||Moraea bellendenii
+BX 350||||52|Moraea elegans|orange/green/yellow
+BX 350||||53|Moraea elegans|yellow/green
+BX 350||||54|Moraea fugax|yellow
+BX 350||||55||Moraea loubseri
+BX 350||||56|Moraea lurida|(pale yellow/maroon)
+BX 350||||57||Moraea macrocarpa
+BX 350||||58||Moraea polyanthos
+BX 350||||59||Moraea tripetala
+BX 350||||60|Moraea tulbaghensis|(tulbaghensis form, with dark orange tepals/dark gray eye)
+BX 350||||61|Moraea villosa|form A
+BX 350||||62|Moraea villosa|form B
+BX 350||||63|Moraea villosa|mixed colors
+BX 350||||64|Onixotis triquetra|(Wurmbea stricta?)
+BX 350||||65|Romulea camerooniana|pink
+BX 350||||66|Romulea camerooniana|white
+BX 350||||67||Romulea eximia
+BX 350||||68||Romulea tabularis
+BX 350||||69||Sprarxis metelerkampiae
+BX 350||From Dylan Hannon, too:
+BX 350||||70||Alstromeria sp?, magenta, 2013
+BX 350||||71|Albuca concordiana|(Ornithogalum), 2013

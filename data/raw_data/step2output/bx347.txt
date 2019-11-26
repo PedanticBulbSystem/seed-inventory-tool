@@ -1,0 +1,56 @@
+BX 347||From Monica Swartz:
+BX 347||||1|Seeds of|Lachenalia liliiflora
+BX 347||From Mike Mace:
+BX 347||||2|Seeds of|Romulea tetragona
+BX 347||||3|Seeds of|Moraea vespertina
+BX 347||From Mary Sue Ittner:
+BX 347||SEEDS:
+BX 347||||4||Cyclamen pseudibericum
+BX 347||||5||Pelargonium incrassatum
+BX 347||||6||Phaedranassa cinerea
+BX 347||||7||Nothoscordum sp. from Harry Hay as N. ostenii
+BX 347||||8||Geissorhiza imbricata
+BX 347||||9|Freesia leichtlinii|ssp. alba
+BX 347||||10||Veltheimia bracteata
+BX 347||||11||Cyclamen repandum
+BX 347||||12||Allium hyalinum
+BX 347||||13|Leucocoryne vittata|hybrid
+BX 347||From Gastil:
+BX 347||||14|Seeds of|Gladiolus italicus
+BX 347||||15|Seeds of|Aristea capitata
+BX 347||From Chris Elwell (I think)
+BX 347||||16|Seeds of|Albuca spiralis
+BX 347||||17|Seeds of|Lachenalia hirta
+BX 347||From Dave Boucher:
+BX 347||SEEDS:
+BX 347||||18||Pamianthe peruviana
+BX 347||||19|Lilium longiflorum|ex Okinawa
+BX 347||||20||Scilla haemorrhoidalis
+BX 347||||21||Herbertia lahue
+BX 347||From Jerry Lehmann:
+BX 347||||22|Seeds of|Albuca shawii
+BX 347||||23|Seeds of|Ornithogalum viridiflorum
+BX 347||From Karl Church:
+BX 347||||24|Seeds of|Ornithogalum fimbrimarginatum HRG 118287, ISI 2013-27, S. Hammer and C. Barnhill. Tall inflorescense with white, narcissus-like flowers, open pollinated
+BX 347||From Kathleen Sayce:
+BX 347||SEEDS:
+BX 347||||25||Lilium columbianum, "Columbia lily" ex hort. Parent seeds from Saddle Mtn, NW Oregon, orange flowers May-June, open pollinated
+BX 347||||26||Leucojum aestivum
+BX 347||||27||Fritillaria affinis
+BX 347||||28||Tulipa turkestanica
+BX 347||||29||Tulipa greigii
+BX 347||||30||Tulipa clusiana
+BX 347||From Marvin Ellenbecker:
+BX 347||||31|Seeds of|Freesia laxa, mostly red
+BX 347||||32|Seeds of|Louisiana iris, light blue
+BX 347||||33|Seeds of|Sisyrinchium bellum, "blue-eyed grass"
+BX 347||From Roy Herold:
+BX 347||SEEDS:
+BX 347||||34||Paeonia obovata, white
+BX 347||||35||Medeola virginiana, wc  Carlisle, MA
+BX 347||||36||Arisaema triphyllum, population 1, wc Carlisle, MA
+BX 347||||37||Arisaema triphyllum, population 2, wc Carlisle, MA
+BX 347||||38|Arisaema triphyllum|ssp. stewardsonii, wc Carlisle, MA
+BX 347||||39||Arisaema flavum
+BX 347||||40||Sinopodophyllum hexandrum
+BX 347||||41||Smilacina (Maianthemum?)racemosa 'Aaron's Variegated'
