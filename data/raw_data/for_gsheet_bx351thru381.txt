@@ -251,8 +251,8 @@ From Cynthia Mueller:
 From Rimmer de Vries:
 ------------------------------- 
 (SEEDS)
-27. Lilium regale `Alba'
-|BX 353|27|SEEDS|Rimmer de Vries|NA|Lilium regale|`Alba'|NA|NA
+27. Lilium regale 'Alba'
+|BX 353|27|SEEDS|Rimmer de Vries|NA|Lilium regale|'Alba'|NA|NA
 28. Allium senescens subsp. montanum
 |BX 353|28|SEEDS|Rimmer de Vries|NA|Allium senescens|subsp. montanum|NA|NA
 29. Iris delavayi
@@ -607,10 +607,10 @@ From Tim Eck (SEEDS):
 |BX 360|9|SEEDS|Tim Eck|NA|Hippeastrum |(neopardinum x papilio ) x (cybister x papilio); Excellent!|NA|NA
 10. Hippeastrum 'Ludwig Goliath' x 'Red Pearl'; Both > 8 inch dia. flowers
 |BX 360|10|SEEDS|Tim Eck|NA|Hippeastrum |'Ludwig Goliath' x 'Red Pearl'; Both > 8 inch dia. flowers|NA|NA
-11. Hippeastrum (papilio x mandonii) x `Jade Dragon'
-|BX 360|11|SEEDS|Tim Eck|NA|Hippeastrum |(papilio x mandonii) x `Jade Dragon'|NA|NA
-12. Hippeastrum papilio x `Purple Rain'
-|BX 360|12|SEEDS|Tim Eck|NA|Hippeastrum papilio|x `Purple Rain'|NA|NA
+11. Hippeastrum (papilio x mandonii) x 'Jade Dragon'
+|BX 360|11|SEEDS|Tim Eck|NA|Hippeastrum |(papilio x mandonii) x 'Jade Dragon'|NA|NA
+12. Hippeastrum papilio x 'Purple Rain'
+|BX 360|12|SEEDS|Tim Eck|NA|Hippeastrum papilio|x 'Purple Rain'|NA|NA
 13. Hippeastrum 'Lima' x 'Grandeur'
 |BX 360|13|SEEDS|Tim Eck|NA|Hippeastrum |'Lima' x 'Grandeur'|NA|NA
 14. Hippeastrum 'Jade Dragon'x (papilio x neopardinum); Excellent!
@@ -1033,16 +1033,16 @@ From Jim Waddick:
 |BX 367|22|BULBS|Jim Waddick|NA|Ledebouria socials|cv 'violacea'. Received years ago under this name, but now known as simply L. socialis. Easy succulent bulb. Plant bulbs with base barely below soil level. Tender in Kansas City . Zone 8? 9?10?|NA|NA
 From John Wickham:
 ------------------------------- 
-23. Babiana `Blue Gem'
-|BX 367|23|BULBS|John Wickham|NA|Babiana |`Blue Gem'|NA|NA
-24. Babiana `Brilliant Blue'
-|BX 367|24|BULBS|John Wickham|NA|Babiana |`Brilliant Blue'|NA|NA
-25. Babiana `Deep Dreams'
-|BX 367|25|BULBS|John Wickham|NA|Babiana |`Deep Dreams'|NA|NA
-26. Babiana `Mighty Magenta'
-|BX 367|26|BULBS|John Wickham|NA|Babiana |`Mighty Magenta'|NA|NA
-27. Babiana `Purple Haze'
-|BX 367|27|BULBS|John Wickham|NA|Babiana |`Purple Haze'|NA|NA
+23. Babiana 'Blue Gem'
+|BX 367|23|BULBS|John Wickham|NA|Babiana |'Blue Gem'|NA|NA
+24. Babiana 'Brilliant Blue'
+|BX 367|24|BULBS|John Wickham|NA|Babiana |'Brilliant Blue'|NA|NA
+25. Babiana 'Deep Dreams'
+|BX 367|25|BULBS|John Wickham|NA|Babiana |'Deep Dreams'|NA|NA
+26. Babiana 'Mighty Magenta'
+|BX 367|26|BULBS|John Wickham|NA|Babiana |'Mighty Magenta'|NA|NA
+27. Babiana 'Purple Haze'
+|BX 367|27|BULBS|John Wickham|NA|Babiana |'Purple Haze'|NA|NA
 28. Babiana rubrocyanea
 |BX 367|28|BULBS|John Wickham|NA|Babiana rubrocyanea||NA|NA
 29. Babiana stricta
@@ -1085,10 +1085,10 @@ From John Wickham:
 |BX 368|15|BULBS|John Wickham|NA|Oxalis flava|yellow|NA|NA
 16. Narcissus 'Polly's Tazettas'
 |BX 368|16|BULBS|John Wickham|NA|Narcissus |'Polly's Tazettas'|NA|NA
-17. Tritonia `Rosy Picture'
-|BX 368|17|BULBS|John Wickham|NA|Tritonia |`Rosy Picture'|NA|NA
-18. Tritonia `Salmon Run'
-|BX 368|18|BULBS|John Wickham|NA|Tritonia |`Salmon Run'|NA|NA
+17. Tritonia 'Rosy Picture'
+|BX 368|17|BULBS|John Wickham|NA|Tritonia |'Rosy Picture'|NA|NA
+18. Tritonia 'Salmon Run'
+|BX 368|18|BULBS|John Wickham|NA|Tritonia |'Salmon Run'|NA|NA
 19. Tritonia hyalina (crocata?)
 |BX 368|19|BULBS|John Wickham|NA|Tritonia hyalina|(crocata?)|NA|NA
 20. Watsonia aletroides
@@ -1103,8 +1103,8 @@ From Pamela Slate:
 |BX 368|23|BULBS|Pamela Slate|NA|Ferraria crispa|subsp.nortierii|NA|NA
 24. Ferraria crispa, usual form
 |BX 368|24|BULBS|Pamela Slate|NA|Ferraria crispa|usual form|NA|NA
-25. Watsonia `Flamboyant', stunning deep coral; need support
-|BX 368|25|BULBS|Pamela Slate|NA|Watsonia |`Flamboyant', stunning deep coral; need support|NA|NA
+25. Watsonia 'Flamboyant', stunning deep coral; need support
+|BX 368|25|BULBS|Pamela Slate|NA|Watsonia |'Flamboyant', stunning deep coral; need support|NA|NA
 From Nhu Nguyen: 
 ------------------------------- 
 26. Lachenalia mixed
@@ -1113,8 +1113,8 @@ From Jim Waddick:
 ------------------------------- 
 27. Habranthus martinezii
 |BX 368|27|BULBS|Jim Waddick|NA|Habranthus martinezii||NA|NA
-28. Crinum `Menehune' a tropical cultivar said to originate from Hawaii. Zone 8 or warmer. AKA Crinum `Purple Passion'. Has very dark purple foliage. Small grower suited to pot culture.  
-|BX 368|28|BULBS|Jim Waddick|NA|Crinum |`Menehune' a tropical cultivar said to originate from Hawaii. Zone 8 or warmer. AKA Crinum `Purple Passion'. Has very dark purple foliage. Small grower suited to pot culture.|NA|NA
+28. Crinum 'Menehune' a tropical cultivar said to originate from Hawaii. Zone 8 or warmer. AKA Crinum 'Purple Passion'. Has very dark purple foliage. Small grower suited to pot culture.  
+|BX 368|28|BULBS|Jim Waddick|NA|Crinum |'Menehune' a tropical cultivar said to originate from Hawaii. Zone 8 or warmer. AKA Crinum 'Purple Passion'. Has very dark purple foliage. Small grower suited to pot culture.|NA|NA
  -=================================================== end 368 =============
 ALL BULBS
 From Mary Sue Ittner:
@@ -1367,8 +1367,8 @@ From Giovanni Curci:
 From Jim Waddick:
 ------------------------------- 
 SEEDS:
-20. Lycoris chinensis These seed are from fairly isolated parents with this name, but it hybridizes readily with other fertile species. Expect flowers that are yellow to gold in color, somewhat `spidery' in form and around 30 in tall. These are both Spring foliage species NOT suited to Mediterranean or South eastern climates. Do best north of zone 7 into Zone 4 and 5. NOT recommended for Southern CA. Plant seeds immediately on receipt as they do not have a long shelf life. They do poorly in pots for long term and rarely bloom in pots.
-|BX 372|20|SEEDS|Jim Waddick|NA|Lycoris chinensis|These seed are from fairly isolated parents with this name, but it hybridizes readily with other fertile species. Expect flowers that are yellow to gold in color, somewhat `spidery' in form and around 30 in tall. These are both Spring foliage species NOT suited to Mediterranean or South eastern climates. Do best north of zone 7 into Zone 4 and 5. NOT recommended for Southern CA. Plant seeds immediately on receipt as they do not have a long shelf life. They do poorly in pots for long term and rarely bloom in pots.|NA|NA
+20. Lycoris chinensis These seed are from fairly isolated parents with this name, but it hybridizes readily with other fertile species. Expect flowers that are yellow to gold in color, somewhat 'spidery' in form and around 30 in tall. These are both Spring foliage species NOT suited to Mediterranean or South eastern climates. Do best north of zone 7 into Zone 4 and 5. NOT recommended for Southern CA. Plant seeds immediately on receipt as they do not have a long shelf life. They do poorly in pots for long term and rarely bloom in pots.
+|BX 372|20|SEEDS|Jim Waddick|NA|Lycoris chinensis|These seed are from fairly isolated parents with this name, but it hybridizes readily with other fertile species. Expect flowers that are yellow to gold in color, somewhat 'spidery' in form and around 30 in tall. These are both Spring foliage species NOT suited to Mediterranean or South eastern climates. Do best north of zone 7 into Zone 4 and 5. NOT recommended for Southern CA. Plant seeds immediately on receipt as they do not have a long shelf life. They do poorly in pots for long term and rarely bloom in pots.|NA|NA
 21. Lycoris hybrids These are a mix of L. chinensis and L. longituba. Flowers will be smooth or spidery, from white to gold and may have some pink tints. Easy and hardy in Zone 5/6. These are both Spring foliage species NOT suited to Mediterranean or South eastern climates. Do best north of zone 7 into Zone 4 and 5. NOT recommended for Southern CA. Plant seeds immediately on receipt as they do not have a long shelf life. They do poorly in pots for long term and rarely bloom in pots.
 |BX 372|21|SEEDS|Jim Waddick|NA|Lycoris hybrids|These are a mix of L. chinensis and L. longituba. Flowers will be smooth or spidery, from white to gold and may have some pink tints. Easy and hardy in Zone 5/6. These are both Spring foliage species NOT suited to Mediterranean or South eastern climates. Do best north of zone 7 into Zone 4 and 5. NOT recommended for Southern CA. Plant seeds immediately on receipt as they do not have a long shelf life. They do poorly in pots for long term and rarely bloom in pots.|NA|NA
 

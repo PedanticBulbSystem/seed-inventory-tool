@@ -60,12 +60,12 @@ function extract_and_remove_parsing {
              fi  
              #echo "33:LINE=$line_local"; #TODO debug
                          
-             # Test if line begins with "Thing of "
-             if [[ $line_local =~ ^([A-Z][a-z]*)" of " ]]; then                   
+         # Test if line begins with "Thing of "
+         elif [[ $line_local =~ ^([A-Z][a-z]*)" of " ]]; then                   
                     of_local="${BASH_REMATCH[1]}";
                     # remove Thing-of-space from line string
                     line_local=`echo $line_local | sed -E 's/^[A-Z][a-z]* of //'`;
-             fi
+             
          fi
          # end of Small-thing-of or Thing-of
              
@@ -185,6 +185,9 @@ do
  
   while IFS= read -r line
   do
+    # Replace any slanted-quote ` with vertical quote '. The '"'"' splits sed string to insert single quote.
+    #line=`echo $line | sed 's/`/'"'"'/g'`;
+    # Above causes issues so done in post-processing
     echo "$line"; # goes to first column so easy to strip later
 
     # reset for each new input line
@@ -206,13 +209,13 @@ do
         # If yes, then set category
         if [[ $donor =~ SEED ]]
         then
-          #echo "SEED category found"; # TODO debug
+          # below: no need to escape parens when -E not used with sed
           category="SEEDS";
-          donor=`echo $donor | sed 's/ \(SEEDS\)//' | sed 's/ \(seeds\)//'`; 
+          donor=`echo $donor | sed 's/ (SEEDS)//' | sed 's/ (seeds)//'`; 
         elif [[ $donor =~ BULBS ]]
         then
             category="BULBS";
-            donor=`echo $donor | sed 's/ \(BULBS\)//'`; 
+            donor=`echo $donor | sed 's/ (BULBS)//'`; 
         fi
 
   else
