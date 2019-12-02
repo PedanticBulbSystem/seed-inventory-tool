@@ -34,7 +34,7 @@ From Kelly Irvin:
 From Joyce Miller:
 ------------------------------- 
 13. Bulbs of Camassia;bulbs, species unknown.  These were grown from BX seed.  I planted C leichtlinii, C quamash and C. cusickii.  The flower color is not white or blue, but is lavender.  
-|BX 351|13|BULBS|Joyce Miller|NA|Bulbs of|Camassia;bulbs, species unknown. These were grown from BX seed. I planted C leichtlinii, C quamash and C. cusickii. The flower color is not white or blue, but is lavender.|NA|NA
+|BX 351|13|BULBS|Joyce Miller|Bulbs|NA|NA|NA|NA
 From Ernie DeMarie:
 ------------------------------- 
 (BULBLETS/Cormlets):
@@ -147,11 +147,11 @@ From Francisco Torres:
 From Angelo Porcelli:
 ------------------------------- 
 26. Seeds of Sternbergia lutea, large flowers
-|BX 352|26|SEEDS|Angelo Porcelli|NA|Seeds of|Sternbergia lutea, large flowers|NA|NA
+|BX 352|26|SEEDS|Angelo Porcelli|Seeds|Sternbergia lutea|large flowers|NA|NA
 From Rodney Barton:
 ------------------------------- 
 27. Seeds of Camassia scilloides, ex Colin County, Texas
-|BX 352|27|SEEDS|Rodney Barton|NA|Seeds of|Camassia scilloides, ex Colin County, Texas|NA|NA
+|BX 352|27|SEEDS|Rodney Barton|Seeds|Camassia scilloides|ex Colin County, Texas|NA|NA
 From Mary Sue Ittner:
 ------------------------------- 
 (SEEDS)
@@ -209,31 +209,31 @@ BULBS/BULBLETS/CORMS:
 From Francisco Torres:
 ------------------------------- 
 12. Seed of Pancratium maritimum
-|BX 353|12|BULBS|Francisco Torres|NA|Seed of|Pancratium maritimum|NA|NA
+|BX 353|12|BULBS|Francisco Torres|Seed|Pancratium maritimum||NA|NA
 From Ernie De Marie:
 ------------------------------- 
 13. Cormlets of Lapeirousia neglecta
-|BX 353|13|BULBS|Ernie De Marie|NA|Cormlets of|Lapeirousia neglecta|NA|NA
+|BX 353|13|BULBS|Ernie De Marie|Cormlets|Lapeirousia neglecta||NA|NA
 From Mary Sue Ittner:
 ------------------------------- 
 14. Bulblets of Melasphaerula ramosa
-|BX 353|14|BULBS|Mary Sue Ittner|NA|Bulblets of|Melasphaerula ramosa|NA|NA
+|BX 353|14|BULBS|Mary Sue Ittner|Bulblets|Melasphaerula ramosa||NA|NA
 15. Bulblets of Calochortus argillosus
-|BX 353|15|BULBS|Mary Sue Ittner|NA|Bulblets of|Calochortus argillosus|NA|NA
+|BX 353|15|BULBS|Mary Sue Ittner|Bulblets|Calochortus argillosus||NA|NA
 From Monica Swartz:
 ------------------------------- 
 16. Seed of Manfreda undulata
-|BX 353|16|BULBS|Monica Swartz|NA|Seed of|Manfreda undulata|NA|NA
+|BX 353|16|BULBS|Monica Swartz|Seed|Manfreda undulata||NA|NA
 17. Small bulbs of Lachenalia vanzyliae
 |BX 353|17|BULBS|Monica Swartz|Small bulbs|Lachenalia vanzyliae||NA|NA
 18. Bulbs of Lachenalia mutabilis, electric blue
-|BX 353|18|BULBS|Monica Swartz|NA|Bulbs of|Lachenalia mutabilis, electric blue|NA|NA
+|BX 353|18|BULBS|Monica Swartz|Bulbs|Lachenalia mutabilis|electric blue|NA|NA
 19. Bulbs of Lachenalia quadricolor
-|BX 353|19|BULBS|Monica Swartz|NA|Bulbs of|Lachenalia quadricolor|NA|NA
+|BX 353|19|BULBS|Monica Swartz|Bulbs|Lachenalia quadricolor||NA|NA
 20. Bulbs of Lachenalia unicolor
-|BX 353|20|BULBS|Monica Swartz|NA|Bulbs of|Lachenalia unicolor|NA|NA
+|BX 353|20|BULBS|Monica Swartz|Bulbs|Lachenalia unicolor||NA|NA
 21. Seeds of  Brunsvigia bosmaniae
-|BX 353|21|BULBS|Monica Swartz|NA|Seeds of|Brunsvigia bosmaniae|NA|NA
+|BX 353|21|BULBS|Monica Swartz|Seeds|Brunsvigia bosmaniae||NA|NA
 From Jude Platteborze:
 ------------------------------- 
 22. Small rhizomes of mixed bearded iris
@@ -241,13 +241,13 @@ From Jude Platteborze:
 23. Convallaria - mixed white, pink and double. Initially listed as 'Roots or Aspidistra sp.'
 |BX 353|23|BULBS|Jude Platteborze|NA|Convallaria |- mixed white, pink and double. Initially listed as 'Roots or Aspidistra sp.'|NA|NA
 24. Rhizomes of Rohdea japonica
-|BX 353|24|BULBS|Jude Platteborze|NA|Rhizomes of|Rohdea japonica|NA|NA
+|BX 353|24|BULBS|Jude Platteborze|Rhizomes|Rohdea japonica||NA|NA
 From Cynthia Mueller:
 ------------------------------- 
 25. Seed of Rhodophiala bifida, pink
-|BX 353|25|BULBS|Cynthia Mueller|NA|Seed of|Rhodophiala bifida, pink|NA|NA
+|BX 353|25|BULBS|Cynthia Mueller|Seed|Rhodophiala bifida|pink|NA|NA
 26. Seed of Rhodophiala bifida, pink with  star in throat
-|BX 353|26|BULBS|Cynthia Mueller|NA|Seed of|Rhodophiala bifida, pink with star in throat|NA|NA
+|BX 353|26|BULBS|Cynthia Mueller|Seed|Rhodophiala bifida|pink with star in throat|NA|NA
 From Rimmer de Vries:
 ------------------------------- 
 (SEEDS)
@@ -269,7 +269,7 @@ A grab bag!
 From Jim Shields (and Charles Crane):
 ------------------------------- 
 2. Seeds of Zephyranthes smallii; original seed collected near airport at Brownsville, TX
-|BX 354|2||Jim Shields (and Charles Crane)|NA|Seeds of|Zephyranthes smallii; original seed collected near airport at Brownsville, TX|NA|NA
+|BX 354|2||Jim Shields (and Charles Crane)|Seeds|Zephyranthes smallii|original seed collected near airport at Brownsville, TX|NA|NA
 From Mary Sue Ittner: (SEEDS)
 ------------------------------- 
 3. Chlorogalum pomeridianum - winter growing
@@ -287,9 +287,9 @@ From Mary Sue Ittner: (SEEDS)
 From Nicholas Plummer:
 ------------------------------- 
 9. Seeds of Arisaema triphyllum - these are seeds from plants grown in my garden and are two generations removed from seed originally collected in Wake Co, NC. I usually observe good germination after cold, moist stratification.
-|BX 354|9|SEEDS|Nicholas Plummer|NA|Seeds of|Arisaema triphyllum - these are seeds from plants grown in my garden and are two generations removed from seed originally collected in Wake Co, NC. I usually observe good germination after cold, moist stratification.|NA|NA
+|BX 354|9|SEEDS|Nicholas Plummer|Seeds|Arisaema triphyllum|- these are seeds from plants grown in my garden and are two generations removed from seed originally collected in Wake Co, NC. I usually observe good germination after cold, moist stratification.|NA|NA
 10. Seeds of Lilium formosanum - these are the tall standard variety originally purchased from Niche Gardens. They were pollinated by moths in the open garden, but I did not have any other Lilium species blooming at the time. I think the chance of hybrids is minimal. These plants volunteer readily, so I have never attempted controlled germination. Consequently, I do not know what percentage of seeds are viable.
-|BX 354|10|SEEDS|Nicholas Plummer|NA|Seeds of|Lilium formosanum - these are the tall standard variety originally purchased from Niche Gardens. They were pollinated by moths in the open garden, but I did not have any other Lilium species blooming at the time. I think the chance of hybrids is minimal. These plants volunteer readily, so I have never attempted controlled germination. Consequently, I do not know what percentage of seeds are viable.|NA|NA
+|BX 354|10|SEEDS|Nicholas Plummer|Seeds|Lilium formosanum|- these are the tall standard variety originally purchased from Niche Gardens. They were pollinated by moths in the open garden, but I did not have any other Lilium species blooming at the time. I think the chance of hybrids is minimal. These plants volunteer readily, so I have never attempted controlled germination. Consequently, I do not know what percentage of seeds are viable.|NA|NA
 From Chris Elwell: (SEEDS)
 ------------------------------- 
 11. Calochortus venustus, burgundy (OP)
@@ -301,19 +301,19 @@ From Chris Elwell: (SEEDS)
 From Dee Foster:
 ------------------------------- 
 14. Seeds of Gloriosa superba
-|BX 354|14|SEEDS|Dee Foster|NA|Seeds of|Gloriosa superba|NA|NA
+|BX 354|14|SEEDS|Dee Foster|Seeds|Gloriosa superba||NA|NA
 15. Seeds of Eucomis comosa, pink, purple, white mix (OP)
-|BX 354|15|SEEDS|Dee Foster|NA|Seeds of|Eucomis comosa, pink, purple, white mix (OP)|NA|NA
+|BX 354|15|SEEDS|Dee Foster|Seeds|Eucomis comosa|pink, purple, white mix (OP)|NA|NA
 16. Seeds of Eucomis comosa, dwarf purple (OP)
-|BX 354|16|SEEDS|Dee Foster|NA|Seeds of|Eucomis comosa, dwarf purple (OP)|NA|NA
+|BX 354|16|SEEDS|Dee Foster|Seeds|Eucomis comosa|dwarf purple (OP)|NA|NA
 From Jim Waddick:
 ------------------------------- 
 17. Seeds of Lycoris - L. chinensis, L. longituba, L. longituba flava and hybrids all mixed
-|BX 354|17|SEEDS|Jim Waddick|NA|Seeds of|Lycoris - L. chinensis, L. longituba, L. longituba flava and hybrids all mixed|NA|NA
+|BX 354|17|SEEDS|Jim Waddick|Seeds|Lycoris |- L. chinensis, L. longituba, L. longituba flava and hybrids all mixed|NA|NA
 From Marvin Ellenbecker:
 ------------------------------- 
 18. Bulbs of Hippeastrum papilio (2 - 6 cm dia.)
-|BX 354|18|SEEDS|Marvin Ellenbecker|NA|Bulbs of|Hippeastrum papilio (2 - 6 cm dia.)|NA|NA
+|BX 354|18|SEEDS|Marvin Ellenbecker|Bulbs|Hippeastrum papilio|(2 - 6 cm dia.)|NA|NA
 
 
  -=================================================== end 354 =============
@@ -351,27 +351,27 @@ From Jim Shields:  (BULBS)
 From Kipp McMichael:
 ------------------------------- 
 1. Seeds of Crinum americanum ex Florida
-|BX 356|1||Kipp McMichael|NA|Seeds of|Crinum americanum ex Florida|NA|NA
+|BX 356|1||Kipp McMichael|Seeds|Crinum americanum|ex Florida|NA|NA
 2. Bulbils of Hymenocallis latifolia - very few
-|BX 356|2||Kipp McMichael|NA|Bulbils of|Hymenocallis latifolia - very few|NA|NA
+|BX 356|2||Kipp McMichael|Bulbils|Hymenocallis latifolia|- very few|NA|NA
 From Donald Leevers:
 ------------------------------- 
 3. Seed of Narcissus serotinus
-|BX 356|3||Donald Leevers|NA|Seed of|Narcissus serotinus|NA|NA
+|BX 356|3||Donald Leevers|Seed|Narcissus serotinus||NA|NA
 4. Seed of Pancratium maritimum
-|BX 356|4||Donald Leevers|NA|Seed of|Pancratium maritimum|NA|NA
+|BX 356|4||Donald Leevers|Seed|Pancratium maritimum||NA|NA
 5. Seed of Cardiocrinum giganteum
-|BX 356|5||Donald Leevers|NA|Seed of|Cardiocrinum giganteum|NA|NA
+|BX 356|5||Donald Leevers|Seed|Cardiocrinum giganteum||NA|NA
 From Bea Spencer:
 ------------------------------- 
 6. Seed of Agapanthus:  Headbourne hybrids, 
-|BX 356|6||Bea Spencer|NA|Seed of|Agapanthus: Headbourne hybrids,|NA|NA
+|BX 356|6||Bea Spencer|Seed|NA|NA|NA|NA
 From Jonathan Lubar:
 ------------------------------- 
 7. Seeds of Alophia drummondii
-|BX 356|7||Jonathan Lubar|NA|Seeds of|Alophia drummondii|NA|NA
+|BX 356|7||Jonathan Lubar|Seeds|Alophia drummondii||NA|NA
 8. Seeds of Nemastylis floridiana
-|BX 356|8||Jonathan Lubar|NA|Seeds of|Nemastylis floridiana|NA|NA
+|BX 356|8||Jonathan Lubar|Seeds|Nemastylis floridiana||NA|NA
 From Shawn Pollard:
 ------------------------------- 
 (SEEDS)
@@ -455,19 +455,19 @@ Seeds:
 From Bill Welch:
 ------------------------------- 
 29. Seed of Narcissus tazetta , best autumn and winter-flowering selections, hand-crossed, often with polyploids. Full range of colors
-|BX 357|29|SEEDS|Bill Welch|NA|Seed of|Narcissus tazetta , best autumn and winter-flowering selections, hand-crossed, often with polyploids. Full range of colors|NA|NA
+|BX 357|29|SEEDS|Bill Welch|Seed|Narcissus tazetta|best autumn and winter-flowering selections, hand-crossed, often with polyploids. Full range of colors|NA|NA
 From Dave Brastow:
 ------------------------------- 
 30. Seed of Zephyranthes macrosiphon
-|BX 357|30|SEEDS|Dave Brastow|NA|Seed of|Zephyranthes macrosiphon|NA|NA
+|BX 357|30|SEEDS|Dave Brastow|Seed|Zephyranthes macrosiphon||NA|NA
 From Jerry Lehmann:
 ------------------------------- 
 31. Seeds of Actaea pachypoda from cultivated stock
-|BX 357|31|SEEDS|Jerry Lehmann|NA|Seeds of|Actaea pachypoda from cultivated stock|NA|NA
+|BX 357|31|SEEDS|Jerry Lehmann|Seeds|Actaea pachypoda|from cultivated stock|NA|NA
 From Ann Patterson:
 ------------------------------- 
 33. Seeds of Heirloom hippeastrum that was discussed on the list a while back. One order only.
-|BX 357|33|SEEDS|Ann Patterson|NA|Seeds of|Heirloom hippeastrum that was discussed on the list a while back. One order only.|NA|NA
+|BX 357|33|SEEDS|Ann Patterson|Seeds|Heirloom hippeastrum|that was discussed on the list a while back. One order only.|NA|NA
 
 
  -=================================================== end 357 =============
@@ -667,7 +667,7 @@ From Larry Neel: (SEEDS)
 From Mary Sue Ittner:
 ------------------------------- 
 14. Seed of Haemanthus pauculifolius (few)
-|BX 361|14|SEEDS|Mary Sue Ittner|NA|Seed of|Haemanthus pauculifolius (few)|NA|NA
+|BX 361|14|SEEDS|Mary Sue Ittner|Seed|Haemanthus pauculifolius|(few)|NA|NA
 (BULBS)
 15. Cyrtanthus mackenii evergreen
 |BX 361|15|BULBS|Mary Sue Ittner|NA|Cyrtanthus mackenii|evergreen|NA|NA
@@ -707,7 +707,7 @@ From Mary Sue Ittner:
 From Monica Swartz:
 ------------------------------- 
 1. Bulbs of Alocasia hypnosa
-|BX 362|1||Monica Swartz|NA|Bulbs of|Alocasia hypnosa|NA|NA
+|BX 362|1||Monica Swartz|Bulbs|Alocasia hypnosa||NA|NA
 From Nick Plummer: (BULBS)
 ------------------------------- 
 2. Oxalis hirta
@@ -1250,11 +1250,11 @@ From Fred Throne:
 1. Small bulbs of Lachenalia rubida
 |BX 371|1|BULBS|Fred Throne|Small bulbs|Lachenalia rubida||NA|NA
 2. Offsets of Fritillaria uva-vulpis
-|BX 371|2||Fred Throne|NA|Offsets of|Fritillaria uva-vulpis|NA|NA
+|BX 371|2||Fred Throne|Offsets|Fritillaria uva|-vulpis|NA|NA
 From Arnold Trachtenberg:
 ------------------------------- 
 3. Tubers of Arum palaestinum (few)
-|BX 371|3||Arnold Trachtenberg|NA|Tubers of|Arum palaestinum (few)|NA|NA
+|BX 371|3||Arnold Trachtenberg|Tubers|Arum palaestinum|(few)|NA|NA
 From Judy Glattstein:
 ------------------------------- 
 4. Small corms of Freesia 'Red River', red
@@ -1268,7 +1268,7 @@ From Mary Sue Ittner:
 7. Blooming size corms of Watsonia aletroides, "my most dependably blooming watsonia"
 |BX 371|7||Mary Sue Ittner|NA|Blooming size|corms of Watsonia aletroides, "my most dependably blooming watsonia"|NA|NA
 8. Cormlets of Geissorhiza imbricata
-|BX 371|8||Mary Sue Ittner|NA|Cormlets of|Geissorhiza imbricata|NA|NA
+|BX 371|8||Mary Sue Ittner|Cormlets|Geissorhiza imbricata||NA|NA
 9. Small corms of Geissorhiza? or Hesperantha? sp.?
 |BX 371|9|BULBS|Mary Sue Ittner|Small corms|NA|NA|NA|NA
 10. Small bulbs of Lachenalia quadricolor
@@ -1282,9 +1282,9 @@ From Jyl Tuck:
 13. Small tubers of Arisaema triphyllum, dark burgundy inflorescence, red veining on leaves
 |BX 371|13|BULBS|Jyl Tuck|Small tubers|Arisaema triphyllum|dark burgundy inflorescence, red veining on leaves|NA|NA
 14. Seeds of # 13
-|BX 371|14||Jyl Tuck|NA|Seeds of|# 13|NA|NA
+|BX 371|14||Jyl Tuck|Seeds|NA|NA|NA|NA
 15. Seed of Arisaema amurense
-|BX 371|15||Jyl Tuck|NA|Seed of|Arisaema amurense|NA|NA
+|BX 371|15||Jyl Tuck|Seed|Arisaema amurense||NA|NA
 16. Small bulbs of Albuca shawii (A. tenuifolia), "This albuca shawii with green tuff on inflorescence is what I sent in bulbs and seeds instead of my plain seed raised one.  I just think its nicer  ----- even though I don't know why it is this way and no one could help me at the PBS."
 |BX 371|16|BULBS|Jyl Tuck|Small bulbs|Albuca shawii|(A. tenuifolia), "This albuca shawii with green tuff on inflorescence is what I sent in bulbs and seeds instead of my plain seed raised one. I just think its nicer ----- even though I don't know why it is this way and no one could help me at the PBS."|NA|NA
 From Terry Laskiewicz:
@@ -1298,40 +1298,40 @@ From Terry Laskiewicz:
 From Chris Elwell:
 ------------------------------- 
 20. Tubers of Arum dioscoridis (Very Few)
-|BX 371|20||Chris Elwell|NA|Tubers of|Arum dioscoridis (Very Few)|NA|NA
+|BX 371|20||Chris Elwell|Tubers|Arum dioscoridis|(Very Few)|NA|NA
 21. Tubers of Arum concinnatum, few
-|BX 371|21||Chris Elwell|NA|Tubers of|Arum concinnatum, few|NA|NA
+|BX 371|21||Chris Elwell|Tubers|Arum concinnatum|few|NA|NA
 22. Bulb of  Acis valentina (Very Few)
-|BX 371|22||Chris Elwell|NA|Bulb of|Acis valentina (Very Few)|NA|NA
+|BX 371|22||Chris Elwell|Bulb|Acis valentina|(Very Few)|NA|NA
 23. Bulblets of  Calochortus uniflorus
-|BX 371|23||Chris Elwell|NA|Bulblets of|Calochortus uniflorus|NA|NA
+|BX 371|23||Chris Elwell|Bulblets|Calochortus uniflorus||NA|NA
 24. Bulblets of Calochortus luteus
-|BX 371|24||Chris Elwell|NA|Bulblets of|Calochortus luteus|NA|NA
+|BX 371|24||Chris Elwell|Bulblets|Calochortus luteus||NA|NA
 From Arnold Trachtenberg:
 ------------------------------- 
 25. Seeds of "Clivia 'Moondrops' F2 Gardenii.2014 x Yellow miniata"
-|BX 371|25||Arnold Trachtenberg|NA|Seeds of|"Clivia 'Moondrops' F2 Gardenii.2014 x Yellow miniata"|NA|NA
+|BX 371|25||Arnold Trachtenberg|Seeds|NA|NA|NA|NA
 
 
  -=================================================== end 371 =============
 From Monica Swartz:
 ------------------------------- 
 1. Bulbs of Gladiolus tristis ex bx 219
-|BX 372|1||Monica Swartz|NA|Bulbs of|Gladiolus tristis ex bx 219|NA|NA
+|BX 372|1||Monica Swartz|Bulbs|Gladiolus tristis|ex bx 219|NA|NA
 2. Bulbs of Moraea tripetala ex Telos Rare Bulbs
-|BX 372|2||Monica Swartz|NA|Bulbs of|Moraea tripetala ex Telos Rare Bulbs|NA|NA
+|BX 372|2||Monica Swartz|Bulbs|Moraea tripetala|ex Telos Rare Bulbs|NA|NA
 3. Seed of Brunsvigia bosmaniae from Telos bulbs
-|BX 372|3||Monica Swartz|NA|Seed of|Brunsvigia bosmaniae from Telos bulbs|NA|NA
+|BX 372|3||Monica Swartz|Seed|Brunsvigia bosmaniae|from Telos bulbs|NA|NA
 4. Bulbs of Lachenalia unifolia ex Telos Rare Bulbs
-|BX 372|4||Monica Swartz|NA|Bulbs of|Lachenalia unifolia ex Telos Rare Bulbs|NA|NA
+|BX 372|4||Monica Swartz|Bulbs|Lachenalia unifolia|ex Telos Rare Bulbs|NA|NA
 5. Bulbs of Lachenalia mutabilis electric blue form ex bx 181
-|BX 372|5||Monica Swartz|NA|Bulbs of|Lachenalia mutabilis electric blue form ex bx 181|NA|NA
+|BX 372|5||Monica Swartz|Bulbs|Lachenalia mutabilis|electric blue form ex bx 181|NA|NA
 6. Bulbs of Albuca aff. flaccida from a volunteer from Arid Lands
-|BX 372|6||Monica Swartz|NA|Bulbs of|Albuca aff. flaccida from a volunteer from Arid Lands|NA|NA
+|BX 372|6||Monica Swartz|Bulbs|Albuca aff|. flaccida from a volunteer from Arid Lands|NA|NA
 7. Bulbs of Albuca sp. Plettenberg Bay ex BX 178 ex Roy Herold who wrote the following: "from seed collected in November, 2006 from a plant growing in pure sand at the edge of the beach, perhaps 50 meters from the high waterline. This plant had gone dormant, and only the scape and seed pods remained, approximately 20-30cm high. Seedlings grew strongly through last summer and winter, and went dormant in May, stretching to go deeply into the pot."
-|BX 372|7||Monica Swartz|NA|Bulbs of|Albuca sp. Plettenberg Bay ex BX 178 ex Roy Herold who wrote the following: "from seed collected in November, 2006 from a plant growing in pure sand at the edge of the beach, perhaps 50 meters from the high waterline. This plant had gone dormant, and only the scape and seed pods remained, approximately 20-30cm high. Seedlings grew strongly through last summer and winter, and went dormant in May, stretching to go deeply into the pot."|NA|NA
+|BX 372|7||Monica Swartz|Bulbs|Albuca sp|. Plettenberg Bay ex BX 178 ex Roy Herold who wrote the following: "from seed collected in November, 2006 from a plant growing in pure sand at the edge of the beach, perhaps 50 meters from the high waterline. This plant had gone dormant, and only the scape and seed pods remained, approximately 20-30cm high. Seedlings grew strongly through last summer and winter, and went dormant in May, stretching to go deeply into the pot."|NA|NA
 8. Tubers of Alocasia x amazonica an easy and common house plant (A. x mortfontanensis)?
-|BX 372|8||Monica Swartz|NA|Tubers of|Alocasia x amazonica an easy and common house plant (A. x mortfontanensis)?|NA|NA
+|BX 372|8||Monica Swartz|Tubers|Alocasia x|amazonica an easy and common house plant (A. x mortfontanensis)?|NA|NA
 From Mary Sue Ittner:
 ------------------------------- 
 9. Ferraria sp ? Corms
@@ -1351,7 +1351,7 @@ From Jyl Tuck:
 From Francisco Lopez:
 ------------------------------- 
 14. Bulbils of Lilium lancifolium
-|BX 372|14||Francisco Lopez|NA|Bulbils of|Lilium lancifolium|NA|NA
+|BX 372|14||Francisco Lopez|Bulbils|Lilium lancifolium||NA|NA
 15. Small bulbs of Allium roseum
 |BX 372|15|BULBS|Francisco Lopez|Small bulbs|Allium roseum||NA|NA
 16. Small bulbs of Ornithogalum caudatum (Albuca bracteata?) (Lonocornelos caudatum?)
@@ -1377,11 +1377,11 @@ SEEDS:
 From Arnold Trachtenberg:
 ------------------------------- 
 1. Bulbs of Cyrtanthus hybrid; orange-scarlet trumpets.
-|BX 373|1||Arnold Trachtenberg|NA|Bulbs of|Cyrtanthus hybrid; orange-scarlet trumpets.|NA|NA
+|BX 373|1||Arnold Trachtenberg|Bulbs|Cyrtanthus hybrid|orange-scarlet trumpets.|NA|NA
 From Dell Sherk:
 ------------------------------- 
 2. Seeds of Clivia 'Solomone light orange x yellow'; selfed
-|BX 373|2||Dell Sherk|NA|Seeds of|Clivia 'Solomone light orange x yellow'; selfed|NA|NA
+|BX 373|2||Dell Sherk|Seeds|Clivia |'Solomone light orange x yellow'; selfed|NA|NA
 From Rimmer de Vries:
 ------------------------------- 
 3. Small bulbs of Tulipa sylvestris
@@ -1393,9 +1393,9 @@ From Uli Urban:
 5. Begonia martiana var gracilis;(syn. B. gracilis), the 'hollyhock begonia' The material supplied is not seed but small bulbili which are produced en masse at the end of the growing period. These should be 'sown' immediately on receipt and kept just barely moist. Begonia martiana sprouts fairly late at the end of May. If kept totally dry these bulbili may dessicate and die. A very rewarding beautiful plant. But needs some patience if grown from these bulbili.
 |BX 373|5||Uli Urban|NA|Begonia martiana|var gracilis;(syn. B. gracilis), the 'hollyhock begonia' The material supplied is not seed but small bulbili which are produced en masse at the end of the growing period. These should be 'sown' immediately on receipt and kept just barely moist. Begonia martiana sprouts fairly late at the end of May. If kept totally dry these bulbili may dessicate and die. A very rewarding beautiful plant. But needs some patience if grown from these bulbili.|NA|NA
 6. Seed of Nerine bowdenii (?) Type Human. originally from wild seed sent by David Human. This is a VERY hardy plant with large bulbs and a large inflorescence with fairly small very frilled pink flowers. Different from ordinary N. bowdenii. Knowlegable people commented that this may not be N. bowdenii but a different species. It takes a while to raise a flowering plant from seed but is very much worth the patience. Has survived the coldest winter with a good mulch and overhead protection from winter wet. Seed needs immediate sowing as it already starts to sprout.
-|BX 373|6||Uli Urban|NA|Seed of|Nerine bowdenii (?) Type Human. originally from wild seed sent by David Human. This is a VERY hardy plant with large bulbs and a large inflorescence with fairly small very frilled pink flowers. Different from ordinary N. bowdenii. Knowlegable people commented that this may not be N. bowdenii but a different species. It takes a while to raise a flowering plant from seed but is very much worth the patience. Has survived the coldest winter with a good mulch and overhead protection from winter wet. Seed needs immediate sowing as it already starts to sprout.|NA|NA
+|BX 373|6||Uli Urban|Seed|Nerine bowdenii|(?) Type Human. originally from wild seed sent by David Human. This is a VERY hardy plant with large bulbs and a large inflorescence with fairly small very frilled pink flowers. Different from ordinary N. bowdenii. Knowlegable people commented that this may not be N. bowdenii but a different species. It takes a while to raise a flowering plant from seed but is very much worth the patience. Has survived the coldest winter with a good mulch and overhead protection from winter wet. Seed needs immediate sowing as it already starts to sprout.|NA|NA
 7. Seed of Nerine bowdenii Type Oswald. The origin of this form cannot be traced. I got very good bulbs from Mr Oswald from former East Germany where it was grown for a long time. East Germany was fairly isolated from the West during communist times but had an active gardening tradition. Many breeding programmes emphasized hardiness with the (political) aim to be independent and self sufficient. He grew these bulbs amongst the beans and strawberries in rows in his vegetable garden and gave it a very thick winter mulch made of compost and stable manure. A very good plant, hardy in almost all winters with a good mulch and overhead protection against winter wet. Typical bright pink Nerine bowdenii flowers. Needs immediate sowing.
-|BX 373|7||Uli Urban|NA|Seed of|Nerine bowdenii Type Oswald. The origin of this form cannot be traced. I got very good bulbs from Mr Oswald from former East Germany where it was grown for a long time. East Germany was fairly isolated from the West during communist times but had an active gardening tradition. Many breeding programmes emphasized hardiness with the (political) aim to be independent and self sufficient. He grew these bulbs amongst the beans and strawberries in rows in his vegetable garden and gave it a very thick winter mulch made of compost and stable manure. A very good plant, hardy in almost all winters with a good mulch and overhead protection against winter wet. Typical bright pink Nerine bowdenii flowers. Needs immediate sowing.|NA|NA
+|BX 373|7||Uli Urban|Seed|Nerine bowdenii|Type Oswald. The origin of this form cannot be traced. I got very good bulbs from Mr Oswald from former East Germany where it was grown for a long time. East Germany was fairly isolated from the West during communist times but had an active gardening tradition. Many breeding programmes emphasized hardiness with the (political) aim to be independent and self sufficient. He grew these bulbs amongst the beans and strawberries in rows in his vegetable garden and gave it a very thick winter mulch made of compost and stable manure. A very good plant, hardy in almost all winters with a good mulch and overhead protection against winter wet. Typical bright pink Nerine bowdenii flowers. Needs immediate sowing.|NA|NA
 
 
  -=================================================== end 373 =============
@@ -1416,7 +1416,7 @@ From Joyce Miller:
 From Uli Urban:
 ------------------------------- 
 7. Seeds of Scadoxus sp.;? My Scadoxus plant came from a plant sale in a Botanical Garden in Germany where they had an old plant of amazing size in a very large tub, this plant was full of spent flowers and must have looked magnificent when it was in flower. Unfortunately there was no name on the plant.  They said the seedlings they were selling came from this plant. It flowered for the very first time last year, I handpollinated the flowers and got a handful of berries. It could be the old Hybrid 'King Albert'
-|BX 374|7||Uli Urban|NA|Seeds of|Scadoxus sp.;? My Scadoxus plant came from a plant sale in a Botanical Garden in Germany where they had an old plant of amazing size in a very large tub, this plant was full of spent flowers and must have looked magnificent when it was in flower. Unfortunately there was no name on the plant. They said the seedlings they were selling came from this plant. It flowered for the very first time last year, I handpollinated the flowers and got a handful of berries. It could be the old Hybrid 'King Albert'|NA|NA
+|BX 374|7||Uli Urban|Seeds|Scadoxus sp|.;? My Scadoxus plant came from a plant sale in a Botanical Garden in Germany where they had an old plant of amazing size in a very large tub, this plant was full of spent flowers and must have looked magnificent when it was in flower. Unfortunately there was no name on the plant. They said the seedlings they were selling came from this plant. It flowered for the very first time last year, I handpollinated the flowers and got a handful of berries. It could be the old Hybrid 'King Albert'|NA|NA
 
 
  -=================================================== end 374 =============
@@ -1488,7 +1488,7 @@ Short lived seed:
 From Nick Plummer:
 ------------------------------- 
 14. Seeds of Hippeastrum papilio x reginae
-|BX 376|14|SEEDS|Nick Plummer|NA|Seeds of|Hippeastrum papilio x reginae|NA|NA
+|BX 376|14|SEEDS|Nick Plummer|Seeds|Hippeastrum papilio|x reginae|NA|NA
 From Dee Foster:
 ------------------------------- 
 15. Moraea villosa Small corms
@@ -1565,13 +1565,13 @@ Winter growing bulbs:
 From Fred Biasella:
 ------------------------------- 
 1. Seeds of Hippeastrum 'Red Garden'
-|BX 379|1||Fred Biasella|NA|Seeds of|Hippeastrum 'Red Garden'|NA|NA
+|BX 379|1||Fred Biasella|Seeds|Hippeastrum |'Red Garden'|NA|NA
 2. Small bulbs of Phaedranassa viridiflora
 |BX 379|2|BULBS|Fred Biasella|Small bulbs|Phaedranassa viridiflora||NA|NA
 From Pam Slate:
 ------------------------------- 
 3. Seed of xHippeastrelia, selfed. ex Buried Treasures, Valrico, FL
-|BX 379|3||Pam Slate|NA|Seed of|xHippeastrelia, selfed. ex Buried Treasures, Valrico, FL|NA|NA
+|BX 379|3||Pam Slate|Seed|NA|NA|NA|NA
 4. Small bulbs of Ornithogallum osmynellum (Albuca osmynella); ex BX 148, ex Steve Hammer, ex Noreogas
 |BX 379|4|BULBS|Pam Slate|Small bulbs|Ornithogallum osmynellum|(Albuca osmynella); ex BX 148, ex Steve Hammer, ex Noreogas|NA|NA
 From Scott VanGerpen:
@@ -1581,13 +1581,13 @@ From Scott VanGerpen:
 From Arnold Trachtenberg: 
 ------------------------------- 
 6. Corms of Chasmanthe floribunda 'Duckittii'
-|BX 379|6||Arnold Trachtenberg|NA|Corms of|Chasmanthe floribunda 'Duckittii'|NA|NA
+|BX 379|6||Arnold Trachtenberg|Corms|Chasmanthe floribunda|'Duckittii'|NA|NA
 From Rimmer de Vries:
 ------------------------------- 
 7. Bulbs of Albuca suaveolens
-|BX 379|7||Rimmer de Vries|NA|Bulbs of|Albuca suaveolens|NA|NA
+|BX 379|7||Rimmer de Vries|Bulbs|Albuca suaveolens||NA|NA
 8. Tubers of Othonna sp.?
-|BX 379|8||Rimmer de Vries|NA|Tubers of|Othonna sp.?|NA|NA
+|BX 379|8||Rimmer de Vries|Tubers|Othonna sp|..|NA|NA
 
 
  -=================================================== end 379 =============
@@ -1611,15 +1611,15 @@ From Rimmer de Vries:
 From Monica Swartz:
 ------------------------------- 
 1. Seed of Hymenocallis guerreroensis from bx 243
-|BX 381|1||Monica Swartz|NA|Seed of|Hymenocallis guerreroensis from bx 243|NA|NA
+|BX 381|1||Monica Swartz|Seed|Hymenocallis guerreroensis|from bx 243|NA|NA
 2. Bulbs of Lachenalia longituba from bx 2008 seed clearance
-|BX 381|2||Monica Swartz|NA|Bulbs of|Lachenalia longituba from bx 2008 seed clearance|NA|NA
+|BX 381|2||Monica Swartz|Bulbs|Lachenalia longituba|from bx 2008 seed clearance|NA|NA
 3. Bulbs of Massonia cf. pustulata from bx 174, ex Roy Herold, ex NARGS
-|BX 381|3||Monica Swartz|NA|Bulbs of|Massonia cf. pustulata from bx 174, ex Roy Herold, ex NARGS|NA|NA
+|BX 381|3||Monica Swartz|Bulbs|Massonia cf|. pustulata from bx 174, ex Roy Herold, ex NARGS|NA|NA
 4. Bulbs of Massonia echinata, mix of parents, some from bx 212
-|BX 381|4||Monica Swartz|NA|Bulbs of|Massonia echinata, mix of parents, some from bx 212|NA|NA
+|BX 381|4||Monica Swartz|Bulbs|Massonia echinata|mix of parents, some from bx 212|NA|NA
 5. Bulbs of Massonia depressa, should all be from a brown flowered form though there may be some from a yellow flowered form.
-|BX 381|5||Monica Swartz|NA|Bulbs of|Massonia depressa, should all be from a brown flowered form though there may be some from a yellow flowered form.|NA|NA
+|BX 381|5||Monica Swartz|Bulbs|Massonia depressa|should all be from a brown flowered form though there may be some from a yellow flowered form.|NA|NA
 From Makiko Goto-Widerman:
 ------------------------------- 
 6. Small corms of Freesia laxa, orange
@@ -1627,7 +1627,7 @@ From Makiko Goto-Widerman:
 From Sophie Dixon:
 ------------------------------- 
 7. Seeds of Hippeastrum 'Charisma'
-|BX 381|7||Sophie Dixon|NA|Seeds of|Hippeastrum 'Charisma'|NA|NA
+|BX 381|7||Sophie Dixon|Seeds|Hippeastrum |'Charisma'|NA|NA
 From Mary Sue Ittner:
 ------------------------------- 
 Bulbs:
@@ -1654,7 +1654,7 @@ Bulbs:
 From Tim Eck:
 ------------------------------- 
 18. Seeds of Crinum bulbispermum "Jumbo strain"
-|BX 381|18|BULBS|Tim Eck|NA|Seeds of|Crinum bulbispermum "Jumbo strain"|NA|NA
+|BX 381|18|BULBS|Tim Eck|Seeds|Crinum bulbispermum|"Jumbo strain"|NA|NA
 
 
  -=================================================== end 381 =============
