@@ -987,65 +987,66 @@ Narcissus are mostly blooming size. N numbers are Roy's own.
 
 1. Narcissus albidus occidentalis N028 Narcissus are mostly blooming size. N numbers are Roy's own.
 |BX 367|1|BULBS|Roy Herold|NA|Narcissus albidus|occidentalis N028 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
-2  Narcissus assoanus ex Spain N079 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-3  Narcissus 'Atlas Gold' JCA805Y Narcissus are mostly blooming size. N numbers are Roy's own.
-
-4  Narcissus bulbocodium hybrid N051 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-5  Narcissus bulbocodium N020 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-6  Narcissus bulbocodium N052 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-7  Narcissus bulbocodium obesus N024 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-8  Narcissus bulbocodium obesus N027A Narcissus are mostly blooming size. N numbers are Roy's own.
-
-9  Narcissus bulbocodium var. praecox N076 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-10 Narcissus bulbocodium ssp romieuxii N013 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-11 Narcissus bulbocodium tenuifolius N022 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-12 Narcissus 'Joy  Bishop' N068 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-13 Narcissus 'Julia Jane' N105 ex Odyssey, different from N106 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-14 Narcissus 'Julia Jane' N106 ex McGary, different from N105 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-15 Narcissus Mixed Seedlings These date back to a mass sowing in 2004 of seed from moderately controlled crosses of romieuxii, cantabricus, albidus, zaianicus, and similar early blooming sorts of the bulbocodium group. Colors tend to be light yellow through cream to white, and flowers are large, much larger than the little gold colored bulbocodiums of spring. These have been selected three times, and the keepers are choice. Similar to my 2012 PBS offering.
-16 Narcissus 'Nylon'
-
-17 Narcissus romieuxii albidus tananicus N002 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-18 Narcissus 'Treble Chance' JCA805 N066 Narcissus are mostly blooming size. N numbers are Roy's own.
-
-19 Narcissus zaianicus lutescens x cantabricus N037 Narcissus are mostly blooming size. N numbers are Roy's own.
-
+2. Narcissus assoanus ex Spain N079 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|2|BULBS|Roy Herold|NA|Narcissus assoanus|ex Spain N079 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+3. Narcissus 'Atlas Gold' JCA805Y Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|3|BULBS|Roy Herold|NA|Narcissus |'Atlas Gold' JCA805Y Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+4. Narcissus bulbocodium hybrid N051 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|4|BULBS|Roy Herold|NA|Narcissus bulbocodium|hybrid N051 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+5. Narcissus bulbocodium N020 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|5|BULBS|Roy Herold|NA|Narcissus bulbocodium|N020 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+6. Narcissus bulbocodium N052 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|6|BULBS|Roy Herold|NA|Narcissus bulbocodium|N052 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+7. Narcissus bulbocodium obesus N024 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|7|BULBS|Roy Herold|NA|Narcissus bulbocodium|obesus N024 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+8. Narcissus bulbocodium obesus N027A Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|8|BULBS|Roy Herold|NA|Narcissus bulbocodium|obesus N027A Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+9. Narcissus bulbocodium var. praecox N076 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|9|BULBS|Roy Herold|NA|Narcissus bulbocodium|var. praecox N076 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+10. Narcissus bulbocodium ssp romieuxii N013 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|10|BULBS|Roy Herold|NA|Narcissus bulbocodium|ssp romieuxii N013 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+11. Narcissus bulbocodium tenuifolius N022 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|11|BULBS|Roy Herold|NA|Narcissus bulbocodium|tenuifolius N022 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+12. Narcissus 'Joy  Bishop' N068 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|12|BULBS|Roy Herold|NA|Narcissus |'Joy Bishop' N068 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+13. Narcissus 'Julia Jane' N105 ex Odyssey, different from N106 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|13|BULBS|Roy Herold|NA|Narcissus |'Julia Jane' N105 ex Odyssey, different from N106 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+14. Narcissus 'Julia Jane' N106 ex McGary, different from N105 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|14|BULBS|Roy Herold|NA|Narcissus |'Julia Jane' N106 ex McGary, different from N105 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+15. Narcissus Mixed Seedlings These date back to a mass sowing in 2004 of seed from moderately controlled crosses of romieuxii, cantabricus, albidus, zaianicus, and similar early blooming sorts of the bulbocodium group. Colors tend to be light yellow through cream to white, and flowers are large, much larger than the little gold colored bulbocodiums of spring. These have been selected three times, and the keepers are choice. Similar to my 2012 PBS offering.
+|BX 367|15|BULBS|Roy Herold|NA|Narcissus |Mixed Seedlings These date back to a mass sowing in 2004 of seed from moderately controlled crosses of romieuxii, cantabricus, albidus, zaianicus, and similar early blooming sorts of the bulbocodium group. Colors tend to be light yellow through cream to white, and flowers are large, much larger than the little gold colored bulbocodiums of spring. These have been selected three times, and the keepers are choice. Similar to my 2012 PBS offering.|NA|NA
+16. Narcissus 'Nylon'
+|BX 367|16|BULBS|Roy Herold|NA|Narcissus |'Nylon'|NA|NA
+17. Narcissus romieuxii albidus tananicus N002 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|17|BULBS|Roy Herold|NA|Narcissus romieuxii|albidus tananicus N002 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+18. Narcissus 'Treble Chance' JCA805 N066 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|18|BULBS|Roy Herold|NA|Narcissus |'Treble Chance' JCA805 N066 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
+19. Narcissus zaianicus lutescens x cantabricus N037 Narcissus are mostly blooming size. N numbers are Roy's own.
+|BX 367|19|BULBS|Roy Herold|NA|Narcissus zaianicus|lutescens x cantabricus N037 Narcissus are mostly blooming size. N numbers are Roy's own.|NA|NA
 20. Oxalis engleriana
-|BX 367|20|SEEDS|Roy Herold|NA|Oxalis engleriana||NA|NA
+|BX 367|20|BULBS|Roy Herold|NA|Oxalis engleriana||NA|NA
 21. Lachenalia pallida ex BX 297
-|BX 367|21|SEEDS|Roy Herold|NA|Lachenalia pallida|ex BX 297|NA|NA
+|BX 367|21|BULBS|Roy Herold|NA|Lachenalia pallida|ex BX 297|NA|NA
 From Jim Waddick:
 ------------------------------- 
 22. Ledebouria socials cv 'violacea'. Received years ago under this name, but now known as simply L. socialis.  Easy succulent bulb. Plant bulbs with base barely below soil level. Tender in Kansas City . Zone 8? 9?10? 
-|BX 367|22|SEEDS|Jim Waddick|NA|Ledebouria socials|cv 'violacea'. Received years ago under this name, but now known as simply L. socialis. Easy succulent bulb. Plant bulbs with base barely below soil level. Tender in Kansas City . Zone 8? 9?10?|NA|NA
+|BX 367|22|BULBS|Jim Waddick|NA|Ledebouria socials|cv 'violacea'. Received years ago under this name, but now known as simply L. socialis. Easy succulent bulb. Plant bulbs with base barely below soil level. Tender in Kansas City . Zone 8? 9?10?|NA|NA
 From John Wickham:
 ------------------------------- 
 23. Babiana `Blue Gem'
-|BX 367|23|SEEDS|John Wickham|NA|Babiana |`Blue Gem'|NA|NA
+|BX 367|23|BULBS|John Wickham|NA|Babiana |`Blue Gem'|NA|NA
 24. Babiana `Brilliant Blue'
-|BX 367|24|SEEDS|John Wickham|NA|Babiana |`Brilliant Blue'|NA|NA
+|BX 367|24|BULBS|John Wickham|NA|Babiana |`Brilliant Blue'|NA|NA
 25. Babiana `Deep Dreams'
-|BX 367|25|SEEDS|John Wickham|NA|Babiana |`Deep Dreams'|NA|NA
+|BX 367|25|BULBS|John Wickham|NA|Babiana |`Deep Dreams'|NA|NA
 26. Babiana `Mighty Magenta'
-|BX 367|26|SEEDS|John Wickham|NA|Babiana |`Mighty Magenta'|NA|NA
+|BX 367|26|BULBS|John Wickham|NA|Babiana |`Mighty Magenta'|NA|NA
 27. Babiana `Purple Haze'
-|BX 367|27|SEEDS|John Wickham|NA|Babiana |`Purple Haze'|NA|NA
+|BX 367|27|BULBS|John Wickham|NA|Babiana |`Purple Haze'|NA|NA
 28. Babiana rubrocyanea
-|BX 367|28|SEEDS|John Wickham|NA|Babiana rubrocyanea||NA|NA
+|BX 367|28|BULBS|John Wickham|NA|Babiana rubrocyanea||NA|NA
 29. Babiana stricta
-|BX 367|29|SEEDS|John Wickham|NA|Babiana stricta||NA|NA
+|BX 367|29|BULBS|John Wickham|NA|Babiana stricta||NA|NA
 
 
  -=================================================== end 367 =============
