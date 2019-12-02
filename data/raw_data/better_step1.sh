@@ -164,10 +164,12 @@ function infer_category {
 }
 # ========================================================================================
 
-# Splits the item number from the rest of the line.
-# Finds donor lines and prepends donor column.
-# Finds seeds/bulbs category and prepends category column.
-# Pre-pend bx number.
+# Parses raw input lines from email archive list
+# Finds donor for each section of lines
+# Finds seeds/bulbs category for each section of lines
+# Pre-pend bx number from file name
+# Parses item number, Genus-species as taxon, note
+# Detects http links but usually these are truncated in raw data
 
 for i in {351..381} 
 do
@@ -205,10 +207,13 @@ do
         if [[ $donor =~ SEED ]]
         then
           #echo "SEED category found"; # TODO debug
-          category=`echo $donor | sed -E 's/(.)*SEED(.)*/SEEDS/'`;
-          donor=`echo $donor | sed -E 's/[^A-Za-z]*SEED(.)*//'`;
+          category="SEEDS";
+          donor=`echo $donor | sed 's/ \(SEEDS\)//' | sed 's/ \(seeds\)//'`; 
+        elif [[ $donor =~ BULBS ]]
+        then
+            category="BULBS";
+            donor=`echo $donor | sed 's/ \(BULBS\)//'`; 
         fi
-        # TODO split off (seeds) (BULBS)
 
   else
         # Not a donor line
@@ -286,5 +291,5 @@ do
  
 done < "${path}/bx${i}.txt"
 
-echo "==================================================== end $i ============="
+echo " -=================================================== end $i ============="
 done

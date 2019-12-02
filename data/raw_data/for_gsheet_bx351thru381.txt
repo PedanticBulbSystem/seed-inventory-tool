@@ -86,7 +86,7 @@ From Ernie DeMarie:
 |BX 351|36|BULBS|Ernie DeMarie|NA|Watsonia cf|. laccata; orange dwarf|NA|NA
 
 
-==================================================== end 351 =============
+ -=================================================== end 351 =============
 From Robert Werra:
 ------------------------------- 
 (SEEDS)
@@ -175,7 +175,7 @@ From Mary Sue Ittner:
 |BX 352|36|SEEDS|Mary Sue Ittner|NA|Tigridia vanhouttei|- summer growing, individual flowers short lived, but mine blooms for months, flies pollinate it|NA|NA
 
 
-==================================================== end 352 =============
+ -=================================================== end 352 =============
 From Stephen Gregg:
 ------------------------------- 
 Seeds of Clivia miniata selections, most open-pollinated:
@@ -259,7 +259,7 @@ From Rimmer de Vries:
 |BX 353|29|SEEDS|Rimmer de Vries|NA|Iris delavayi||NA|NA
 
 
-==================================================== end 353 =============
+ -=================================================== end 353 =============
 From Jude Platteborze:
 ------------------------------- 
 A grab bag!
@@ -273,17 +273,17 @@ From Jim Shields (and Charles Crane):
 From Mary Sue Ittner: (SEEDS)
 ------------------------------- 
 3. Chlorogalum pomeridianum - winter growing
-|BX 354|3|SEEDS|Mary Sue Ittner|NA|Chlorogalum pomeridianum|- winter growing|NA|NA
+|BX 354|3|SEEDS|Mary Sue Ittner (SEEDS)|NA|Chlorogalum pomeridianum|- winter growing|NA|NA
 4. Eucomis comosa - summer growing, purple leaves
-|BX 354|4|SEEDS|Mary Sue Ittner|NA|Eucomis comosa|- summer growing, purple leaves|NA|NA
+|BX 354|4|SEEDS|Mary Sue Ittner (SEEDS)|NA|Eucomis comosa|- summer growing, purple leaves|NA|NA
 5. Nerine angustifolia (already sprouting), open pollinated so likely hybrid
-|BX 354|5|SEEDS|Mary Sue Ittner|NA|Nerine angustifolia|(already sprouting), open pollinated so likely hybrid|NA|NA
+|BX 354|5|SEEDS|Mary Sue Ittner (SEEDS)|NA|Nerine angustifolia|(already sprouting), open pollinated so likely hybrid|NA|NA
 6. Nerine sarniensis (mixed colors)
-|BX 354|6|SEEDS|Mary Sue Ittner|NA|Nerine sarniensis|(mixed colors)|NA|NA
+|BX 354|6|SEEDS|Mary Sue Ittner (SEEDS)|NA|Nerine sarniensis|(mixed colors)|NA|NA
 7. Polianthes geminiflora - summer growing
-|BX 354|7|SEEDS|Mary Sue Ittner|NA|Polianthes geminiflora|- summer growing|NA|NA
+|BX 354|7|SEEDS|Mary Sue Ittner (SEEDS)|NA|Polianthes geminiflora|- summer growing|NA|NA
 8. Tigridia vanhouttei - summer growing
-|BX 354|8|SEEDS|Mary Sue Ittner|NA|Tigridia vanhouttei|- summer growing|NA|NA
+|BX 354|8|SEEDS|Mary Sue Ittner (SEEDS)|NA|Tigridia vanhouttei|- summer growing|NA|NA
 From Nicholas Plummer:
 ------------------------------- 
 9. Seeds of Arisaema triphyllum - these are seeds from plants grown in my garden and are two generations removed from seed originally collected in Wake Co, NC. I usually observe good germination after cold, moist stratification.
@@ -293,11 +293,11 @@ From Nicholas Plummer:
 From Chris Elwell: (SEEDS)
 ------------------------------- 
 11. Calochortus venustus, burgundy (OP)
-|BX 354|11|SEEDS|Chris Elwell|NA|Calochortus venustus|burgundy (OP)|NA|NA
+|BX 354|11|SEEDS|Chris Elwell (SEEDS)|NA|Calochortus venustus|burgundy (OP)|NA|NA
 12. Calochortus venustus "var. sanguineus" (OP)
-|BX 354|12|SEEDS|Chris Elwell|NA|Calochortus venustus|"var. sanguineus" (OP)|NA|NA
+|BX 354|12|SEEDS|Chris Elwell (SEEDS)|NA|Calochortus venustus|"var. sanguineus" (OP)|NA|NA
 13. Habranthus gracilifolius
-|BX 354|13|SEEDS|Chris Elwell|NA|Habranthus gracilifolius||NA|NA
+|BX 354|13|SEEDS|Chris Elwell (SEEDS)|NA|Habranthus gracilifolius||NA|NA
 From Dee Foster:
 ------------------------------- 
 14. Seeds of Gloriosa superba
@@ -316,7 +316,7 @@ From Marvin Ellenbecker:
 |BX 354|18|SEEDS|Marvin Ellenbecker|NA|Bulbs of|Hippeastrum papilio (2 - 6 cm dia.)|NA|NA
 
 
-==================================================== end 354 =============
+ -=================================================== end 354 =============
 From Rimmer de Vries:  (seeds)
 ------------------------------- 
 1. Clivia miniata, yellow 
@@ -332,22 +332,22 @@ From Rimmer de Vries:  (seeds)
 From Jim Shields:  (BULBS)
 ------------------------------- 
 6. Habranthus tubispathus (typical Texas form) The rain lilies are from Charles Crane's research collection at Purdue.  He collected the original bulbs in Texas up to 40 years ago.  These are selected seedlings, descendants of the original wild-collected parents.
-|BX 355|6||Jim Shields (BULBS)|NA|Habranthus tubispathus|(typical Texas form) The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
+|BX 355|6|BULBS|Jim Shields (BULBS)|NA|Habranthus tubispathus|(typical Texas form) The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
 7. Habranthus tubispathus (form from San Marcos county, TX) The rain lilies are from Charles Crane's research collection at Purdue.  He collected the original bulbs in Texas up to 40 years ago.  These are selected seedlings, descendants of the original wild-collected parents.
-|BX 355|7||Jim Shields (BULBS)|NA|Habranthus tubispathus|(form from San Marcos county, TX) The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
+|BX 355|7|BULBS|Jim Shields (BULBS)|NA|Habranthus tubispathus|(form from San Marcos county, TX) The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
 8. Zephyranthes jonesii  The rain lilies are from Charles Crane's research collection at Purdue.  He collected the original bulbs in Texas up to 40 years ago.  These are selected seedlings, descendants of the original wild-collected parents.
-|BX 355|8||Jim Shields (BULBS)|NA|Zephyranthes jonesii|The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
+|BX 355|8|BULBS|Jim Shields (BULBS)|NA|Zephyranthes jonesii|The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
 9. Zephyranthes pulchella (from Texas originally) The rain lilies are from Charles Crane's research collection at Purdue.  He collected the original bulbs in Texas up to 40 years ago.  These are selected seedlings, descendants of the original wild-collected parents.
-|BX 355|9||Jim Shields (BULBS)|NA|Zephyranthes pulchella|(from Texas originally) The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
+|BX 355|9|BULBS|Jim Shields (BULBS)|NA|Zephyranthes pulchella|(from Texas originally) The rain lilies are from Charles Crane's research collection at Purdue. He collected the original bulbs in Texas up to 40 years ago. These are selected seedlings, descendants of the original wild-collected parents.|NA|NA
 10. Zephyranthes smallii (from Texas originally)
-|BX 355|10||Jim Shields (BULBS)|NA|Zephyranthes smallii|(from Texas originally)|NA|NA
+|BX 355|10|BULBS|Jim Shields (BULBS)|NA|Zephyranthes smallii|(from Texas originally)|NA|NA
 11. Tristagma (Ipheion) 'Charlotte Bishop' (a very few bulbs) The Ipheion bulbs are originally from gardens
-|BX 355|11||Jim Shields (BULBS)|NA|Tristagma |(Ipheion) 'Charlotte Bishop' (a very few bulbs) The Ipheion bulbs are originally from gardens|NA|NA
+|BX 355|11|BULBS|Jim Shields (BULBS)|NA|Tristagma |(Ipheion) 'Charlotte Bishop' (a very few bulbs) The Ipheion bulbs are originally from gardens|NA|NA
 12. Tristagma (Ipheion) 'Rolf Fiedler' The Ipheion bulbs are originally from gardens
-|BX 355|12||Jim Shields (BULBS)|NA|Tristagma |(Ipheion) 'Rolf Fiedler' The Ipheion bulbs are originally from gardens|NA|NA
+|BX 355|12|BULBS|Jim Shields (BULBS)|NA|Tristagma |(Ipheion) 'Rolf Fiedler' The Ipheion bulbs are originally from gardens|NA|NA
 
 
-==================================================== end 355 =============
+ -=================================================== end 355 =============
 From Kipp McMichael:
 ------------------------------- 
 1. Seeds of Crinum americanum ex Florida
@@ -387,43 +387,43 @@ From Shawn Pollard:
 |BX 356|13|SEEDS|Shawn Pollard|NA|Proboscidea althaeifolia||NA|NA
 
 
-==================================================== end 356 =============
+ -=================================================== end 356 =============
 From Uli Urban: (SEEDS)
 ------------------------------- 
 1. Achimenes pedunculata aerial bulbili summer growing winter dormant Gesneriad, upright plant to 1m tall, lots of small orange-red flowers, needs good light
-|BX 357|1|SEEDS|Uli Urban|NA|Achimenes pedunculata|aerial bulbili summer growing winter dormant Gesneriad, upright plant to 1m tall, lots of small orange-red flowers, needs good light|NA|NA
+|BX 357|1|SEEDS|Uli Urban (SEEDS)|NA|Achimenes pedunculata|aerial bulbili summer growing winter dormant Gesneriad, upright plant to 1m tall, lots of small orange-red flowers, needs good light|NA|NA
 2. Albuca aurea not really yellow, rather greenish yellow upright flowers, stout evergreen plant, flowers in spring 50cm tall. Always looks somewhat untidy.
-|BX 357|2|SEEDS|Uli Urban|NA|Albuca aurea|not really yellow, rather greenish yellow upright flowers, stout evergreen plant, flowers in spring 50cm tall. Always looks somewhat untidy.|NA|NA
+|BX 357|2|SEEDS|Uli Urban (SEEDS)|NA|Albuca aurea|not really yellow, rather greenish yellow upright flowers, stout evergreen plant, flowers in spring 50cm tall. Always looks somewhat untidy.|NA|NA
 3. Albuca shawii (Ornithogalum shawii, Albuca tenuifolia) 40cm tall, summer growing, winter dormant, nodding yellow unscented flowers, pleasantly fragrant foliage
-|BX 357|3|SEEDS|Uli Urban|NA|Albuca shawii|(Ornithogalum shawii, Albuca tenuifolia) 40cm tall, summer growing, winter dormant, nodding yellow unscented flowers, pleasantly fragrant foliage|NA|NA
+|BX 357|3|SEEDS|Uli Urban (SEEDS)|NA|Albuca shawii|(Ornithogalum shawii, Albuca tenuifolia) 40cm tall, summer growing, winter dormant, nodding yellow unscented flowers, pleasantly fragrant foliage|NA|NA
 4. Albuca sp.;?.  bought as shawii but distinct. Leaves not fragrant, scented yellow nodding flowers, 40cm, possibly a variation of shawii
-|BX 357|4|SEEDS|Uli Urban|NA|Albuca sp|.;?. bought as shawii but distinct. Leaves not fragrant, scented yellow nodding flowers, 40cm, possibly a variation of shawii|NA|NA
+|BX 357|4|SEEDS|Uli Urban (SEEDS)|NA|Albuca sp|.;?. bought as shawii but distinct. Leaves not fragrant, scented yellow nodding flowers, 40cm, possibly a variation of shawii|NA|NA
 5. Albuca sp.;?  tall white inflorescence, evergreen tidy foliage, very lush plant. bought as a very small offset in a California rare plant fair, 1,5m tall.
-|BX 357|5|SEEDS|Uli Urban|NA|Albuca sp|.;? tall white inflorescence, evergreen tidy foliage, very lush plant. bought as a very small offset in a California rare plant fair, 1,5m tall.|NA|NA
+|BX 357|5|SEEDS|Uli Urban (SEEDS)|NA|Albuca sp|.;? tall white inflorescence, evergreen tidy foliage, very lush plant. bought as a very small offset in a California rare plant fair, 1,5m tall.|NA|NA
 6. Allium cernuum charming inflorescence of many dangling purple urns, stamens protruding. 60cm tall, very hardy, summer flowering
-|BX 357|6|SEEDS|Uli Urban|NA|Allium cernuum|charming inflorescence of many dangling purple urns, stamens protruding. 60cm tall, very hardy, summer flowering|NA|NA
+|BX 357|6|SEEDS|Uli Urban (SEEDS)|NA|Allium cernuum|charming inflorescence of many dangling purple urns, stamens protruding. 60cm tall, very hardy, summer flowering|NA|NA
 7. Arisaema cf. consanguineum; from Chiltern seeds, tall plant, many leaflets arranged radially, green flowers, enormous bright red fruit. Not tested for hardiness. 1.2m tall.
-|BX 357|7|SEEDS|Uli Urban|NA|Arisaema cf|. consanguineum; from Chiltern seeds, tall plant, many leaflets arranged radially, green flowers, enormous bright red fruit. Not tested for hardiness. 1.2m tall.|NA|NA
+|BX 357|7|SEEDS|Uli Urban (SEEDS)|NA|Arisaema cf|. consanguineum; from Chiltern seeds, tall plant, many leaflets arranged radially, green flowers, enormous bright red fruit. Not tested for hardiness. 1.2m tall.|NA|NA
 8. Canna paniculata (?) evergreen, no rest period, it will die if you keep it as a dry rhizome. flowers in spring rather insignificant. But magnificent foliage plant. Identity not certain, from a few grains from Bolivia.
-|BX 357|8|SEEDS|Uli Urban|NA|Canna paniculata|(?) evergreen, no rest period, it will die if you keep it as a dry rhizome. flowers in spring rather insignificant. But magnificent foliage plant. Identity not certain, from a few grains from Bolivia.|NA|NA
+|BX 357|8|SEEDS|Uli Urban (SEEDS)|NA|Canna paniculata|(?) evergreen, no rest period, it will die if you keep it as a dry rhizome. flowers in spring rather insignificant. But magnificent foliage plant. Identity not certain, from a few grains from Bolivia.|NA|NA
 9. Dahlia coccinea (var palmeri) (open pollinated, may not come true) The original seed was from Harry Hay. Collecting data available. Fantastic plant, likes cool summers and/or semi shade. best in September when it cools down. 2,5m tall, very elegant, finely dissected foliage, horizontal bright orange single flowers. Seeds germinate best in cool conditions. Some plants may flower yellow, also attractive. VERY IMPORTANT: the tubers will form at a good distance from the main stem, only attached by a thin string-like root. It DOES form tubers, take care when digging it up for winter storage. Does not reach its adult size the first year from seed.
-|BX 357|9|SEEDS|Uli Urban|NA|Dahlia coccinea|(var palmeri) (open pollinated, may not come true) The original seed was from Harry Hay. Collecting data available. Fantastic plant, likes cool summers and/or semi shade. best in September when it cools down. 2,5m tall, very elegant, finely dissected foliage, horizontal bright orange single flowers. Seeds germinate best in cool conditions. Some plants may flower yellow, also attractive. VERY IMPORTANT: the tubers will form at a good distance from the main stem, only attached by a thin string-like root. It DOES form tubers, take care when digging it up for winter storage. Does not reach its adult size the first year from seed.|NA|NA
+|BX 357|9|SEEDS|Uli Urban (SEEDS)|NA|Dahlia coccinea|(var palmeri) (open pollinated, may not come true) The original seed was from Harry Hay. Collecting data available. Fantastic plant, likes cool summers and/or semi shade. best in September when it cools down. 2,5m tall, very elegant, finely dissected foliage, horizontal bright orange single flowers. Seeds germinate best in cool conditions. Some plants may flower yellow, also attractive. VERY IMPORTANT: the tubers will form at a good distance from the main stem, only attached by a thin string-like root. It DOES form tubers, take care when digging it up for winter storage. Does not reach its adult size the first year from seed.|NA|NA
 10. Ipomoea lindheimeri not a tuber but a fleshy rhizome. Pretty light blue flowers with a cream throat, slighty scented. A US native. Easy.
-|BX 357|10|SEEDS|Uli Urban|NA|Ipomoea lindheimeri|not a tuber but a fleshy rhizome. Pretty light blue flowers with a cream throat, slighty scented. A US native. Easy.|NA|NA
+|BX 357|10|SEEDS|Uli Urban (SEEDS)|NA|Ipomoea lindheimeri|not a tuber but a fleshy rhizome. Pretty light blue flowers with a cream throat, slighty scented. A US native. Easy.|NA|NA
 11. Lilium 'White Tetra Trumpets';like a giant version of Lilium regale but lacking its elegance.
-|BX 357|11|SEEDS|Uli Urban|NA|Lilium |'White Tetra Trumpets';like a giant version of Lilium regale but lacking its elegance.|NA|NA
+|BX 357|11|SEEDS|Uli Urban (SEEDS)|NA|Lilium |'White Tetra Trumpets';like a giant version of Lilium regale but lacking its elegance.|NA|NA
 12. Mirabilis jalapa tall form much taller than the trade form. Up to 1,8m. large mostly purple flowers. The tuber is so big that I can hardly carry it when I dig it up for winter storage. From cultivated plants in Bolivia.
-|BX 357|12|SEEDS|Uli Urban|NA|Mirabilis jalapa|tall form much taller than the trade form. Up to 1,8m. large mostly purple flowers. The tuber is so big that I can hardly carry it when I dig it up for winter storage. From cultivated plants in Bolivia.|NA|NA
+|BX 357|12|SEEDS|Uli Urban (SEEDS)|NA|Mirabilis jalapa|tall form much taller than the trade form. Up to 1,8m. large mostly purple flowers. The tuber is so big that I can hardly carry it when I dig it up for winter storage. From cultivated plants in Bolivia.|NA|NA
 13. Nerine bowdenii Typ Oswald From Mr Oswald in the former East-Germany. The origin of this plant is obscure. Looks like ordinary N. bowdenii but much hardier. Mr Oswald grows his stock plants among the beans and strawberries in his garden, heavily mulched in winter. (Zone 7) Seed has sprouted and is forming small bulbs. Should be planted immediately on receipt. Summer growing, it should still form a small plant this season.
-|BX 357|13|SEEDS|Uli Urban|NA|Nerine bowdenii|Typ Oswald From Mr Oswald in the former East-Germany. The origin of this plant is obscure. Looks like ordinary N. bowdenii but much hardier. Mr Oswald grows his stock plants among the beans and strawberries in his garden, heavily mulched in winter. (Zone 7) Seed has sprouted and is forming small bulbs. Should be planted immediately on receipt. Summer growing, it should still form a small plant this season.|NA|NA
+|BX 357|13|SEEDS|Uli Urban (SEEDS)|NA|Nerine bowdenii|Typ Oswald From Mr Oswald in the former East-Germany. The origin of this plant is obscure. Looks like ordinary N. bowdenii but much hardier. Mr Oswald grows his stock plants among the beans and strawberries in his garden, heavily mulched in winter. (Zone 7) Seed has sprouted and is forming small bulbs. Should be planted immediately on receipt. Summer growing, it should still form a small plant this season.|NA|NA
 14. Nerine alta (N. undulata)(?) Bought as N. bowdenii seed from David Human in South Africa but is so distinct that I doubt. Very frilled narrow petals, many more flowers per stem than bowdenii. Has proved extremely hardy (Zone 7, Temps can go down to -20°C) with winter mulch and protection from winter wet. Takes a long time to establish. Very attractive. Seed has sprouted as well, see above.
-|BX 357|14|SEEDS|Uli Urban|NA|Nerine alta|(N. undulata)(?) Bought as N. bowdenii seed from David Human in South Africa but is so distinct that I doubt. Very frilled narrow petals, many more flowers per stem than bowdenii. Has proved extremely hardy (Zone 7, Temps can go down to -20°C) with winter mulch and protection from winter wet. Takes a long time to establish. Very attractive. Seed has sprouted as well, see above.|NA|NA
+|BX 357|14|SEEDS|Uli Urban (SEEDS)|NA|Nerine alta|(N. undulata)(?) Bought as N. bowdenii seed from David Human in South Africa but is so distinct that I doubt. Very frilled narrow petals, many more flowers per stem than bowdenii. Has proved extremely hardy (Zone 7, Temps can go down to -20°C) with winter mulch and protection from winter wet. Takes a long time to establish. Very attractive. Seed has sprouted as well, see above.|NA|NA
 15. Tradescantia boliviana Only recently described. 80cm tall upright perennial, summer growing, strictly and completely dry winter dormancy. Needs full sun to remain upright, masses of medium sized purple triangles along the shoots, very attractive. Bolivian native.
-|BX 357|15|SEEDS|Uli Urban|NA|Tradescantia boliviana|Only recently described. 80cm tall upright perennial, summer growing, strictly and completely dry winter dormancy. Needs full sun to remain upright, masses of medium sized purple triangles along the shoots, very attractive. Bolivian native.|NA|NA
+|BX 357|15|SEEDS|Uli Urban (SEEDS)|NA|Tradescantia boliviana|Only recently described. 80cm tall upright perennial, summer growing, strictly and completely dry winter dormancy. Needs full sun to remain upright, masses of medium sized purple triangles along the shoots, very attractive. Bolivian native.|NA|NA
 16. Tropaeolum pentaphyllum subsp.  megapetalum.  The summer growing and winter dormant version of T. pentaphyllum, Has two relatively large bright red "ears". Difficult and slow to germinate, sometimes germinating very easily. Forms very large sausage shaped tubers, strictly winter dormant. Very vigorous climber. Bolivia
-|BX 357|16|SEEDS|Uli Urban|NA|Tropaeolum pentaphyllum|subsp. megapetalum. The summer growing and winter dormant version of T. pentaphyllum, Has two relatively large bright red "ears". Difficult and slow to germinate, sometimes germinating very easily. Forms very large sausage shaped tubers, strictly winter dormant. Very vigorous climber. Bolivia|NA|NA
+|BX 357|16|SEEDS|Uli Urban (SEEDS)|NA|Tropaeolum pentaphyllum|subsp. megapetalum. The summer growing and winter dormant version of T. pentaphyllum, Has two relatively large bright red "ears". Difficult and slow to germinate, sometimes germinating very easily. Forms very large sausage shaped tubers, strictly winter dormant. Very vigorous climber. Bolivia|NA|NA
 17. Zantedeschia jucunda, originally from Chiltern seeds, summer growing winter dormant species. Attractive foliage is bright green with white dots and the flowers are of a very thick wax like texture, very long lasting but.... not very numerous. always sets seed but this takes ages to ripen. I am not sure if this seeds is properly ripe, the pods went soft  and mushy so I cleaned and dried it. The pods remain on the plant long after the leaves have died down.
-|BX 357|17|SEEDS|Uli Urban|NA|Zantedeschia jucunda|originally from Chiltern seeds, summer growing winter dormant species. Attractive foliage is bright green with white dots and the flowers are of a very thick wax like texture, very long lasting but.... not very numerous. always sets seed but this takes ages to ripen. I am not sure if this seeds is properly ripe, the pods went soft and mushy so I cleaned and dried it. The pods remain on the plant long after the leaves have died down.|NA|NA
+|BX 357|17|SEEDS|Uli Urban (SEEDS)|NA|Zantedeschia jucunda|originally from Chiltern seeds, summer growing winter dormant species. Attractive foliage is bright green with white dots and the flowers are of a very thick wax like texture, very long lasting but.... not very numerous. always sets seed but this takes ages to ripen. I am not sure if this seeds is properly ripe, the pods went soft and mushy so I cleaned and dried it. The pods remain on the plant long after the leaves have died down.|NA|NA
 From Roy Herold:
 ------------------------------- 
 Roy says, 'Most of the Rhodohypoxis are blooming size. The Calanthes will take another year to bloom. Both winter over under the benches of the cool greenhouse but may do okay outdoors in Zone 7, or colder with snow cover and/or ideal siting.'
@@ -470,65 +470,65 @@ From Ann Patterson:
 |BX 357|33|SEEDS|Ann Patterson|NA|Seeds of|Heirloom hippeastrum that was discussed on the list a while back. One order only.|NA|NA
 
 
-==================================================== end 357 =============
+ -=================================================== end 357 =============
 From Mary Sue Ittner: (SEEDS)
 ------------------------------- 
 1. Delphinium nudicaulethis one is a dark red, rather than the usual orange red. It bloomed early before the others so seedlings might turn out to be this color.
-|BX 358|1|SEEDS|Mary Sue Ittner|NA|Delphinium nudicaulethis|one is a dark red, rather than the usual orange red. It bloomed early before the others so seedlings might turn out to be this color.|NA|NA
+|BX 358|1|SEEDS|Mary Sue Ittner (SEEDS)|NA|Delphinium nudicaulethis|one is a dark red, rather than the usual orange red. It bloomed early before the others so seedlings might turn out to be this color.|NA|NA
 2. Haemanthus deformis- mostly evergreen, with giant leaves and beautiful flowers in winter, often when not much else is blooming; I grow this year round in my unheated greenhouse in Northern California.  http://pacificbulbsociety.org/pbswiki/index.php/#
-|BX 358|2|SEEDS|Mary Sue Ittner|NA|Haemanthus deformis|- mostly evergreen, with giant leaves and beautiful flowers in winter, often when not much else is blooming; I grow this year round in my unheated greenhouse in Northern California. |http://pacificbulbsociety.org/pbswiki/index.php/#|NA
+|BX 358|2|SEEDS|Mary Sue Ittner (SEEDS)|NA|Haemanthus deformis|- mostly evergreen, with giant leaves and beautiful flowers in winter, often when not much else is blooming; I grow this year round in my unheated greenhouse in Northern California. |http://pacificbulbsociety.org/pbswiki/index.php/#|NA
 3. Gloriosa superbasummer growing, I let it dry out in winter in my greenhouse, but grow it there in summer where it gets extra warmth in my cooler summer climate. This is a photo of it in bloom.  http://pacificbulbsociety.org/pbswiki/files/#
-|BX 358|3|SEEDS|Mary Sue Ittner|NA|Gloriosa superbasummer|growing, I let it dry out in winter in my greenhouse, but grow it there in summer where it gets extra warmth in my cooler summer climate. This is a photo of it in bloom. |http://pacificbulbsociety.org/pbswiki/files/#|NA
+|BX 358|3|SEEDS|Mary Sue Ittner (SEEDS)|NA|Gloriosa superbasummer|growing, I let it dry out in winter in my greenhouse, but grow it there in summer where it gets extra warmth in my cooler summer climate. This is a photo of it in bloom. |http://pacificbulbsociety.org/pbswiki/files/#|NA
 4.  Brunsvigia grandifloraonly a few seed, some sprouting, summer flowering in South Africa, but mine in California bloom late fall, early winter
-|BX 358|4|SEEDS|Mary Sue Ittner|NA|Brunsvigia grandifloraonly|a few seed, some sprouting, summer flowering in South Africa, but mine in California bloom late fall, early winter|NA|NA
+|BX 358|4|SEEDS|Mary Sue Ittner (SEEDS)|NA|Brunsvigia grandifloraonly|a few seed, some sprouting, summer flowering in South Africa, but mine in California bloom late fall, early winter|NA|NA
 5. Moraea polystachyalong blooming fall into winter, may need some moisture during dormancy, comes into growth early fall
-|BX 358|5|SEEDS|Mary Sue Ittner|NA|Moraea polystachyalong|blooming fall into winter, may need some moisture during dormancy, comes into growth early fall|NA|NA
+|BX 358|5|SEEDS|Mary Sue Ittner (SEEDS)|NA|Moraea polystachyalong|blooming fall into winter, may need some moisture during dormancy, comes into growth early fall|NA|NA
 6. Scadoxus membranaceus - only a few seed, summer growing, this is a lovely plant, see photos here from Nhu and me http://pacificbulbsociety.org/pbswiki/index.php/#
-|BX 358|6|SEEDS|Mary Sue Ittner|NA|Scadoxus membranaceus|- only a few seed, summer growing, this is a lovely plant, see photos here from Nhu and me |http://pacificbulbsociety.org/pbswiki/index.php/#|NA
+|BX 358|6|SEEDS|Mary Sue Ittner (SEEDS)|NA|Scadoxus membranaceus|- only a few seed, summer growing, this is a lovely plant, see photos here from Nhu and me |http://pacificbulbsociety.org/pbswiki/index.php/#|NA
 From Ina Crossley (SEEDS):
 ------------------------------- 
 7. Zephyranthes 'Hidalgo' 'John Fellers'
-|BX 358|7|SEEDS|Ina Crossley|NA|Zephyranthes |'Hidalgo' 'John Fellers'|NA|NA
+|BX 358|7|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes |'Hidalgo' 'John Fellers'|NA|NA
 8. Zephyranthes jonesii
-|BX 358|8|SEEDS|Ina Crossley|NA|Zephyranthes jonesii||NA|NA
+|BX 358|8|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes jonesii||NA|NA
 9. Zephyranthes dichromantha
-|BX 358|9|SEEDS|Ina Crossley|NA|Zephyranthes dichromantha||NA|NA
+|BX 358|9|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes dichromantha||NA|NA
 10. Zephyranthes flavissima
-|BX 358|10|SEEDS|Ina Crossley|NA|Zephyranthes flavissima||NA|NA
+|BX 358|10|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes flavissima||NA|NA
 11. Zephyranthes minuta, white
-|BX 358|11|SEEDS|Ina Crossley|NA|Zephyranthes minuta|white|NA|NA
+|BX 358|11|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes minuta|white|NA|NA
 12. Zephyranthes katheriniae, red form
-|BX 358|12|SEEDS|Ina Crossley|NA|Zephyranthes katheriniae|red form|NA|NA
+|BX 358|12|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes katheriniae|red form|NA|NA
 13. Zephyranthes 'Pink Beauty'
-|BX 358|13|SEEDS|Ina Crossley|NA|Zephyranthes |'Pink Beauty'|NA|NA
+|BX 358|13|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes |'Pink Beauty'|NA|NA
 14. Zephyranthes macrosiphon 'Hidalgo'
-|BX 358|14|SEEDS|Ina Crossley|NA|Zephyranthes macrosiphon|'Hidalgo'|NA|NA
+|BX 358|14|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes macrosiphon|'Hidalgo'|NA|NA
 15. Zephyranthes drummondii
-|BX 358|15|SEEDS|Ina Crossley|NA|Zephyranthes drummondii||NA|NA
+|BX 358|15|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes drummondii||NA|NA
 16. Zephyranthes citrina
-|BX 358|16|SEEDS|Ina Crossley|NA|Zephyranthes citrina||NA|NA
+|BX 358|16|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes citrina||NA|NA
 17. Zephyranthes primulina
-|BX 358|17|SEEDS|Ina Crossley|NA|Zephyranthes primulina||NA|NA
+|BX 358|17|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes primulina||NA|NA
 18. Zephyranthes lindleyana
-|BX 358|18|SEEDS|Ina Crossley|NA|Zephyranthes lindleyana||NA|NA
+|BX 358|18|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes lindleyana||NA|NA
 19. Zephyranthes mesochloa
-|BX 358|19|SEEDS|Ina Crossley|NA|Zephyranthes mesochloa||NA|NA
+|BX 358|19|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes mesochloa||NA|NA
 20. Zephyranthes morrisclintii
-|BX 358|20|SEEDS|Ina Crossley|NA|Zephyranthes morrisclintii||NA|NA
+|BX 358|20|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes morrisclintii||NA|NA
 21. Zephyranthes primulina hybrid
-|BX 358|21|SEEDS|Ina Crossley|NA|Zephyranthes primulina|hybrid|NA|NA
+|BX 358|21|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes primulina|hybrid|NA|NA
 22. Zephyranthes 'Sunset Strain'
-|BX 358|22|SEEDS|Ina Crossley|NA|Zephyranthes |'Sunset Strain'|NA|NA
+|BX 358|22|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes |'Sunset Strain'|NA|NA
 23. Zephyranthes minuta 'Rosea'
-|BX 358|23|SEEDS|Ina Crossley|NA|Zephyranthes minuta|'Rosea'|NA|NA
+|BX 358|23|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes minuta|'Rosea'|NA|NA
 24. Zephyranthes 'Hidalgo'  x  Z. grandiflora
-|BX 358|24|SEEDS|Ina Crossley|NA|Zephyranthes |'Hidalgo' x Z. grandiflora|NA|NA
+|BX 358|24|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes |'Hidalgo' x Z. grandiflora|NA|NA
 25. Zephyranthes reginae
-|BX 358|25|SEEDS|Ina Crossley|NA|Zephyranthes reginae||NA|NA
+|BX 358|25|SEEDS|Ina Crossley (SEEDS)|NA|Zephyranthes reginae||NA|NA
 26. Tigridia pavonia, white
-|BX 358|26|SEEDS|Ina Crossley|NA|Tigridia pavonia|white|NA|NA
+|BX 358|26|SEEDS|Ina Crossley (SEEDS)|NA|Tigridia pavonia|white|NA|NA
 27. Kniphofia typhoides
-|BX 358|27|SEEDS|Ina Crossley|NA|Kniphofia typhoides||NA|NA
+|BX 358|27|SEEDS|Ina Crossley (SEEDS)|NA|Kniphofia typhoides||NA|NA
 From Tim Eck:
 ------------------------------- 
 Seeds of some Hippeastrum and some Sprekelia crosses:
@@ -548,15 +548,15 @@ Seeds of some Hippeastrum and some Sprekelia crosses:
 |BX 358|34|SEEDS|Tim Eck|NA|NA|NA|NA|NA
 
 
-==================================================== end 358 =============
+ -=================================================== end 358 =============
 From Lyn Makela: (BULBS)
 ------------------------------- 
 1. Crinum 'Menehune', deep wine-color leaves (Crinum oliganthum x C. asiaticum?)
-|BX 359|1||Lyn Makela (BULBS)|NA|Crinum |'Menehune', deep wine-color leaves (Crinum oliganthum x C. asiaticum?)|NA|NA
+|BX 359|1|BULBS|Lyn Makela (BULBS)|NA|Crinum |'Menehune', deep wine-color leaves (Crinum oliganthum x C. asiaticum?)|NA|NA
 2. Talinum sp from Yucca Do, ex Salta City, Argentina. Looks like 'Eyerdamii'? 12 inches
-|BX 359|2||Lyn Makela (BULBS)|NA|Talinum sp|from Yucca Do, ex Salta City, Argentina. Looks like 'Eyerdamii'? 12 inches|NA|NA
+|BX 359|2|BULBS|Lyn Makela (BULBS)|NA|Talinum sp|from Yucca Do, ex Salta City, Argentina. Looks like 'Eyerdamii'? 12 inches|NA|NA
 3. Zephyranthes verecunda rosea (Zephyranthes minuta 'Rosea')
-|BX 359|3||Lyn Makela (BULBS)|NA|Zephyranthes verecunda|rosea (Zephyranthes minuta 'Rosea')|NA|NA
+|BX 359|3|BULBS|Lyn Makela (BULBS)|NA|Zephyranthes verecunda|rosea (Zephyranthes minuta 'Rosea')|NA|NA
 From Mary Sue Ittner:
 ------------------------------- 
 BULBS: Not sure if any of these are blooming size
@@ -582,88 +582,88 @@ From Jim Waddick (BULBS):
 |BX 359|12|BULBS|Jim Waddick (BULBS)|NA|Drimiopsis maculata|ex Mark Mazer|NA|NA
 
 
-==================================================== end 359 =============
+ -=================================================== end 359 =============
 From Lynn Makela (SEEDS):
 ------------------------------- 
 1. Zephyranthes drummondii
-|BX 360|1|SEEDS|Lynn Makela|NA|Zephyranthes drummondii||NA|NA
+|BX 360|1|SEEDS|Lynn Makela (SEEDS)|NA|Zephyranthes drummondii||NA|NA
 2. Zephyranthes lindleyana
-|BX 360|2|SEEDS|Lynn Makela|NA|Zephyranthes lindleyana||NA|NA
+|BX 360|2|SEEDS|Lynn Makela (SEEDS)|NA|Zephyranthes lindleyana||NA|NA
 3. Zephyranthes morrisclintii
-|BX 360|3|SEEDS|Lynn Makela|NA|Zephyranthes morrisclintii||NA|NA
+|BX 360|3|SEEDS|Lynn Makela (SEEDS)|NA|Zephyranthes morrisclintii||NA|NA
 4. Zephyranthes primulina
-|BX 360|4|SEEDS|Lynn Makela|NA|Zephyranthes primulina||NA|NA
+|BX 360|4|SEEDS|Lynn Makela (SEEDS)|NA|Zephyranthes primulina||NA|NA
 5. Zephyranthes reginae
-|BX 360|5|SEEDS|Lynn Makela|NA|Zephyranthes reginae||NA|NA
+|BX 360|5|SEEDS|Lynn Makela (SEEDS)|NA|Zephyranthes reginae||NA|NA
 6. Zephyranthes sp. ex Jacala, Mexico, wine red
-|BX 360|6|SEEDS|Lynn Makela|NA|Zephyranthes sp|. ex Jacala, Mexico, wine red|NA|NA
+|BX 360|6|SEEDS|Lynn Makela (SEEDS)|NA|Zephyranthes sp|. ex Jacala, Mexico, wine red|NA|NA
 From Tim Eck (SEEDS):
 ------------------------------- 
 7. Hippeastrum neopardinum x H. papilio; F2
-|BX 360|7|SEEDS|Tim Eck|NA|Hippeastrum neopardinum|x H. papilio; F2|NA|NA
+|BX 360|7|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum neopardinum|x H. papilio; F2|NA|NA
 8. Hippeastrum 'Lima' x H. 'Jade Dragon'
-|BX 360|8|SEEDS|Tim Eck|NA|Hippeastrum |'Lima' x H. 'Jade Dragon'|NA|NA
+|BX 360|8|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |'Lima' x H. 'Jade Dragon'|NA|NA
 9. Hippeastrum (neopardinum x papilio ) x (cybister x papilio); Excellent!
-|BX 360|9|SEEDS|Tim Eck|NA|Hippeastrum |(neopardinum x papilio ) x (cybister x papilio); Excellent!|NA|NA
+|BX 360|9|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |(neopardinum x papilio ) x (cybister x papilio); Excellent!|NA|NA
 10. Hippeastrum 'Ludwig Goliath' x 'Red Pearl'; Both > 8 inch dia. flowers
-|BX 360|10|SEEDS|Tim Eck|NA|Hippeastrum |'Ludwig Goliath' x 'Red Pearl'; Both > 8 inch dia. flowers|NA|NA
+|BX 360|10|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |'Ludwig Goliath' x 'Red Pearl'; Both > 8 inch dia. flowers|NA|NA
 11. Hippeastrum (papilio x mandonii) x `Jade Dragon'
-|BX 360|11|SEEDS|Tim Eck|NA|Hippeastrum |(papilio x mandonii) x `Jade Dragon'|NA|NA
+|BX 360|11|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |(papilio x mandonii) x `Jade Dragon'|NA|NA
 12. Hippeastrum papilio x `Purple Rain'
-|BX 360|12|SEEDS|Tim Eck|NA|Hippeastrum papilio|x `Purple Rain'|NA|NA
+|BX 360|12|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum papilio|x `Purple Rain'|NA|NA
 13. Hippeastrum 'Lima' x 'Grandeur'
-|BX 360|13|SEEDS|Tim Eck|NA|Hippeastrum |'Lima' x 'Grandeur'|NA|NA
+|BX 360|13|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |'Lima' x 'Grandeur'|NA|NA
 14. Hippeastrum 'Jade Dragon'x (papilio x neopardinum); Excellent!
-|BX 360|14|SEEDS|Tim Eck|NA|Hippeastrum |'Jade Dragon'x (papilio x neopardinum); Excellent!|NA|NA
+|BX 360|14|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |'Jade Dragon'x (papilio x neopardinum); Excellent!|NA|NA
 15. Hippeastrum (puniceum x papilio) x (papilio x mandonii)
-|BX 360|15|SEEDS|Tim Eck|NA|Hippeastrum |(puniceum x papilio) x (papilio x mandonii)|NA|NA
+|BX 360|15|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |(puniceum x papilio) x (papilio x mandonii)|NA|NA
 16. Hippeastrum 'Giraffe' F2 x 'Purple Rain'
-|BX 360|16|SEEDS|Tim Eck|NA|Hippeastrum |'Giraffe' F2 x 'Purple Rain'|NA|NA
+|BX 360|16|SEEDS|Tim Eck (SEEDS)|NA|Hippeastrum |'Giraffe' F2 x 'Purple Rain'|NA|NA
 From Fred Biasella (SEEDS):
 ------------------------------- 
 17. Hippeastrum 'Red Garden';(cluster type), selfed
-|BX 360|17|SEEDS|Fred Biasella|NA|Hippeastrum |'Red Garden';(cluster type), selfed|NA|NA
+|BX 360|17|SEEDS|Fred Biasella (SEEDS)|NA|Hippeastrum |'Red Garden';(cluster type), selfed|NA|NA
 18. Hippeastrum 'Bogota'; selfed
-|BX 360|18|SEEDS|Fred Biasella|NA|Hippeastrum |'Bogota'; selfed|NA|NA
+|BX 360|18|SEEDS|Fred Biasella (SEEDS)|NA|Hippeastrum |'Bogota'; selfed|NA|NA
 19. Hippeastrum 'Charisma'; selfed
-|BX 360|19|SEEDS|Fred Biasella|NA|Hippeastrum |'Charisma'; selfed|NA|NA
+|BX 360|19|SEEDS|Fred Biasella (SEEDS)|NA|Hippeastrum |'Charisma'; selfed|NA|NA
 From Rimmer de Vries (SEEDS):
 ------------------------------- 
 20. Clivia miniata hybrid; small red, OP, from B&O pastel x large Belgian
-|BX 360|20|SEEDS|Rimmer de Vries|NA|Clivia miniata|hybrid; small red, OP, from B&O pastel x large Belgian|NA|NA
+|BX 360|20|SEEDS|Rimmer de Vries (SEEDS)|NA|Clivia miniata|hybrid; small red, OP, from B&O pastel x large Belgian|NA|NA
 
 
-==================================================== end 360 =============
+ -=================================================== end 360 =============
 From Jyl Tuck:  (BULBS)
 ------------------------------- 
 1. Ledebouria socialis
-|BX 361|1||Jyl Tuck (BULBS)|NA|Ledebouria socialis||NA|NA
+|BX 361|1|BULBS|Jyl Tuck (BULBS)|NA|Ledebouria socialis||NA|NA
 2. Allium cristophii
-|BX 361|2||Jyl Tuck (BULBS)|NA|Allium cristophii||NA|NA
+|BX 361|2|BULBS|Jyl Tuck (BULBS)|NA|Allium cristophii||NA|NA
 3. Arisaema flavum
-|BX 361|3||Jyl Tuck (BULBS)|NA|Arisaema flavum||NA|NA
+|BX 361|3|BULBS|Jyl Tuck (BULBS)|NA|Arisaema flavum||NA|NA
 From Larry Neel: (SEEDS)
 ------------------------------- 
 4. Corydalis cava
-|BX 361|4|SEEDS|Larry Neel|NA|Corydalis cava||NA|NA
+|BX 361|4|SEEDS|Larry Neel (SEEDS)|NA|Corydalis cava||NA|NA
 5. Corydalis intermedia
-|BX 361|5|SEEDS|Larry Neel|NA|Corydalis intermedia||NA|NA
+|BX 361|5|SEEDS|Larry Neel (SEEDS)|NA|Corydalis intermedia||NA|NA
 6. Corydalis ornata
-|BX 361|6|SEEDS|Larry Neel|NA|Corydalis ornata||NA|NA
+|BX 361|6|SEEDS|Larry Neel (SEEDS)|NA|Corydalis ornata||NA|NA
 7. Corydalis paczoskii
-|BX 361|7|SEEDS|Larry Neel|NA|Corydalis paczoskii||NA|NA
+|BX 361|7|SEEDS|Larry Neel (SEEDS)|NA|Corydalis paczoskii||NA|NA
 8. Corydalis solida, mixed
-|BX 361|8|SEEDS|Larry Neel|NA|Corydalis solida|mixed|NA|NA
+|BX 361|8|SEEDS|Larry Neel (SEEDS)|NA|Corydalis solida|mixed|NA|NA
 9. Corydalis 'Falls of Nimrodel'
-|BX 361|9|SEEDS|Larry Neel|NA|Corydalis |'Falls of Nimrodel'|NA|NA
+|BX 361|9|SEEDS|Larry Neel (SEEDS)|NA|Corydalis |'Falls of Nimrodel'|NA|NA
 10. Corydalis solida 'Zwanenburg'
-|BX 361|10|SEEDS|Larry Neel|NA|Corydalis solida|'Zwanenburg'|NA|NA
+|BX 361|10|SEEDS|Larry Neel (SEEDS)|NA|Corydalis solida|'Zwanenburg'|NA|NA
 11. Corydalis solida 'George Baker'
-|BX 361|11|SEEDS|Larry Neel|NA|Corydalis solida|'George Baker'|NA|NA
+|BX 361|11|SEEDS|Larry Neel (SEEDS)|NA|Corydalis solida|'George Baker'|NA|NA
 12. Corydalis tauricola x caucasica
-|BX 361|12|SEEDS|Larry Neel|NA|Corydalis tauricola|x caucasica|NA|NA
+|BX 361|12|SEEDS|Larry Neel (SEEDS)|NA|Corydalis tauricola|x caucasica|NA|NA
 13. Corydalis wendelboi 'Purple King'
-|BX 361|13|SEEDS|Larry Neel|NA|Corydalis wendelboi|'Purple King'|NA|NA
+|BX 361|13|SEEDS|Larry Neel (SEEDS)|NA|Corydalis wendelboi|'Purple King'|NA|NA
 From Mary Sue Ittner:
 ------------------------------- 
 14. Seed of Haemanthus pauculifolius (few)
@@ -703,7 +703,7 @@ From Mary Sue Ittner:
 |BX 361|30|BULBS|Mary Sue Ittner|NA|Tulipa linifolia||NA|NA
 
 
-==================================================== end 361 =============
+ -=================================================== end 361 =============
 From Monica Swartz:
 ------------------------------- 
 1. Bulbs of Alocasia hypnosa
@@ -711,36 +711,36 @@ From Monica Swartz:
 From Nick Plummer: (BULBS)
 ------------------------------- 
 2. Oxalis hirta
-|BX 362|2||Nick Plummer (BULBS)|NA|Oxalis hirta||NA|NA
+|BX 362|2|BULBS|Nick Plummer (BULBS)|NA|Oxalis hirta||NA|NA
 3. Oxalis namaquana (maybe O. flava)
-|BX 362|3||Nick Plummer (BULBS)|NA|Oxalis namaquana|(maybe O. flava)|NA|NA
+|BX 362|3|BULBS|Nick Plummer (BULBS)|NA|Oxalis namaquana|(maybe O. flava)|NA|NA
 From John Wickham: (BULBS)
 ------------------------------- 
 5. Oxalis fabifolia
-|BX 362|5||John Wickham (BULBS)|NA|Oxalis fabifolia||NA|NA
+|BX 362|5|BULBS|John Wickham (BULBS)|NA|Oxalis fabifolia||NA|NA
 6. Oxalis cathara
-|BX 362|6||John Wickham (BULBS)|NA|Oxalis cathara||NA|NA
+|BX 362|6|BULBS|John Wickham (BULBS)|NA|Oxalis cathara||NA|NA
 7. Oxalis sp ?, MV 5117
-|BX 362|7||John Wickham (BULBS)|NA|Oxalis sp|?, MV 5117|NA|NA
+|BX 362|7|BULBS|John Wickham (BULBS)|NA|Oxalis sp|?, MV 5117|NA|NA
 8. Oxalis bowiei
-|BX 362|8||John Wickham (BULBS)|NA|Oxalis bowiei||NA|NA
+|BX 362|8|BULBS|John Wickham (BULBS)|NA|Oxalis bowiei||NA|NA
 9. Oxalis namaquana
-|BX 362|9||John Wickham (BULBS)|NA|Oxalis namaquana||NA|NA
+|BX 362|9|BULBS|John Wickham (BULBS)|NA|Oxalis namaquana||NA|NA
 10. Oxalis glabra
-|BX 362|10||John Wickham (BULBS)|NA|Oxalis glabra||NA|NA
+|BX 362|10|BULBS|John Wickham (BULBS)|NA|Oxalis glabra||NA|NA
 11. Oxalis polyphylla heptaphylla (again!, don't worry about it)
-|BX 362|11||John Wickham (BULBS)|NA|Oxalis polyphylla|heptaphylla (again!, don't worry about it)|NA|NA
+|BX 362|11|BULBS|John Wickham (BULBS)|NA|Oxalis polyphylla|heptaphylla (again!, don't worry about it)|NA|NA
 12. Lachenalia aloides var. quadricolor
-|BX 362|12||John Wickham (BULBS)|NA|Lachenalia aloides|var. quadricolor|NA|NA
+|BX 362|12|BULBS|John Wickham (BULBS)|NA|Lachenalia aloides|var. quadricolor|NA|NA
 13. Lachenalia pallida
-|BX 362|13||John Wickham (BULBS)|NA|Lachenalia pallida||NA|NA
+|BX 362|13|BULBS|John Wickham (BULBS)|NA|Lachenalia pallida||NA|NA
 14. Lachenalia pendula (syn. L. bulbifera)
-|BX 362|14||John Wickham (BULBS)|NA|Lachenalia pendula|(syn. L. bulbifera)|NA|NA
+|BX 362|14|BULBS|John Wickham (BULBS)|NA|Lachenalia pendula|(syn. L. bulbifera)|NA|NA
 15. Gladiolus cunonius
-|BX 362|15||John Wickham (BULBS)|NA|Gladiolus cunonius||NA|NA
+|BX 362|15|BULBS|John Wickham (BULBS)|NA|Gladiolus cunonius||NA|NA
 
 
-==================================================== end 362 =============
+ -=================================================== end 362 =============
 From Rimmer de Vries:
 ------------------------------- 
 1. Clivia hybrid F2 from deep red, tulip-form , large Belgian, 2 - 3 inch wide leaves (Seed pods were very red)
@@ -797,66 +797,66 @@ From Kipp McMichael:
 |BX 363|20||Kipp McMichael|NA|Boophane disticha|from pink mother and deep red father|NA|NA
 
 
-==================================================== end 363 =============
+ -=================================================== end 363 =============
 From Mary Sue Ittner: (BULBS)
 ------------------------------- 
 1. Haemanthus humilis subsp. humilis;These are small seedlings grown from seed of Stutterheim form (white). Plant immediately.;http://www.pacificbulbsociety.org/pbswiki/index.php/Haemanthus_humilis
-|BX 364|1||Mary Sue Ittner (BULBS)|NA|Haemanthus humilis|subsp. humilis;These are small seedlings grown from seed of Stutterheim form (white). Plant immediately.;|http://www.pacificbulbsociety.org/pbswiki/index.php/Haemanthus_humilis|NA
+|BX 364|1|BULBS|Mary Sue Ittner (BULBS)|NA|Haemanthus humilis|subsp. humilis;These are small seedlings grown from seed of Stutterheim form (white). Plant immediately.;|http://www.pacificbulbsociety.org/pbswiki/index.php/Haemanthus_humilis|NA
 2. Oxalis asinina 
-|BX 364|2||Mary Sue Ittner (BULBS)|NA|Oxalis asinina||NA|NA
+|BX 364|2|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis asinina||NA|NA
 3. Oxalis bowiei
-|BX 364|3||Mary Sue Ittner (BULBS)|NA|Oxalis bowiei||NA|NA
+|BX 364|3|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis bowiei||NA|NA
 4. Oxalis callosa
-|BX 364|4||Mary Sue Ittner (BULBS)|NA|Oxalis callosa||NA|NA
+|BX 364|4|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis callosa||NA|NA
 5. Oxalis caprina
-|BX 364|5||Mary Sue Ittner (BULBS)|NA|Oxalis caprina||NA|NA
+|BX 364|5|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis caprina||NA|NA
 6. Oxalis commutata
-|BX 364|6||Mary Sue Ittner (BULBS)|NA|Oxalis commutata||NA|NA
+|BX 364|6|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis commutata||NA|NA
 7. Oxalis compressa (double flowers)
-|BX 364|7||Mary Sue Ittner (BULBS)|NA|Oxalis compressa|(double flowers)|NA|NA
+|BX 364|7|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis compressa|(double flowers)|NA|NA
 8. Oxalis depressa MV 4871
-|BX 364|8||Mary Sue Ittner (BULBS)|NA|Oxalis depressa|MV 4871|NA|NA
+|BX 364|8|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis depressa|MV 4871|NA|NA
 9. Oxalis flava (received as pink & mostly pink, occasionally a yellow one shows up)
-|BX 364|9||Mary Sue Ittner (BULBS)|NA|Oxalis flava|(received as pink & mostly pink, occasionally a yellow one shows up)|NA|NA
+|BX 364|9|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis flava|(received as pink & mostly pink, occasionally a yellow one shows up)|NA|NA
 10. Oxalis hirta
-|BX 364|10||Mary Sue Ittner (BULBS)|NA|Oxalis hirta||NA|NA
+|BX 364|10|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis hirta||NA|NA
 11. Oxalis hirta 'Gothenburg';produces giant bulbs and you only need a couple for a pot and it doesn't increase much. Very very limited supply
-|BX 364|11||Mary Sue Ittner (BULBS)|NA|Oxalis hirta|'Gothenburg';produces giant bulbs and you only need a couple for a pot and it doesn't increase much. Very very limited supply|NA|NA
+|BX 364|11|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis hirta|'Gothenburg';produces giant bulbs and you only need a couple for a pot and it doesn't increase much. Very very limited supply|NA|NA
 12. Oxalis luteola MV 5567
-|BX 364|12||Mary Sue Ittner (BULBS)|NA|Oxalis luteola|MV 5567|NA|NA
+|BX 364|12|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis luteola|MV 5567|NA|NA
 13. Oxalis sp. MV 4674 (perhaps O. commutata?)
-|BX 364|13||Mary Sue Ittner (BULBS)|NA|Oxalis sp|. MV 4674 (perhaps O. commutata?)|NA|NA
+|BX 364|13|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis sp|. MV 4674 (perhaps O. commutata?)|NA|NA
 14. Oxalis obtusa coral
-|BX 364|14||Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|coral|NA|NA
+|BX 364|14|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|coral|NA|NA
 15. Oxalis obtusa MV 5005a
-|BX 364|15||Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV 5005a|NA|NA
+|BX 364|15|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV 5005a|NA|NA
 16. Oxalis obtusa MV 5051
-|BX 364|16||Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV 5051|NA|NA
+|BX 364|16|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV 5051|NA|NA
 17. Oxalis obtusa MV6235
-|BX 364|17||Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV6235|NA|NA
+|BX 364|17|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV6235|NA|NA
 18. Oxalis obtusa MV 7085
-|BX 364|18||Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV 7085|NA|NA
+|BX 364|18|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|MV 7085|NA|NA
 19. Oxalis obtusa (peach) - looks like MV 5005a
-|BX 364|19||Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|(peach) - looks like MV 5005a|NA|NA
+|BX 364|19|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis obtusa|(peach) - looks like MV 5005a|NA|NA
 20. Oxalis palmifrons
-|BX 364|20||Mary Sue Ittner (BULBS)|NA|Oxalis palmifrons||NA|NA
+|BX 364|20|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis palmifrons||NA|NA
 21. Oxalis versicolor
-|BX 364|21||Mary Sue Ittner (BULBS)|NA|Oxalis versicolor||NA|NA
+|BX 364|21|BULBS|Mary Sue Ittner (BULBS)|NA|Oxalis versicolor||NA|NA
 22. Tulipa batalinii (small bulbs)
-|BX 364|22||Mary Sue Ittner (BULBS)|NA|Tulipa batalinii|(small bulbs)|NA|NA
+|BX 364|22|BULBS|Mary Sue Ittner (BULBS)|NA|Tulipa batalinii|(small bulbs)|NA|NA
 23. Tulipa 'Red Cup' (small bulbs) - This was purchased as Tulipa humilis 'Red Cup', but I'm suspicious about the name. I've found online pictures of Tulipa hageri 'Red Cup' that look like it. I'd love to know what to call it on the wiki. It's very pretty anyway.;http://www.pacificbulbsociety.org/pbswiki/index.php/TulipaSpeciesTwo#humilis
-|BX 364|23||Mary Sue Ittner (BULBS)|NA|Tulipa |'Red Cup' (small bulbs) - This was purchased as Tulipa humilis 'Red Cup', but I'm suspicious about the name. I've found online pictures of Tulipa hageri 'Red Cup' that look like it. I'd love to know what to call it on the wiki. It's very pretty anyway.;|http://www.pacificbulbsociety.org/pbswiki/index.php/TulipaSpeciesTwo#humilis|NA
+|BX 364|23|BULBS|Mary Sue Ittner (BULBS)|NA|Tulipa |'Red Cup' (small bulbs) - This was purchased as Tulipa humilis 'Red Cup', but I'm suspicious about the name. I've found online pictures of Tulipa hageri 'Red Cup' that look like it. I'd love to know what to call it on the wiki. It's very pretty anyway.;|http://www.pacificbulbsociety.org/pbswiki/index.php/TulipaSpeciesTwo#humilis|NA
 From Roy Herold: (BULBS)
 ------------------------------- 
 24. Erythronium americanum
-|BX 364|24||Roy Herold (BULBS)|NA|Erythronium americanum||NA|NA
+|BX 364|24|BULBS|Roy Herold (BULBS)|NA|Erythronium americanum||NA|NA
 From Jim Waddick: (BULBS)
 ------------------------------- 
 25. Ledebouria 'Pauciflora'
-|BX 364|25||Jim Waddick (BULBS)|NA|Ledebouria |'Pauciflora'|NA|NA
+|BX 364|25|BULBS|Jim Waddick (BULBS)|NA|Ledebouria |'Pauciflora'|NA|NA
 
 
-==================================================== end 364 =============
+ -=================================================== end 364 =============
 ALL SEEDS:
 From Paul Matthews:
 ------------------------------- 
@@ -894,7 +894,7 @@ From Jim Waddick:
 |BX 365|10|SEEDS|Jim Waddick|NA|Crinum bulbispermum|Jumbo strain|NA|NA
 
 
-==================================================== end 365 =============
+ -=================================================== end 365 =============
 From Roy Herold: 
 ------------------------------- 
 ALL BULBS, some in very small supply
@@ -977,7 +977,7 @@ Polyxenas are small seedlings unless noted. [NOTE: most Polyxenas are currently 
 |BX 366|34|SEEDS|Roy Herold|NA|Polyxena sp|. Silverhill 4748. Polyxenas are small seedlings unless noted. [NOTE: most Polyxenas are currently considered to be Lachenalias]|NA|NA
 
 
-==================================================== end 366 =============
+ -=================================================== end 366 =============
 ALL BULBS:
 [Our kind friend Marilyn Pekasky of the UC Berkeley Botanical Gardens voluntarily performs the thankless task of trying to verify the names of items offered on the BX. In the case of the genus Narcissus this has proved nearly impossible. So I have decided to go with the names that were provided by our very knowledgeable donor Roy Herold.]
 
@@ -1048,7 +1048,7 @@ From John Wickham:
 |BX 367|29|SEEDS|John Wickham|NA|Babiana stricta||NA|NA
 
 
-==================================================== end 367 =============
+ -=================================================== end 367 =============
 ALL BULBS
 From John Wickham:
 ------------------------------- 
@@ -1114,7 +1114,7 @@ From Jim Waddick:
 |BX 368|27|BULBS|Jim Waddick|NA|Habranthus martinezii||NA|NA
 28. Crinum `Menehune' a tropical cultivar said to originate from Hawaii. Zone 8 or warmer. AKA Crinum `Purple Passion'. Has very dark purple foliage. Small grower suited to pot culture.  
 |BX 368|28|BULBS|Jim Waddick|NA|Crinum |`Menehune' a tropical cultivar said to originate from Hawaii. Zone 8 or warmer. AKA Crinum `Purple Passion'. Has very dark purple foliage. Small grower suited to pot culture.|NA|NA
-==================================================== end 368 =============
+ -=================================================== end 368 =============
 ALL BULBS
 From Mary Sue Ittner:
 ------------------------------- 
@@ -1172,7 +1172,7 @@ From Nick Plummer:
 |BX 369|23|BULBS|Nick Plummer|NA|Hippeastrum glaucescens|(FEW)|NA|NA
 
 
-==================================================== end 369 =============
+ -=================================================== end 369 =============
 SEEDS:
 From Nick Plummer:
 ------------------------------- 
@@ -1243,7 +1243,7 @@ From Pamela Slate:
 |BX 370|27|BULBS|Pamela Slate|NA|Lachenalia juncifolia|ex Mazer|NA|NA
 
 
-==================================================== end 370 =============
+ -=================================================== end 370 =============
 From Fred Throne:
 ------------------------------- 
 1. Small bulbs of Lachenalia rubida
@@ -1312,7 +1312,7 @@ From Arnold Trachtenberg:
 |BX 371|25||Arnold Trachtenberg|NA|Seeds of|"Clivia 'Moondrops' F2 Gardenii.2014 x Yellow miniata"|NA|NA
 
 
-==================================================== end 371 =============
+ -=================================================== end 371 =============
 From Monica Swartz:
 ------------------------------- 
 1. Bulbs of Gladiolus tristis ex bx 219
@@ -1372,7 +1372,7 @@ SEEDS:
 |BX 372|21|SEEDS|Jim Waddick|NA|Lycoris hybrids|These are a mix of L. chinensis and L. longituba. Flowers will be smooth or spidery, from white to gold and may have some pink tints. Easy and hardy in Zone 5/6. These are both Spring foliage species NOT suited to Mediterranean or South eastern climates. Do best north of zone 7 into Zone 4 and 5. NOT recommended for Southern CA. Plant seeds immediately on receipt as they do not have a long shelf life. They do poorly in pots for long term and rarely bloom in pots.|NA|NA
 
 
-==================================================== end 372 =============
+ -=================================================== end 372 =============
 From Arnold Trachtenberg:
 ------------------------------- 
 1. Bulbs of Cyrtanthus hybrid; orange-scarlet trumpets.
@@ -1397,7 +1397,7 @@ From Uli Urban:
 |BX 373|7||Uli Urban|NA|Seed of|Nerine bowdenii Type Oswald. The origin of this form cannot be traced. I got very good bulbs from Mr Oswald from former East Germany where it was grown for a long time. East Germany was fairly isolated from the West during communist times but had an active gardening tradition. Many breeding programmes emphasized hardiness with the (political) aim to be independent and self sufficient. He grew these bulbs amongst the beans and strawberries in rows in his vegetable garden and gave it a very thick winter mulch made of compost and stable manure. A very good plant, hardy in almost all winters with a good mulch and overhead protection against winter wet. Typical bright pink Nerine bowdenii flowers. Needs immediate sowing.|NA|NA
 
 
-==================================================== end 373 =============
+ -=================================================== end 373 =============
 From Joyce Miller:
 ------------------------------- 
 1. Albuca shawii (A. tenuifolia) Small bulbs
@@ -1418,7 +1418,7 @@ From Uli Urban:
 |BX 374|7||Uli Urban|NA|Seeds of|Scadoxus sp.;? My Scadoxus plant came from a plant sale in a Botanical Garden in Germany where they had an old plant of amazing size in a very large tub, this plant was full of spent flowers and must have looked magnificent when it was in flower. Unfortunately there was no name on the plant. They said the seedlings they were selling came from this plant. It flowered for the very first time last year, I handpollinated the flowers and got a handful of berries. It could be the old Hybrid 'King Albert'|NA|NA
 
 
-==================================================== end 374 =============
+ -=================================================== end 374 =============
 From Rimmer De Vries:
 ------------------------------- 
 BULBS
@@ -1449,7 +1449,7 @@ SEEDS:
 |BX 375|12|SEEDS|Rimmer De Vries|NA|Clivia miniata|red Nakumura type ex Kevin Akers;|https://www.flickr.com/photos/32952654@N06/16370236073/in/album-72157651257749069/|NA
 13. Hybrid ? of Clivia caulescens X Clivia miniata-yellow Clivia caulescens -(JES # Clivia caulescens Woodbush)= pod parant flower:  https://www.flickr.com/photos/32952654@N06/16964393666/in/album-72157651257749069/ x pollen from Clivia miniata-yellow- seed received from Maris Andersons 2007 flower:  https://www.flickr.com/photos/32952654@N06/15859590245/in/album-72157647104139113/ seed:;https://www.flickr.com/photos/32952654@N06/16782956697/in/album-72157651257749069/
 |BX 375|13|SEEDS|Rimmer De Vries|NA|Hybrid |? of Clivia caulescens X Clivia miniata-yellow Clivia caulescens -(JES # Clivia caulescens Woodbush)= pod parant flower: https://www.flickr.com/photos/32952654@N06/16964393666/in/album-72157651257749069/ x pollen from Clivia miniata-yellow- seed received from Maris Andersons 2007 flower: https://www.flickr.com/photos/32952654@N06/15859590245/in/album-72157647104139113/ seed:;|https://www.flickr.com/photos/32952654@N06/16782956697/in/album-72157651257749069/|NA
-==================================================== end 375 =============
+ -=================================================== end 375 =============
 From Jill Peterson:
 ------------------------------- 
 1. Haemanthus humilis ssp. hirsutus; Small bulbs
@@ -1496,7 +1496,7 @@ From Dee Foster:
 |BX 376|16|SEEDS|Dee Foster|NA|Lachenalia mutabilis|originally from UCI. Bulblets|NA|NA
 
 
-==================================================== end 376 =============
+ -=================================================== end 376 =============
 From Tim Eck:
 ------------------------------- 
 Seedling bulbs of Hippeastrum crosses. All are close to 1 cm  dia.
@@ -1516,7 +1516,7 @@ Seedling bulbs of Hippeastrum crosses. All are close to 1 cm  dia.
 |BX 377|7|SEEDS|Tim Eck|NA|Hippeastrum |'Jade Dragon' x (H. neopardinum x H. papilio) {'Jade Dragon' = H. cybister x H. papilio, F2}|NA|NA
 This bx377 needs special processing not to split the hybrid strings.
 
-==================================================== end 377 =============
+ -=================================================== end 377 =============
 ALL BULBS:
 From Rimmer de  Vries:
 ------------------------------- 
@@ -1560,7 +1560,7 @@ Winter growing bulbs:
 |BX 378|17|BULBS|Mary Sue Ittner|NA|Tulipa turkestanica||NA|NA
 
 
-==================================================== end 378 =============
+ -=================================================== end 378 =============
 From Fred Biasella:
 ------------------------------- 
 1. Seeds of Hippeastrum 'Red Garden'
@@ -1589,7 +1589,7 @@ From Rimmer de Vries:
 |BX 379|8||Rimmer de Vries|NA|Tubers of|Othonna sp.?|NA|NA
 
 
-==================================================== end 379 =============
+ -=================================================== end 379 =============
 From Uli Urban:
 ------------------------------- 
 1. Lachenalia punctata (syn. L. rubida) bulbili. The plant is quite showy with red tubular flowers in early spring and is strictly winter growing.  The bulbili form at the leaf bases and on the midrib like structure of the leaf.The mother plant was given to me by Dietrich Müller-Doblis but I do not have the collection data.
@@ -1606,7 +1606,7 @@ From Rimmer de Vries:
 |BX 380|5||Rimmer de Vries|NA|Clivia miniata|hyb; Seeds of hyb- ex Maris Andersons- blooms as Salmon D4 to Apricot D6 (VERY FEW)|NA|NA
 
 
-==================================================== end 380 =============
+ -=================================================== end 380 =============
 From Monica Swartz:
 ------------------------------- 
 1. Seed of Hymenocallis guerreroensis from bx 243
@@ -1656,4 +1656,4 @@ From Tim Eck:
 |BX 381|18|BULBS|Tim Eck|NA|Seeds of|Crinum bulbispermum "Jumbo strain"|NA|NA
 
 
-==================================================== end 381 =============
+ -=================================================== end 381 =============
