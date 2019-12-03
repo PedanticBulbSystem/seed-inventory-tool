@@ -1,6 +1,7 @@
 #!/bin/bash
 path="archive_mined_input/incomming";
 path="./";
+path="/Users/gastil/Documents/GitHub/pbs/seed-inventory-tool/data/raw_data/archive_mined_input/incomming";
 path="/Users/gastil/Documents/git/git_pbs/seed-inventory-tool/data/raw_data/archive_mined_input/incomming";
 # should do path=$1 later
 input="NA";
@@ -146,17 +147,19 @@ function extract_and_remove_parsing {
 function infer_category {
     local category_local='';
     item_category=''; # global; empty string not NA
-    if [[ $category == NA ]]
+    if [[ $category == NA || $category == '' ]]
     then
-        if [[ $of =~ seed ]]; then
+        if [[ $of =~ seed || $of =~ Seed ]]; then
             category_local='SEEDS';
-        elif [[ $of =~ bulb ]]; then
+        elif [[ $of =~ bulb || $of =~ Bulb ]]; then
             category_local='BULBS';
-        elif [[ $of =~ rhizome ]]; then
+        elif [[ $of =~ rhizome || $of =~ Rhizome ]]; then
             category_local='BULBS';
-        elif [[ $of =~ corm ]]; then
+        elif [[ $of =~ corm || $of =~ Corm ]]; then
             category_local='BULBS';
-        elif [[ $of =~ tuber ]]; then
+        elif [[ $of =~ tuber || $of =~ Tuber ]]; then
+            category_local='BULBS';
+        elif [[ $of =~ Offsets ]]; then
             category_local='BULBS';
         fi
         item_category=$category_local;
@@ -243,7 +246,7 @@ do
 	      
 	      # --------------------- Fill empty category per-item ----------------
 	      
-	      if [[ $category =~ NA ]]; then
+	      if [[ $category =~ NA || $category == '' ]]; then
 	           infer_category; # function sets item_category from $of
 	           cat=$item_category;
 	      else
