@@ -210,7 +210,7 @@ do
         
         # Does donor string include SEEDS/BULBS string?
         # If yes, then set category
-        if [[ $donor =~ SEED ]]
+        if [[ $donor =~ SEED || $donor =~ seed ]]
         then
           # below: no need to escape parens when -E not used with sed
           category="SEEDS";
