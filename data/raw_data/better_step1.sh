@@ -38,110 +38,176 @@ function extract_and_remove_parsing {
     local of_local='NA';
     local taxon_local='NA';
     local note_local='NA';
+    variety='';
         
-    # Be sure this really is an item line. If not, exit with error.
+    # Be sure this really is an item line. If not, exit with error. # actually should only call if it is item line.
     if [[ $line_local =~ ^([1-9][0-9]*)\. ]]
     then
           item_n_local="${BASH_REMATCH[1]}";
-          #echo "item_n=$item_n_local"; #TODO debug
+    else
+       echo "not an item line"; # TODO debug
+       return 1; # error
+    fi
           
-	      # remove item number and period space from line string
-	      line_local=`echo $line_local | sed -E 's/^[1-9][0-9]*\. //'`;
-	      #echo "21:LINE=$line_local"; #TODO debug
+	# remove item number and period space from line string
+	line_local=`echo $line_local | sed -E 's/^[1-9][0-9]*\. //'`;
 	      
-	      # Test if line begins with "Small thing of "
-	      if [[ $line_local =~ ^"Small "[a-z]*" of " ]]
-	      then
-	         
-	         #echo "27:matches Small things of"; #TODO debug
-	         if [[ $line_local =~ "Small "([a-z]*)" of " ]]; then
-                    of_local="Small ${BASH_REMATCH[1]}";
-                    # remove small-thing-of-space from line string
-                    line_local=`echo $line_local | sed -E 's/^Small [a-z]* of //'`;
-             fi  
-             #echo "33:LINE=$line_local"; #TODO debug
+	# Test if line begins with "Small thing of "
+	if [[ $line_local =~ ^"Small "([a-z]*)" of " ]]
+	then	         
+          of_local="Small ${BASH_REMATCH[1]}";
+          # remove small-thing-of-space from line string
+          line_local=`echo $line_local | sed -E 's/^Small [a-z]* of //'`;
                          
-         # Test if line begins with "Thing of "
-         elif [[ $line_local =~ ^([A-Z][a-z]*)" of " ]]; then                   
+    # Test if line begins with "Thing of "
+    elif [[ $line_local =~ ^([A-Z][a-z]*)" of " ]]; then                   
                     of_local="${BASH_REMATCH[1]}";
                     # remove Thing-of-space from line string
                     line_local=`echo $line_local | sed -E 's/^[A-Z][a-z]* of //'`;
+                    
+    # Test if line begins with "Two words of "
+    elif [[ $line_local =~ ^([A-Z][a-z]* [a-z]*)" of " ]]; then                   
+                    of_local="${BASH_REMATCH[1]}";
+                    # remove Some-thing-of-space from line string
+                    line_local=`echo $line_local | sed -E 's/^[A-Z][a-z]* [a-z]* of //'`;
+                    # Examples: "Dormant rhizomes of ", "Stem bulbils of ", "Seedling bulbs of "       
              
-         fi
-         # end of Small-thing-of or Thing-of
-             
-         #echo "44:LINE=$line_local"; #TODO debug
-	         
-	     if [[ $line_local =~ ^([A-Za-z]* [a-z]*) ]]   
-	     then     
-	     # Now the taxon is at the start of the line.
-	         # Cases:
-	         #         Genus species\n
-	         #         Genus species and more text after space\n
-	         #         Genus species, and more text after comma\n
-	         #         Genus species- and more text after dash\n
-	         #         Genus species var. something
-	         #         Genus species 'Quoted Something'
-	         #         Genus sp.?
-	         #         and many variations
-	         	         	         
-	         # space after species
-	         if [[ $line_local =~ ^([A-Za-z]* [a-z]*)" "(.*) ]]
+    fi
+          # end of Small-thing-of or Thing-of or Two-words-of
+
+         #  # ---------------- ---------------- -----  
+         # Now the taxon is at the start of the line.
+	     # Cases:
+	     #         Genus species\n
+	     #         Genus species and more text after space\n
+	     #         Genus species, and more text after comma\n
+	     #         Genus species- and more text after dash\n
+	     #         Genus species var. something
+	     #         Genus species 'Two Words'
+	     #         Genus species 'Oneword'
+	     #         Genus sp.?
+	     #         Genus 'Oneword'
+	     #         Genus 'Two Words'
+	     #         Genus 'First' x 'Second'
+	     #         Genus 'Possessive's Word'
+	     #         and many variations
+         
+    if [[ $line_local =~ ^([A-Za-z]* [a-z]*)$ ]] # ------------------ begin parsing Genus species taxon -----
+    then
+                # Case: Genus species\n has no commentary
+                taxon_local="${BASH_REMATCH[1]}";
+                note_local=""; 
+
+    else # more after species   
+      if [[ $line_local =~ ^([A-Za-z]* [a-z]*)([^\']*)$ ]]; then
+                # Case: no single quotes
+                taxon_local="${BASH_REMATCH[1]}";
+                note_local="${BASH_REMATCH[2]}";
+                variety="";
+
+
+	  fi  
+	     
+	     if [[ $line_local =~ ^([A-Za-z]* [a-z]* ) ]]  # SPACE AFTER Genus species -or- Genus species 'Variety'
+	     then     	         	         	         	         
+	       # Case: space after species
+
+           # if quoted word(s)
+	       #if [[ $line_local =~ [`'][A-Z][a-z]*" "*[A-Z][a-z]*"'" ]] # 'One' or 'One Two' but not 'One's Two'
+	       if [[ $line_local =~ ^([A-Za-z]* [a-z]*)" '" ]] # ----------------------------------- begin if space-quote clause
+	       then
+	               # Likely a quoted VARIETY
+
+	               if [[ $line_local =~ ^([A-Za-z]* [a-z]*)" '"([A-Z][a-z]*[ ]*[A-Z][a-z]*)"'" ]]
+	               then
+	                   taxon_local="${BASH_REMATCH[1]} '${BASH_REMATCH[2]}'";
+	                   variety="'${BASH_REMATCH[2]}'";
+
+	                   # TODO set note_local and/or trim taxon from line
+	               elif [[ $line_local =~ ^([A-Za-z]* [a-z]*)" '"([A-Z][a-z]*)"'" ]]; then # single-word variety
+	                   taxon_local="${BASH_REMATCH[1]} '${BASH_REMATCH[2]}'";
+	                   variety="'${BASH_REMATCH[2]}'";	                   
+
+	               else
+                     echo -n ""; # ie do nothing
+
+	               fi
+
+	       else # ----------------------------------------------------------------------------- begin else not-space-quote clause
+	         # no quoted word (s) after Genus species. (Just Genus 'Variety' not handled yet)	               
+
+	         if [[ $line_local =~ ^([A-Za-z]* [a-z]*)" "(.*) ]] #  start not-quoted separators clause
 	         then
 	           # Space after taxon	
 	           taxon_local="${BASH_REMATCH[1]}"; 
-	           #echo "space"; #TODO debug
+
 	         elif [[ $line_local =~ ^([A-Za-z]* [a-z]*)", "(.*) ]]
 	         then
 	           # Comma-space after taxon
 	           taxon_local="${BASH_REMATCH[1]}"; 
-	           #echo "comma"; #TODO debug
+
 	         elif [[ $line_local =~ ^([A-Za-z]* [a-z]*)"- "(.*) ]]
 	         then
 	           # dash-space after taxon
 	           taxon_local="${BASH_REMATCH[1]}"; 
-	           #echo "dash"; #TODO debug
+
 	         elif [[ $line_local =~ ^([A-Za-z]* [a-z]*)";"(.*) ]]
 	         then
 	           # semicolon after taxon
 	           taxon_local="${BASH_REMATCH[1]}"; 
-	           #echo "semicolon"; #TODO debug
+
 	         elif [[ $line_local =~ ^([A-Za-z]* [a-z]*) ]]
 	         then
 	           taxon_local="${BASH_REMATCH[1]}";
-	           #echo "line end"; #TODO debug
+
 	         elif [[ $line_local =~ ^([A-Za-z]*)";" ]]
 	         then
+	           # Genus (no species)
 	           taxon_local="${BASH_REMATCH[1]}";
-	           #echo "Genus;"; #TODO debug
+
 	         else
                 taxon_local="errorC";
-                #echo "huh?"; #TODO debug
-	         fi
+
+	         fi  #----------------------------------------- end if-elif-else-fi not-quoted separators clause
+	       fi #--------------------------------------------------------------------------------- end if-else-fi space-quoted clause
+	     fi #----------------------------------------- end if-fi space after Genus species
+	     
+	     if [[ $line_local =~ ^([A-Z][a-z]*)" '"([A-Z][a-z]*[ ]*[A-Z][a-z]*)"'" ]]; then # 2word variety G no s
+
+	       taxon_local="${BASH_REMATCH[1]} '${BASH_REMATCH[2]}'";
+	       variety="'${BASH_REMATCH[2]}'";
+	     elif [[ $line_local =~ ^([A-Z][a-z]*)" '"([A-Z][a-z]*)"'" ]]; then # 1word variety G no s
+
+	       taxon_local="${BASH_REMATCH[1]} '${BASH_REMATCH[2]}'";
+	       variety="'${BASH_REMATCH[2]}'";
+	     else
+
+	       echo -n ""; # ie do nothing
+	     fi
+
+	     #In any case, remove first two words, hopefully Genus species. Also removes just Genus if space after.
+	     #line_local=`echo $line_local | sed 's/^[A-Za-z]* [a-z]*//'`;
+	     #Safer to remove taxon and any next space if present:
+	     line_local=`echo $line_local | sed "s/$taxon_local//" | sed 's/^ //'`;
+
 	         
-	         #In any case, remove first two words, hopefully Genus species
-	         line_local=`echo $line_local | sed 's/^[A-Za-z]* [a-z]*//'`;
-	         
-	         #Remove any leading space, comma or semicolon. If dash, keep.
-	         line_local=`echo $line_local | sed 's/^;//' | sed 's/^ //' | sed 's/^, //'`;	               
-         
-             #echo "95:LINE=$line_local"; #TODO debug
+	     #Remove any leading space, comma or semicolon. If dash, keep.
+	     line_local=`echo $line_local | sed 's/^;//' | sed 's/^ //' | sed 's/^, //'`;	               
              
-             # now line only holds note and possibly an http link
-             note_local="$line_local";
+         # now line only holds note and possibly an http link
+         note_local="$line_local";
                
-	      fi # end of if trimmed line starts with Genus species
+	fi # ------------------- end parsing taxon --------------------------
+	
+	
 	      
-	      # set globals to return values
-	      of=$of_local;
-          taxon=$taxon_local; 
-          note=$note_local;
-          return 0;
-     else
-          #echo "not an item line";
-          return 1; # error
-     fi
-     # end of if line starts with digits
+	   # set globals to return values
+	   of=$of_local;
+       taxon=$taxon_local; 
+       #variety=$variety_local;
+       note=$note_local;
+       return 0;
+
 }
 # ========================================================================================
 function infer_category {
@@ -174,7 +240,8 @@ function infer_category {
 # Parses item number, Genus-species as taxon, note
 # Detects http links but usually these are truncated in raw data
 
-for i in {351..381} 
+#for i in {351..381} 
+for i in {382..399}
 do
 
   # reset for each new input file
