@@ -1,0 +1,62 @@
+Pseudocode for parser
+
+loop thru bx_id_year_month.csv
+which has these two columns:
+400:2016-June
+401:2016-August
+401:2016-June
+402:2016-June
+403:2016-June
+404:2016-July
+405:2016-August
+406:2016-August
+407:2016-August
+408:2016-August
+
+that are sorted alpha, not by month order :(
+
+for each BX number,
+
+open that all.txt in the subdir of this pattern:
+pbsarchive/2016-June/all.txt
+
+while read
+
+when hit this sequence:
+
+From: Dell Sherk <ds429@frontier.com>^M
+Subject: Pacific Bulb Society BX 400^M
+Date: Fri, 3 Jun 2016 14:19:40 -0400^M
+
+That is, when hit
+"Subject: Pacific Bulb Society BX 4[0-9][0-9]"
+right after hitting Dell or Albert's From
+
+parse out the BX ID number
+
+Then go to a function named read_bx()
+
+The writing out will happen from within that function.
+
+Continue with current file to its EOF
+
+Continue with loop thru filenames to that EOF
+
+end
+
+Now, that read_bx() function:
+
+
+echo to the Collector file a separator and the BX ID number, like
+BX#444 -=============================
+
+
+Keep reading from the same input ... 
+is that global? Test that.
+
+until hit a line starting with 
+"^From [A-Z][^:]*"
+
+then start echoing the lines, verbatim, to the Collector.
+
+Problem: sometimes it says 'all seeds' or 'all bulbs' even before the first From line.
