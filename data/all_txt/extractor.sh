@@ -18,7 +18,7 @@ while IFS= read -r line
       if [[ $line =~ "<ds429@frontier.com>" ]]; then # From Dell Sherk
         in_a_bx='maybe';
         # maybe. Only true if next line is: Subject: Pacific Bulb Society BX 4[0-9][0-9]
-echo "maybe";
+        echo "maybe";
       else
         in_a_bx='false'; # If it is not from Dell, it is not a BX. See separate extractor for Al.
         grab_it='';
@@ -26,12 +26,11 @@ echo "maybe";
       fi
     elif [[ $line =~ ^"Subject: Pacific Bulb Society BX "(4[0-9][0-9]) ]]; then
         matchymatch="${BASH_REMATCH[1]}";
-
-echo "$in_a_bx Subject match: $line";
+        echo "$in_a_bx Subject match: $line";
       if [[ $in_a_bx =~ maybe ]]; then 
         in_a_bx='ttrue';
         bx_id="${matchymatch}"; # grabs the parens above
-echo "bx id = $bx_id";
+        echo "bx id = $bx_id";
       else
         in_a_bx='false'; # mssg from Dell but not a BX
       fi
@@ -56,14 +55,14 @@ echo "bx id = $bx_id";
         in_a_bx='false';
         grab_it='';
     fi
-    # Safety catch if still in a grab_it and hit Dell's signature
+    # Safety catch if still in a grab_it and hit Dell's signature. Differs for Al.
     if [[ $grab_it =~ "::" && $line =~ "pbs mailing list" ]]; then
         echo "error ............."; 
         in_a_bx='false';
         grab_it='';
     fi
     
-    if [[ $in_a_bx =~ true && $line =~ ^"IF YOU DO NOT HEAR FROM ME" ]]; then
+    if [[ $in_a_bx =~ true && $line =~ ^"IF YOU DO NOT HEAR FROM ME" ]]; then # differs for Al.
           grab_it='::'; # to grep these later
     fi
 
