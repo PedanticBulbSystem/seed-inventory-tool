@@ -1,0 +1,67 @@
+notes
+
+Strange: 
+but extractor.sh only finds BX 401 thru 413, and not 404, 411, or 412.
+
+Because for those missing cases, Dell's From: line differed.
+
+From: ds429 <ds429@frontier.com>
+Subject: Pacific Bulb Society BX 404
+
+or
+
+From: <ds429@frontier.com>
+Subject: Pacific Bulb Society BX 411
+
+vs
+
+From: Dell Sherk <ds429@frontier.com>
+Subject: Pacific Bulb Society BX 405
+
+So I need to loosen the From: finder.
+
+And I need to further tighten that the next line has to be
+
+Subject: Pacific Bulb Society BX 4
+
+function grab {
+    echo "hello";
+}
+
+
+how to escape missing end of a bx
+
+::ttrue---------------Thanks Mary Sue, Dennis and Rimmer!!!
+::ttrue---------------Good Luck!
+::ttrue---------------_______________________________________________
+::ttrue---------------pbs mailing list
+
+============================= Kipp makes good suggestions here =====
+On Sun, 10/1/17, Kipp McMichael <kimcmich@hotmail.com> wrote:
+Subject: Re: [pbs] Bulbs
+ To: "Pacific Bulb Society" <pbs@lists.pacificbulbsociety.net>
+ Date: Sunday, October 1, 2017, 3:41 PM
+ Greetings,
+   I've previously offered
+ to help in updating the tech side of the BX - but I think  Dell, already at the limit of his capacity for this  enormous, ongoing effort, preferred to keep things as they  are. Here are a few ideas:
+   1) I presume Dell keeps an
+ inventory document (such a spreadsheet). We could use this  document to populate an online ordering page where, rather  than sending emails to place orders, people could instead  place their orders online. That system could track inventory  and automatically remove items that were spoken-for.
+ ...
+ I would be happy to help
+ engineer a system like this.
+ -|<ipp
+ In reply, Dell mentions the physical handling takes the most time.
+ =====================
+ 
+After running dell_style_extractor.sh on no_empty_lines.txt
+you need to filter out just the ::ttrue lines.
+
+ 
+But there is a problem with wrapped lines. 
+I cannot use J in vi if there is that stuff in front of the line. 
+And I cannot filter that stuff out w/o losing the bx_id.
+406---------26. Narcissus Mixed Seedlings
+406---------These date back to a mass sowing in 2004 of seed from moderately
+406---------controlled crosses of romieuxii, cantabricus, albidus, zaianicus, and
+406---------similar early blooming sorts of the bulbocodium group. Colors tend to be
+
