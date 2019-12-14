@@ -65,3 +65,45 @@ And I cannot filter that stuff out w/o losing the bx_id.
 406---------controlled crosses of romieuxii, cantabricus, albidus, zaianicus, and
 406---------similar early blooming sorts of the bulbocodium group. Colors tend to be
 
+
+--------- post-processing --------------
+
+
+grep ^::ttrue al_style_extracted.txt > al_just_items.txt
+grep ^::ttrue dell_style_extracted.txt > del_just_items.txt
+
+cat al_just_items.txt | sed 's/::ttrue------/BX /' | sed 's/---------/|/' > foo
+mv foo al_just_items.txt
+
+cat del_just_items.txt | sed 's/::ttrue------/BX /' | sed 's/---------/|/' > foo
+mv foo dell_just_items.txt
+
+
+Then did the step I used to do with vi and J
+instead inside oXygen
+to wrap long comments (remove line feeds]
+
+
+in oXygen, replaced multi-space with single-space
+
+in vi do
+BX 402|8.
+from Uli, of course. :]
+
+
+do need to handle
+" var. "
+in taxa. 23 of those in dell_just_items.txt
+Too tedious to process manually.
+
+BX 435 was sent from Al's iPhone and has forwarding marks.
+heads up for irregular pattern matching.
+
+prelim grep says 639 items in AS era, 438 thru 462.
+
+DS 401 thru 437, grep finds 414 two-digit plus 302 one-digit = 616 total.
+
+Those found during the search/replace for item numbers not ending in a decimal before the space.
+:]
+
+
