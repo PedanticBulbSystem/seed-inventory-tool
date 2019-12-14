@@ -3,9 +3,8 @@ BX 405|From Rimmer de Vries:
 BX 405|1. Seeds of Hymenocallis harrisiana
 BX 405|2. Bulbs of Nothoscordum gracile var. macrostemon, Chile, ex Harry Hay ex MSI
 BX 405|From Roy Herold:
-BX 405|Small, pea-size tubers, one year old, of Cyclamen rohlfsianum. Plant now, keep dry, water on Sept 1.
-BX 405|3. C. rohlfsianum 93-14, large dark green, reniform leaves heavily marked with silver. Pink flowers.
-BX 405|4. C. rohlfsianum 93-8, medium green maple leaf shaped leaves, well marked. Pink flowers.
+BX 405|3. Small tubers of Cyclamen rohlfsianum 93-14, large dark green, reniform leaves heavily marked with silver. Pink flowers. Pea-size tubers, one year old
+BX 405|4. Small tubers of Cyclamen rohlfsianum 93-8, medium green maple leaf shaped leaves, well marked. Pink flowers.
 BX 405|From Pamela Slate: (BULBS)
 BX 405|5. Leucojum aestivum 'Gravetye Giant'
 BX 405|6. Watsonia 'Flamboyant' brilliant deep coral flower
@@ -333,7 +332,7 @@ BX 412|
 BX 412|22. Seeds of Amaryllis belladonna, dark pink (FEW)
 BX 412|From Uli Urban:
 BX 412| 
-BX 412|23. Begonia gracilis var martiana. BULBILS They look like seed but are miniature tubers which are produced in large numbers on the nodes. They should not dry out completely but best 'sown' now in a small pot and kept just a little moist from time to time. They will eventually sprout fairly late in May or June, flower the second year. Beautiful upright plant to 75cm tall with large slightly fragrant pink flowers. fully dormant in winter, prone to mildew in autumn.
+BX 412|23. Begonia gracilis var. martiana. BULBILS They look like seed but are miniature tubers which are produced in large numbers on the nodes. They should not dry out completely but best 'sown' now in a small pot and kept just a little moist from time to time. They will eventually sprout fairly late in May or June, flower the second year. Beautiful upright plant to 75cm tall with large slightly fragrant pink flowers. fully dormant in winter, prone to mildew in autumn.
 BX 412| 
 BX 412|24. Seeds of Clivia miniata 'Belgian Strain' In the family for well over hundred years.... This is the broad leaved and large flowered form. I grow another more dainty form with narrow leaves and smaller flowers from another branch of the family.... as old. Easy but slow from seed. (FEW)
 BX 412| 

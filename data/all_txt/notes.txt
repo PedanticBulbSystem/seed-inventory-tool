@@ -107,3 +107,27 @@ Those found during the search/replace for item numbers not ending in a decimal b
 :]
 
 
+--------- post-processing --------------
+
+cat al_just_items.txt | sed 's/.$//' > lf_al_just_items.txt
+cat dell_just_items.txt | sed 's/.$//' > lf_dell_just_items.txt
+
+because my parser needs the lines to be LF not CRLF terminated.
+
+
+------------- to process taxa with var. ----------------
+
+In this set above 4 hundred, 
+this regex
+ var. ([a-z]*)
+matches 34 out of 34 test lines. Bingo.
+
+ [A-Z][a-z]* [a-z]* var. ([a-z]*)
+matches 31 of the 34.
+where of the 3 misses, 2 were correct-misses.
+The only one it really missed was:
+BX 406|21. Narcissus romieuxii subsp. albidus var. tananicus N002
+
+and I think the subsp. are not handled yet anyway.
+
+

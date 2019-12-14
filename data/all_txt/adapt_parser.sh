@@ -4,6 +4,18 @@
 
 # Define functions =======================================================================
 
+function get_bx_id {
+    # prefix looks like "BX 429|" And in this version, bx_id is the whole "BX 429" string.
+    bx_id=`echo $line | cut -f1 -d'|'`;
+}
+# ========================================================================================
+function strip_prefix {
+    # prefix looks like "BX 429|"
+    local stripped_line='NA';
+    stripped_line=`echo $line | cut -f2 -d'|'`
+    line=$stripped_line;
+}
+# ========================================================================================
 function extract_item_number {
 
     local input_line=$1;
@@ -101,6 +113,10 @@ function extract_and_remove_parsing {
                      echo -n ""; # ie do nothing
 
 	               fi
+
+           # Check if taxon like 'Genus species var. word' with regex ' [A-Z][a-z]* [a-z]* var. ([a-z]*)'
+           elif [[ $line_local =~ ^([A-Za-z]* [a-z]*" var. "[a-z]*) ]]; then
+                taxon_local="${BASH_REMATCH[1]}";
 
 	       else # ----------------------------------------------------------------------------- begin else not-space-quote clause
 	         # no quoted word (s) after Genus species. (Just Genus 'Variety' not handled yet)	               
@@ -257,7 +273,7 @@ function process_one_line {
 	      fi
 	      
 	      # --------------------- Print item line ----------------
-	      echo "|BX $i|$item_n|$cat|$donor|$of|$taxon|$note|$photo_link|$season";
+	      echo "|${bx_id}|$item_n|$cat|$donor|$of|$taxon|$note|$photo_link|$season";
 	      cat='NA';
 	      item_category='NA';
           item_n='NA';
@@ -310,6 +326,10 @@ of="NA";
 while IFS= read -r line
 do
     echo "$line"; # TODO DEBUG
+    
+    get_bx_id; # returns left side of | as bx_id
+    strip_prefix; # returns right side of | as line
+    process_one_line; # function call.
   
     taxon="NA"; # reset for each new input line
     note="NA";
@@ -319,5 +339,5 @@ do
     
 done < "${infile}"
 
-echo " -=================================================== end $i ============="
+#echo " -=================================================== end $i ============="
 
