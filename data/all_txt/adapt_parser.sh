@@ -80,6 +80,11 @@ function extract_and_remove_parsing {
                 # Case: Genus species\n has no commentary
                 taxon_local="${BASH_REMATCH[1]}";
                 note_local=""; 
+                        
+    elif [[ $line_local =~ ^([A-Za-z]*" sp.") ]] 
+    then  
+                # taxon like 'Genus sp.'
+                taxon_local="${BASH_REMATCH[1]}";
 
     else # more after species   
       if [[ $line_local =~ ^([A-Za-z]* [a-z]*)([^\']*)$ ]]; then
@@ -117,6 +122,12 @@ function extract_and_remove_parsing {
            # Check if taxon like 'Genus species var. word' with regex ' [A-Z][a-z]* [a-z]* var. ([a-z]*)'
            elif [[ $line_local =~ ^([A-Za-z]* [a-z]*" var. "[a-z]*) ]]; then
                 taxon_local="${BASH_REMATCH[1]}";
+                
+           # Check if taxon like 'Genus species subsp. word' with regex ' [A-Z][a-z]* [a-z]* subsp. ([a-z]*)'
+           elif [[ $line_local =~ ^([A-Za-z]* [a-z]*" subsp. "[a-z]*) ]]; then
+                taxon_local="${BASH_REMATCH[1]}";
+                
+           # TODO Also handle aff. and cf. and spp.
 
 	       else # ----------------------------------------------------------------------------- begin else not-space-quote clause
 	         # no quoted word (s) after Genus species. (Just Genus 'Variety' not handled yet)	               
@@ -196,9 +207,12 @@ function extract_and_remove_parsing {
 function infer_category {
     local category_local='';
     item_category=''; # global; empty string not NA
+    shopt -s nocasematch # set shell to NOT match case
     if [[ $category == NA || $category == '' ]]
     then
-        if [[ $of =~ seed || $of =~ Seed ]]; then
+        if [[ $of =~ seedling || $of =~ Seedling ]]; then
+            category_local='BULBS';
+        elif [[ $of =~ seed || $of =~ Seed ]]; then
             category_local='SEEDS';
         elif [[ $of =~ bulb || $of =~ Bulb ]]; then
             category_local='BULBS';
@@ -213,6 +227,7 @@ function infer_category {
         fi
         item_category=$category_local;
     fi
+    shopt -u nocasematch # UNset shell to NOT match case
 }
 # ========================================================================================
 
@@ -229,7 +244,7 @@ function process_one_line {
         
         # Does donor string include SEEDS/BULBS string?
         # If yes, then set category
-        if [[ $donor =~ SEED || $donor =~ seed ]]
+        if [[ $donor =~ SEED || $donor =~ seed || $donor =~ Seed ]]
         then
           # below: no need to escape parens when -E not used with sed
           category="SEEDS";
@@ -325,7 +340,7 @@ of="NA";
  
 while IFS= read -r line
 do
-    echo "$line"; # TODO DEBUG
+    echo "$line" | tr '|' ' '; # so original text stays in left column separate from output
     
     get_bx_id; # returns left side of | as bx_id
     strip_prefix; # returns right side of | as line
