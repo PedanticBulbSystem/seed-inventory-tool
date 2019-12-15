@@ -204,23 +204,23 @@ function extract_and_remove_parsing {
 
 }
 # ========================================================================================
-function infer_category {
+function infer_category {                               # from "Things of " phrase.
     local category_local='';
     item_category=''; # global; empty string not NA
     shopt -s nocasematch # set shell to NOT match case
     if [[ $category == NA || $category == '' ]]
     then
-        if [[ $of =~ seedling || $of =~ Seedling ]]; then
+        if [[ $of =~ seedling ]]; then
             category_local='BULBS';
-        elif [[ $of =~ seed || $of =~ Seed ]]; then
+        elif [[ $of =~ seed ]]; then
             category_local='SEEDS';
-        elif [[ $of =~ bulb || $of =~ Bulb ]]; then
+        elif [[ $of =~ bulb ]]; then
             category_local='BULBS';
-        elif [[ $of =~ rhizome || $of =~ Rhizome ]]; then
+        elif [[ $of =~ rhizome ]]; then
             category_local='BULBS';
-        elif [[ $of =~ corm || $of =~ Corm ]]; then
+        elif [[ $of =~ corm ]]; then
             category_local='BULBS';
-        elif [[ $of =~ tuber || $of =~ Tuber ]]; then
+        elif [[ $of =~ tuber ]]; then
             category_local='BULBS';
         elif [[ $of =~ Offsets ]]; then
             category_local='BULBS';
@@ -244,17 +244,38 @@ function process_one_line {
         
         # Does donor string include SEEDS/BULBS string?
         # If yes, then set category
-        if [[ $donor =~ SEED || $donor =~ seed || $donor =~ Seed ]]
-        then
-          # below: no need to escape parens when -E not used with sed
-          category="SEEDS";
-          donor=`echo $donor | sed 's/ (SEEDS)//' | sed 's/ (seeds)//'`; 
-        elif [[ $donor =~ BULBS ]]
-        then
+        #shopt -s nocasematch # set shell to NOT match case
+        if [[ $donor =~ "(All Seeds)" ]]; then
+            category="SEEDS";
+            donor=`echo $donor | sed 's/ (All Seeds)//'`;
+        elif [[ $donor =~ " (ALL Open Pollinated Seed)" ]]; then
+            category="SEEDS";
+            donor=`echo $donor | sed 's/ (ALL Open Pollinated Seed)//'`;
+        elif [[ $donor =~ SEED || $donor =~ seed || $donor =~ Seed ]]; then
+            # so far the Seedling string not encountered in a donor line
+            # below: no need to escape parens when -E not used with sed
+            category="SEEDS";
+            donor=`echo $donor | sed 's/ (SEEDS)//' | sed 's/ (seeds)//'`; 
+        elif [[ $donor =~ " (All Bulbs)" ]]; then
+            category="BULBS";
+            donor=`echo $donor | sed 's/ (All Bulbs)//'`;
+        elif [[ $donor =~ " (Bulbs)" ]]; then
+            category="BULBS";
+            donor=`echo $donor | sed 's/ (Bulbs)//'`; 
+        elif [[ $donor =~ " (BULBS)" ]]; then # Dell era syntax
             category="BULBS";
             donor=`echo $donor | sed 's/ (BULBS)//'`; 
+        elif [[ $donor =~ BULB || $donor =~ Bulb || $donor =~ bulb || $donor =~ rhizome ]]; then
+            category="BULBS";
+            # too complicated to sed from string; fix later
         fi
-
+        #shopt -u nocasematch # UNset shell to NOT match case
+        
+        # Remove parenthentical from Donor string. Also remove leftover colons
+        if [[ $donor =~ " ("([^\)]*)")" ]];then
+            parenthetical="${BASH_REMATCH[1]}";
+            donor=`echo $donor | sed "s/ (${parenthetical})//" | sed 's/://g'`;
+        fi
   else
         # Not a donor line
         # Could be an item line, a category line, or rare stuff like wrapped notes.

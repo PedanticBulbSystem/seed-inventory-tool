@@ -131,7 +131,7 @@ BX 436|From Francisco Lopez:
 BX 436|1. Dioscorea japonica bulbils
 BX 436|2. Crinum erubescens Seed
 BX 436|3. Euryale ferox seed - These have started to germinate and will need to be planted ASAP
-BX 436|From Pacific Bulb Society: (All Seed)
+BX 436|From Pacific Bulb Society: (All Seeds)
 BX 436|4. Habranthus itaobinus 'Cardoso Moreira'
 BX 436|5. Habranthus martinezii 
 BX 436|6. Hippeastrum aulicum 'Biritiba'
@@ -203,9 +203,9 @@ BX 441|1. Zephyranthes grandiflora
 BX 441|2. Ismene sp.
 BX 441|3. Cyrtanthus brachyscyphus
 BX 441|4. Zephyranthes drummondii
-BX 441|From Marvin: Ellenbecker
+BX 441|From Marvin Ellenbecker:
 BX 441|5. Freesia laxa bulbs
-BX 441|From Mary: Sue Ittner
+BX 441|From Mary Sue Ittner:
 BX 441|6. Tulipa 'Red Cup'
 BX 441|7. Tulipa batalinii
 BX 441|8. Tulipa linifolia
@@ -266,7 +266,7 @@ BX 437|12. Eucrosia mirabilis seed
 BX 437|From Susan Clark:
 BX 437|13. Zephyranthes 'Sunset Strain' seed
 BX 437|_______________________________________________
-BX 439|From Mary Sue Ittner: (ALL BULBS) 
+BX 439|From Mary Sue Ittner: (All Bulbs) 
 BX 439|1. Oxalis flava - yellow fall blooming
 BX 439|2. Oxalis melanosticta 'Ken Aslet' fall blooming
 BX 439|3. Oxalis obtusa MV5005a Winter flowering. 
@@ -277,7 +277,7 @@ BX 439|7. Oxalis hirta fall blooming
 BX 439|8. Oxalis hirta - mauve fall blooming
 BX 439|9. Oxalis commutata fall blooming
 BX 439|10. Oxalis engleriana fall blooming
-BX 439|From Rimmer deVries: (bulbs)
+BX 439|From Rimmer deVries: (Bulbs)
 BX 439|11. Clinanthus incarnatus - yellow [Often sold as Stenomesson (Clinanthus) variegatum]
 BX 439|_______________________________________________
 BX 440|From Uli Urban:
@@ -296,7 +296,7 @@ BX 440|11. Tulipa 'Daydream' - Darwin hybrid
 BX 440|12. Tulipa 'Little Beauty' (pulchella?, humilis?) Bulblets
 BX 440|13. Oxalis purpurea 'Skar'
 BX 440|_______________________________________________
-BX 451|From Cody Hincliff:
+BX 451|From Cody Hincliff: (BULBS)
 BX 451|1. Herbertia lahue - PBS SX7
 BX 451|2. Herbertia lahue - PBS SX8
 BX 451|3. Moraea bellendenii
@@ -599,20 +599,20 @@ BX 454|2. Clivia 'Sahin Treasure Chest' seeds - can be yellow, red, orange, peac
 BX 454|3. Clivia 'Vivo Yellow' x 'Solomon Yellow' - ex Jim Shields
 BX 454|4. Haemanthus albiflos seed
 BX 454|5. Pamianthe peruviana offset
-BX 454|From Monica Swartz: (bulbs)
+BX 454|From Monica Swartz: (Bulbs)
 BX 454|6. Oziroe arida
-BX 454|Frim Karl Church (All Seed)
+BX 454|Frim Karl Church (All Seeds)
 BX 454|7. Hippeastrum 'Minerva'
 BX 454|8. Hippeastrum 'Purple Estella'
 BX 454|9. Hippeastrum 'Blue Dream'
 BX 454|10. Habranthus tubispathus
-BX 454|From Chad Cox: (All Seed)
+BX 454|From Chad Cox: (All Seeds)
 BX 454|11. Bessera elegans - red
 BX 454|12. Cyrtanthus epiphyticus
 BX 454|From Francisco Lopez:
 BX 454|13. Globba schomburgkii seeds
 BX 454|14. Remusatia vivipara bulbils
-BX 454|From Dennis Kramb: (All bulbs/rhizomes)
+BX 454|From Dennis Kramb: (All bulbs or rhizomes)
 BX 454|15. Eucrosia bicolor
 BX 454|16. Seemannia 'Pepper'
 BX 454|17. Niphaea oblonga
@@ -636,7 +636,7 @@ BX 453|6. Tritonia pallida ex SHS
 BX 453|From Charles Powne:
 BX 453|7. Ornithogalum longibracteatum (syn. Albuca bracteata)
 BX 453|8. Amorphophallus konjac
-BX 453|From Francisco Lopez: (All seed)
+BX 453|From Francisco Lopez: (All Seeds)
 BX 453|9. Amaryllis belladonna
 BX 453|10. Nerine bowdenii
 BX 453|From Mary Sue Ittner:
@@ -706,7 +706,7 @@ BX 459|17.Oxalis obtusa MV6235
 BX 459|18. Oxalis purpurea 'Skar'
 BX 459|19. Clivia robusta seeds
 BX 459|20. Tulipa linifolia
-BX 459|From Ina Crossely: (ALL seeds)
+BX 459|From Ina Crossely: (All Seeds)
 BX 459|21. Zephyranthes fosteri
 BX 459|22. Zephyranthes miradorensis
 BX 459|23. Zephyranthes drummondii
@@ -744,7 +744,7 @@ BX 459|54. Rhodophiala bifida
 BX 459|_______________________________________________
 BX 460|From Chad Cox:
 BX 460|1. Hippeastrum striatum - small offsets
-BX 460|From Jim Shields: (ALL SEEDS)
+BX 460|From Jim Shields: (All Seeds)
 BX 460|2. Hippeastrun algaia - yellow form ex #2107
 BX 460|3. Hippeastrum psittacinum
 BX 460|4. Hippeastrum brasilianum - #2247.C x #2103.B
@@ -778,7 +778,7 @@ BX 457|10. Scilla haemorrhoidalis
 BX 457|11. Leucocoryne vittata OP
 BX 457|From Dennis Kramb:
 BX 457|12. Smithiantha hybrid seedlings. These are Dennis's own crosses. One share of each variety. Each order will receive a single share at random.
-BX 457|From Mary Sue Ittner: (all seeds)
+BX 457|From Mary Sue Ittner: (All Seeds)
 BX 457|13. Haemanthus albiflos
 BX 457|14. Haemanthus pauculifolius
 BX 457|_______________________________________________

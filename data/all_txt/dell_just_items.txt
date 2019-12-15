@@ -19,7 +19,7 @@ BX 405|12. Seeds of Chlorophytum saundersiae
 BX 405|From Judy Glattstein:
 BX 405|13. Bulbs of Zephyranthes candida
 BX 406-======================================
-BX 406|From Roy Herold (ALL BULBS, some in short supply)
+BX 406|From Roy Herold: (ALL BULBS, some in short supply)
 BX 406|1. Cyrtanthus epiphyticus ex BX154
 BX 406|2. Freesia laxa 'Joan Evans'
 BX 406|3. Lapeirousia jacquinii
@@ -208,7 +208,7 @@ BX 402|Blooming-size Bulbs:
 BX 402|9. Zephyranthes pulchella Blooming-size Bulbs: (let Dell know if you want detailed information about collection locations.)
 BX 402|10. Zephyranthes smallii Blooming-size Bulbs: (let Dell know if you want detailed information about collection locations.)
 BX 402|11. Habranthus tubispathus Blooming-size Bulbs: (let Dell know if you want detailed information about collection locations.)
-BX 402|From Pamela Slate
+BX 402|From Pamela Slate:
 BX 402|Blooming-size Bulbs:
 BX 402|12. Albuca 'Augrabies Hills' Blooming-size Bulbs:
 BX 402|13. Albuca sp.? from a Tucson grower named Dorothy Pasek (Plantas del Sol) who worked at The HBG at one time. It came labeled as Albuca sp. (Pachuis Pass, S. Africa). The small bulbs are mostly flowering size and plant growth is grassy. Blooming-size Bulbs:
@@ -276,7 +276,7 @@ BX 411|1. Seeds of Nerine angustifolia (FEW)
 BX 411|From Rimmer de Vries:
 BX 411|2. Calostemma purpureum seed. these germinate quickly in the fall on the ground. i start them outside in a plunged pot and bring the pot in when it gets cold before freezing, plants keep leaves until about June - July when the leaves start to fade, mature plants send up flower stems in August and drop big fat seeds in September, some leaves may stay while flowering but new ones emerge at or after flowering 
 BX 411|3. Ornithogalum caudatum- aka False sea onion or pregnant onion. (Albuca bracteata?) offsets and bulbils. these bulblets will form a 2-3 inches dia surface mounted bulbs in a year or 2 and send up a 24 inch flower stalk of small whitish flowers in winter. keep moist while in growth, never full dormant but less water in summer.
-BX 411|From Karl Church: (Small bulbs/comes):
+BX 411|From Karl Church: (Small bulbs or comes):
 BX 411|4. Albuca clanwilliamae-gloria
 BX 411|5. Gladiolus tristis
 BX 411|6. Oxalis glabra
@@ -298,7 +298,7 @@ BX 411|21. Lachenalia aloides
 BX 411|22. Ferraria divaricata subsp. arenosa, ex Telos
 BX 411|23. Ferraria crispa, dark form, ex BX 343
 BX 412-======================================
-BX 412|From Jim Barton: (SMALL BULBS/CORMS)
+BX 412|From Jim Barton: (SMALL BULBS or CORMS)
 BX 412|1. Oxalis caprina
 BX 412|2. Conanthera trimaculata
 BX 412|3. Babiana sp. ex SA
@@ -316,7 +316,7 @@ BX 412|14. Sparaxis hybrids from Hadeco
 BX 412|15. Amaryllis belladonna hyb, mixed
 BX 412|16. Sparaxis grandiflora subsp. violacea
 BX 412| 
-BX 412| From Jane McGary:
+BX 412|From Jane McGary:
 BX 412| 
 BX 412|17. Seeds of Paeonia cambessedesii
 BX 412|18. Seeds of Cyclamen graecum
@@ -454,7 +454,7 @@ BX 422|22. Moraea simulans
 BX 422|23. Nerine sarniensis - grown from seed from a red flowered Zinkowski rescue plant in 2002, the ones that have flowered so far have been both red and pink\
 BX 423-======================================
 BX 423|From Fred Thorne: (BULBS)
-BX 423|1, Acis trichophylla
+BX 423|1. Acis trichophylla
 BX 423|2. Albuca namaquensis
 BX 423|3. Albuca sp. 'Augrabies Hills'
 BX 423|4. Allium albopilosum (A. christophii)
@@ -587,7 +587,8 @@ BX 420|32. Zephyranthes verecunda, Mexican (Z. miniata)
 BX 420|33. Zephyranthes verecunda, pale pink (Z. miniata)
 BX 420|34. Zephyranthes primulina
 BX 420|35. Zephyranthes drummondii
-BX 421-======================================From George Dees: (All Seeds)
+BX 421-======================================
+BX 421|From George Dees: (All Seeds)
 BX 421|1. Crinum stuhlmannii subsp. delagoense. (syn. Crinum delagoense)
 BX 421|2. Crinum macowanii from Kenya
 BX 421|3. Crinum macowanii from Malawi
@@ -793,12 +794,12 @@ BX 427|15. Lachenalia mutabilis
 BX 427|16. Ixia monadelpha
 BX 427|17. Spilenecapensis
 BX 428-======================================
-BX 428|From Terry Laskiewicz (BULBS)
+BX 428|From Terry Laskiewicz: (BULBS)
 BX 428|1. Notholirion thomsonianum
 BX 428|2. Hyacinthoides mauritanica
 BX 428|3. Narcissus romieuxii 'Julia Jane'
 BX 428|4. Oxalis bowiei
-BX 428|From Lee Poulsen (BULBS)
+BX 428|From Lee Poulsen: (BULBS)
 BX 428|5. Stenomesson sp.
 BX 428|6. Haemanthus pauculifolius
 BX 428|From Bob Werra:
@@ -897,7 +898,7 @@ BX 426|9. Tropaeolum tricolor
 BX 426|From Dan Fetty:
 BX 426|10. Bulbils of Lilium lancifolium, (Tiger Lily), 60-yr old clone, 6' - 8' tall
 BX 426|11. Bulbils of Orienpet lily, white/rose, fragrant, 5' - 6' tall
-BX 426|From John Wickham: (BULBS/CORMS):
+BX 426|From John Wickham: (BULBS or CORMS):
 BX 426|12. Oxalis namaquana
 BX 426|13. Oxalis fabifolia, ex BX 275
 BX 426|14. Oxalis bowiei

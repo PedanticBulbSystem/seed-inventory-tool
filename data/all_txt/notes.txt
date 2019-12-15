@@ -131,3 +131,14 @@ BX 406|21. Narcissus romieuxii subsp. albidus var. tananicus N002
 and I think the subsp. are not handled yet anyway.
 
 
+future wish-list for parser:
+
+BX 403 14. Oxalis obtusa 'Peaches & Cream'
+BX 403 18. Oxalis purpurea 'Lavender & White'
+BX 437 5. Crinum 'Milk & Wine' bulbs
+
+Genus sp. 
+so many of those! Next time...
+
+Dell always put a : in the From line. Al didnt. My parser was too tuned to Dell's :
+
