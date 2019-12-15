@@ -142,3 +142,15 @@ so many of those! Next time...
 
 Dell always put a : in the From line. Al didnt. My parser was too tuned to Dell's :
 
+Frim instead of From
+
+Al was not careful to mark what was seeds vs bulbs.
+
+Genus sp., comments problem: it loses its comments.
+
+TWO decimals after the item number.
+A COLON after the item number. 
+
+sheesh.
+
+

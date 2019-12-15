@@ -323,7 +323,7 @@ BX 451|20. Habranthus tubispathus
 BX 451|21. Zephyranthes citrina
 BX 451|22. Zephyranthes minima
 BX 451|23. Zephyranthes x
-BX 451|From Joyce Miller:
+BX 451|From Joyce Miller: (UNKNOWN)
 BX 451|24. Crocus sp. - purple
 BX 451|From Rimmer deVries:
 BX 451|25. Lachenalia pallida - Northern purple/mauve form
@@ -337,11 +337,11 @@ BX 451|32. Caliphruria subedentata
 BX 451|From Terry Laskiewicz: (All Seeds)
 BX 451|33. Haemanthus coccineus
 BX 451|34. Crinum macowanii - These have germinated and produced little bulbs
-BX 451|From Robert Werra:
+BX 451|From Robert Werra: (UNKNOWN)
 BX 451|35. Moraea ciliata - tall
 BX 451|36. Moraea ciliata - short
 BX 451|_______________________________________________
-BX 449|From Rimmer deVries:
+BX 449|From Rimmer deVries: (UNKNOWN)
 BX 449|1. Iris foetidissima seed
 BX 449|2. Hymenocallis leavenworthii bulbs ex. Telos
 BX 449|3. Massonia pustulata bulbs
@@ -353,11 +353,11 @@ BX 449|8. Zephyranthes reginae seed ex Lynn Makilka NARGS 2015
 BX 449|9. Zephyranthes 'Pink Beauty' seed ex Ina C.
 BX 449|10. Habranthus magnoi seed ex Ina C.
 BX 449|11. Pelargonium alchemilloides seedlings
-BX 449|From Bridget Wycozna:
+BX 449|From Bridget Wycozna: (BULBS)
 BX 449|12. Arisaema candidissimum bulbs
-BX 449|From Robin Hansen:
+BX 449|From Robin Hansen: (BULBS)
 BX 449|13. Fritillaria atropurpurea bulbs
-BX 449|From Jim Waddick:
+BX 449|From Jim Waddick: (BULBS)
 BX 449|14. Crinum 'Menehune' bulbs
 BX 449|15. Phaedranassa viridiflora bulbs
 BX 449|16. Polianthes x tubers - maybe P. x bundrantii?
@@ -382,6 +382,7 @@ BX 450|From Albert Stella:
 BX 450|13. Dioscoraea bulbifera? bulbils - Rarotonga, 2002
 BX 450|_______________________________________________
 BX 447|From Mary Sue Ittner:
+BX 447|ALL BULBS
 BX 447|1. Griffinia aracensis - few, many small
 BX 447|2. Oxalis palmifrons
 BX 447|3. Brodiaea pallida - very rare plant, grows in wet spot so needs to be watered until it flowers (often it stops raining in California before then). Offsets from corms or seed I don't remember which I obtained from the Robinetts in the 1980s.
@@ -420,6 +421,7 @@ BX 447|34. Calochortus luteus? - Mt. Tamalpais, serpemtime rock springs
 BX 447|35. Polyxena sp. - SilverHill (Most of Polyxena has been moved to Lachenalia with a few now in Massonia and Daubenya)
 BX 447|36. Veltheimia capensis
 BX 447|_______________________________________________
+BX 448|From Kipp McMichael: (All Bulbs)
 BX 448|1. Calochortus albus collected Nevada County
 BX 448|2. Calochortus albus collected Yuba County
 BX 448|3. Calochortus albus collected Tuolumne County
@@ -473,23 +475,23 @@ BX 448|50. Calochortus weedii var. intermedius collected Orange County
 BX 448|51. Calochortus weedii var. weedii collected Riverside County
 BX 448|52. Calochortus splendens collected Riverside County
 BX 448|_______________________________________________
-BX 455|From Mary Sue Ittner:
+BX 455|From Mary Sue Ittner: (BULBS)
 BX 455|1. Oxalis triangularis
 BX 455|2. Gloriosa modesta
 BX 455|3. Oxalis sp. L96-42, Mexico
-BX 455|4. Cyrtanthus mackenii seed
-BX 455|Rimmer deVries
+BX 455|4. Seeds of Cyrtanthus mackenii seed
+BX 455|Rimmer deVries: (BULBS)
 BX 455|5. Hippeastrum aulicum ex. Uli Urban offset - (f. robusta)
 BX 455|6. Pamianthe peruviana offsets
 BX 455|7. Hippeastrum striatum JES2146 Cianorte, Brazil offsets
-BX 455|From Anita Ketcham:
+BX 455|From Anita Ketcham: (SEEDS)
 BX 455|8. Hippeastrum 'Emerald' seeds
 BX 455|9. Hippeastrum 'Lemon and Lime' seeds
-BX 455|From Crystal Fisher:
+BX 455|From Crystal Fisher: (SEEDS)
 BX 455|10. Liatris mucronata seed
-BX 455|From Chad Cox:
+BX 455|From Chad Cox: (SEEDS)
 BX 455|11. Freesia laxa seed
-BX 455|From Kenton Seth:
+BX 455|From Kenton Seth: (SEEDS)
 BX 455|12. Arisaema sikkokianum seed
 BX 455|13. Iris lineata seeds (1 share)
 BX 455|14. Erythronium grandiflorum - Carbon Co., CO. Seed
@@ -532,13 +534,13 @@ BX 456|30. Gladiolus callianthus
 BX 456|31. Gladiolus dalenii 'Boone'
 BX 456|32. Gladiolus papilio
 BX 456|_______________________________________________
-BX 462|From Marvin Ellenbecker:
+BX 462|From Marvin Ellenbecker: (BULBS)
 BX 462|1. Freesia laxa bulbs
 BX 462|2. Amaryllis belladonna (1 share)
-BX 462|From Michael Kent:
+BX 462|From Michael Kent: (SEEDS)
 BX 462|3. Zephyranthes primulina seeds OP
 BX 462|4. Zaphyranthes drummondii 'San Carlos Form' seeds OP
-BX 462|From John Willis:
+BX 462|From John Willis: (BULBS)
 BX 462|5. Oxalis palmifrons
 BX 462|6. Oxalis flava var. fabifolia
 BX 462|7. Oxalis caprina
@@ -550,7 +552,7 @@ BX 462|12. Ferraria crispa - dark form
 BX 462|13. Ferraria ferrariola
 BX 462|14. Ferraria punctata
 BX 462|15. Ferraria uncinata
-BX 462|From Rimmer deVries:
+BX 462|From Rimmer deVries: (SEEDS)
 BX 462|16. Hymenocallis harrisiana seeds
 BX 462|17. Hymenocallis cf. guerreroensis seeds ex. Guerrero; NW of Chilpancingo
 BX 462|18. Hymenocallis aff. Phalangidis - ex. S. of Tepic, Nayarit
@@ -563,7 +565,7 @@ BX 462|24. Zephyranthes 'Pink Beauty'
 BX 462|25. Zephyranthes macrosiphon
 BX 462|26. Habranthus tubispathus
 BX 462|27. Zephyranthes x floryi
-BX 462|From Mary Sue Ittner:
+BX 462|From Mary Sue Ittner: (BULBS)
 BX 462|28. Watsonia aletroides
 BX 462|29. Nerine x - Zinkowski Rescue (tag missing letters) 'Hud'? 'Bet'?
 BX 462|30. Hyacinthoides lingulata
@@ -576,7 +578,7 @@ BX 462|36. Oxalis namaquana
 BX 462|37. Oxalis caprina
 BX 462|38. Gloriosa modesta (probably)
 BX 462|39. Ipheion uniflorum
-BX 462|From Jim Shields:
+BX 462|From Jim Shields: (SEEDS)
 BX 462|40. Ammocharis nerinoides seeds
 BX 462|41. Hymenocallis franklinensis seeds
 BX 462|42. Hymenocallis eucharidifolia seeds
@@ -585,6 +587,7 @@ BX 462|44. Hymenocallis phalangidis seeds
 BX 462|45. Habranthus caeruleus seeds
 BX 462|46. Zephyranthes 'Shandsii' seeds
 BX 462|47. Zephyranthes reginae seeds
+BX 462|From Jim Shields: (BULBS)
 BX 462|48. Hippeastrum striatum - Cianorte small offset bulbs
 BX 462|49. Haemanthus albiflos bulbs
 BX 462|From Arcangelo Wessels:
@@ -593,15 +596,15 @@ BX 462|51. Calochortus superbus ex. American Canyon
 BX 462|52. Narcissus cantabricus ex. Archibald
 BX 462|53. Rhodophiala bagnoldii seeds ex. Chile
 BX 462|_______________________________________________
-BX 454|From Rimmer deVries:
+BX 454|From Rimmer deVries: (SEEDS)
 BX 454|1. Clivia 'Sahin Yellow' seeds- always produces yellow seedlings
 BX 454|2. Clivia 'Sahin Treasure Chest' seeds - can be yellow, red, orange, peach, etc.
 BX 454|3. Clivia 'Vivo Yellow' x 'Solomon Yellow' - ex Jim Shields
 BX 454|4. Haemanthus albiflos seed
-BX 454|5. Pamianthe peruviana offset
+BX 454|5. Offset of Pamianthe peruviana offset
 BX 454|From Monica Swartz: (Bulbs)
 BX 454|6. Oziroe arida
-BX 454|Frim Karl Church (All Seeds)
+BX 454|From Karl Church (All Seeds)
 BX 454|7. Hippeastrum 'Minerva'
 BX 454|8. Hippeastrum 'Purple Estella'
 BX 454|9. Hippeastrum 'Blue Dream'
@@ -611,7 +614,7 @@ BX 454|11. Bessera elegans - red
 BX 454|12. Cyrtanthus epiphyticus
 BX 454|From Francisco Lopez:
 BX 454|13. Globba schomburgkii seeds
-BX 454|14. Remusatia vivipara bulbils
+BX 454|14. Bulbils of Remusatia vivipara bulbils
 BX 454|From Dennis Kramb: (All bulbs or rhizomes)
 BX 454|15. Eucrosia bicolor
 BX 454|16. Seemannia 'Pepper'
@@ -626,14 +629,14 @@ BX 454|24. Eucodonia andrieuxii 'Cathy'
 BX 454|25. Eucodonia verticillata
 BX 454|26. Eucodonia 'Adele'
 BX 454|_______________________________________________
-BX 453|From Dennis Van Landuyt:
+BX 453|From Dennis Van Landuyt: (BULBS)
 BX 453|1. Gladiolus communis?
 BX 453|2. Tritonia lineata (syn. Tritonia gladiolaris)
 BX 453|3. Gladiolus tristis ex Signa 3z323 & 11xx315
 BX 453|4. Freesia alba ex Signa 13xx324
 BX 453|5. Tritonia deusta ex Signa 7xx258
 BX 453|6. Tritonia pallida ex SHS
-BX 453|From Charles Powne:
+BX 453|From Charles Powne: (BULBS)
 BX 453|7. Ornithogalum longibracteatum (syn. Albuca bracteata)
 BX 453|8. Amorphophallus konjac
 BX 453|From Francisco Lopez: (All Seeds)
@@ -648,24 +651,26 @@ BX 453|15. Nerine humilis seed OP
 BX 453|From Linda Wulf:
 BX 453|16. Watsonia beatricis (syn. Watsonia pillansii)
 BX 453|_______________________________________________
-BX 458|From Chad Cox:
+BX 458|From Chad Cox: (BULBS)
 BX 458|1. Oxalis hirta
 BX 458|2. Lachenalia quadricolor
-BX 458|3. Clivia miniata hybrid (seed)
-BX 458|From Rimmer deVries:
+BX 458|3. Seed of Clivia miniata hybrid (seed)
+BX 458|From Rimmer deVries: (BULBS)
 BX 458|4. Sinningia tubiflora
+BX 458|From Rimmer deVries: (SEEDS)
 BX 458|5. Phaedranassa dubia seeds
 BX 458|6. Hippeastrum papilio seeds - seed from Telos Seedling 'A' - possible mates: self, Paramongaia, Urceolina microcrater
+BX 458|From Rimmer deVries: (BULBS)
 BX 458|7. Ornithogalum saundersiae
-BX 458|8. Scilla haemorrhoidalis seeds
+BX 458|8. Seed of Scilla haemorrhoidalis seeds
 BX 458|9. Notholirion thomsonianum
 BX 458|10. Cyrtanthus montanus x elatus
 BX 458|From Uli Urban:
-BX 458|11. Dioscorea discolor
-BX 458|12. Hedychium rubrum seeds
-BX 458|From Marvin Ellenbecker:
+BX 458|11. Bulb of Dioscorea discolor
+BX 458|12. Seeds of Hedychium rubrum seeds
+BX 458|From Marvin Ellenbecker: (SEEDS)
 BX 458|13. Hippeastrum papilio seeds
-BX 458|From Mary Sue Ittner:
+BX 458|From Mary Sue Ittner: (BULBS)
 BX 458|14. Gloriosa superba
 BX 458|15. Oxalis engleriana
 BX 458|16. Tulipa orphanidea 'Flava'
@@ -680,7 +685,7 @@ BX 458|24. Oxalis callosa
 BX 458|25. Oxalis flava - pink
 BX 458|26. Oxalis melanosticta 'Ken Aslet'
 BX 458|27. Tulipa 'Little Beauty'
-BX 458|From Jim Waddick:
+BX 458|From Jim Waddick: (SEEDS)
 BX 458|29. Crinum bulbispermum 'Jumbo' seeds
 BX 458|_______________________________________________
 BX 459|From Marilynne Mellander:
@@ -743,7 +748,7 @@ BX 459|53. Rhodophiala bifida subsp. granatiflora
 BX 459|54. Rhodophiala bifida
 BX 459|_______________________________________________
 BX 460|From Chad Cox:
-BX 460|1. Hippeastrum striatum - small offsets
+BX 460|1. Small offsets of Hippeastrum striatum - small offsets
 BX 460|From Jim Shields: (All Seeds)
 BX 460|2. Hippeastrun algaia - yellow form ex #2107
 BX 460|3. Hippeastrum psittacinum
@@ -752,7 +757,7 @@ BX 460|5. Hippeastrum iguazuanum - #2854.A x self
 BX 460|6. Hipprastrum evansiae
 BX 460|7. Hippeastrum bukasovii
 BX 460|_______________________________________________
-BX 461|From John Barnes:
+BX 461|From John Barnes: (All Seeds)
 BX 461|1. Crinum 'African Queen' Seeds
 BX 461|From Nick Plummer:
 BX 461|2. Crinum macowanii seeds - ex. Zambia
@@ -763,7 +768,7 @@ BX 461|4. Pamianthe peruviana seeds
 BX 461|From Anita Ketcham:
 BX 461|5. Zephyranthes primulina seeds
 BX 461|_______________________________________________
-BX 457|From Rimmer de Vries:
+BX 457|From Rimmer de Vries: (BULBS)
 BX 457|1. Clinanthus variegatus - Telos
 BX 457|2. Clinanthus incarnatus - red
 BX 457|From Dylan Hannon: (All Seeds)
@@ -777,7 +782,7 @@ BX 457|9. Pelargonium barklyi - Garies, South Africa
 BX 457|10. Scilla haemorrhoidalis
 BX 457|11. Leucocoryne vittata OP
 BX 457|From Dennis Kramb:
-BX 457|12. Smithiantha hybrid seedlings. These are Dennis's own crosses. One share of each variety. Each order will receive a single share at random.
+BX 457|12. Seedlings of Smithiantha hybrid These are Denniss own crosses. One share of each variety. Each order will receive a single share at random.
 BX 457|From Mary Sue Ittner: (All Seeds)
 BX 457|13. Haemanthus albiflos
 BX 457|14. Haemanthus pauculifolius

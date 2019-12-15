@@ -85,6 +85,7 @@ function extract_and_remove_parsing {
     then  
                 # taxon like 'Genus sp.'
                 taxon_local="${BASH_REMATCH[1]}";
+                # TODO comments are dissappearing when it is Genus sp., comments.
 
     else # more after species   
       if [[ $line_local =~ ^([A-Za-z]* [a-z]*)([^\']*)$ ]]; then
@@ -216,6 +217,8 @@ function infer_category {                               # from "Things of " phra
             category_local='SEEDS';
         elif [[ $of =~ bulb ]]; then
             category_local='BULBS';
+        elif [[ $of =~ Bulbil ]]; then
+            category_local='BULBS';
         elif [[ $of =~ rhizome ]]; then
             category_local='BULBS';
         elif [[ $of =~ corm ]]; then
@@ -265,9 +268,12 @@ function process_one_line {
         elif [[ $donor =~ " (BULBS)" ]]; then # Dell era syntax
             category="BULBS";
             donor=`echo $donor | sed 's/ (BULBS)//'`; 
-        elif [[ $donor =~ BULB || $donor =~ Bulb || $donor =~ bulb || $donor =~ rhizome ]]; then
+        elif [[ $donor =~ "BULB" || $donor =~ "Bulb" || $donor =~ "bulb" || $donor =~ "rhizome" ]]; then
             category="BULBS";
             # too complicated to sed from string; fix later
+        elif [[ $donor =~ " (UNKNOWN)" ]]; then
+            category="UNKNO";
+            donor=`echo $donor | sed 's/ (UNKNOWN)//'`;
         fi
         #shopt -u nocasematch # UNset shell to NOT match case
         
@@ -307,6 +313,7 @@ function process_one_line {
 	      else
 	           cat=$category;
 	      fi
+	      # Notice the $of does not OVERRIDE a category. Maybe it should. 
 	      
 	      # --------------------- Print item line ----------------
 	      echo "|${bx_id}|$item_n|$cat|$donor|$of|$taxon|$note|$photo_link|$season";
