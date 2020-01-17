@@ -1,0 +1,2535 @@
+Seed #	Genus/species	Description	Origin
+1	Abies koreana	purple-blue cones 10-18m 58	G
+2	Acantholimon hohenackeri	pink flr/blue-grey lvs 5-10cm 156	G
+3	Acantholimon sp	 156	G
+4	Acantholimon sp	silver lvs 156	G
+5	Acantholimon ulicinum	bright pink 10cm 156	G
+6	Acantholimon venustum	deep pink flr/grey-green lvs 10-15cm 156	G
+7	Acer campestre 'Magic Spring'	variegated lvs 33	G
+8	Acer griseum	6-9m 115	G
+9	Acer pensylvanicum	striped bark 5-10m 181	G
+10	Acer pictum	to 20m 181	G
+11	Acer shirasawanum 'Ogurayama'	2-3m 91	G
+12	Acer tegmentosum 'Joe Witt'	white striped bark 6-9m 33	G
+13	Achillea abrotanoides	white flr/grey-green lvs 20-40cm 32	G
+14	Achillea aleppica ssp zederbaueri	white-yellow flr/grey lvs 5-15cm 32 100	G
+15	Achillea clusiana	white 38	G
+16	Achillea clypeolata	yellow flr/grey felted lvs 45-60cm 56	G
+17	Achillea lewisii (x) 'King Edward'	pale yellow flr/woolly lvs 15-25cm 147	G
+18	Achillea tomentosa	yellow flr/woolly lvs 15-30cm 95	G
+19	Acis autumnalis	white/pinkish base 7-15cm 73 85	G
+20	Acis nicaeensis	white 5-18cm 57 63	G
+21	Aconitum anthora	yellow 25-100cm 98	G
+22	Aconitum krylovii	cream-yellow 30-130cm 64 136	G
+23	Aconitum lamarckii	cream-yellow 90-120cm 128	G
+24	Aconitum sinomontanum	blue-purple/pale blue 95-150cm 178	G
+25	Aconitum uncinatum	blue 30-250cm 136	G
+26	Actaea dahurica	cream to 1m 113 183	G
+27	Actaea elata	white/pinkish 120-180cm 127 134	G
+28	Actaea japonica 'Silver Blush'	white flr/silver new lvs 75cm 170	G
+29	Actaea pachypoda	white flr/white frt 45-60cm >	G
+30	Actaea pachypoda f rubrocarpa	white flr/red-pink frt 60-90cm 6 118	G
+31	Actaea pachypoda 'Misty Blue'	white flr & frt/blue-green lvs 60-90cm 101	G
+32	Actaea racemosa (cf)	white 75-250cm 169	G
+33	Actaea rubra	white flr/red frt 40-80cm 27 118 188	G
+34	Actaea simplex Atropurpurea Group	white-pale pink flr/dark purple lvs 120-180cm 175 5	G
+35	Actaea simplex 'Black Negligee'	white flr/purple-black lvs 1.2-1.5m 113	G
+36	Actaea simplex 'Brunette'	white flr/dark purple stems & lvs 90-120cm 178	G
+37	Actaea spicata	white flr/black frt 30-70cm 118	G
+38	Adenophora triphylla v japonica	blue 40-100cm 153	G
+39	Adiantum caudatum	to 30cm 82	G
+40	Adlumia fungosa	pale lavender-pink 0.5-4m 175	G
+41	Adlumia fungosa	white/pale pink-purple 0.5-4m 6 113 146	G
+42	Adonis aestivalis	red 20-50cm 26	G
+43	Aeonium canariense v virgineum	yellow 30cm 121	G
+44	Aeonium nobile	red 30-75cm 121	G
+45	Aeonium tabuliforme	yellow 2-5cm lvs/60cm flr 156	G
+46	Aethionema capitatum	pink 5-15cm 34 144	G
+47	Aethionema glaucinum	pink 5-10cm 100 144	G
+48	Aethionema grandiflorum	pink flr/blue-grey lvs 15-30cm >	G
+49	Aethionema kotschyi (hort)	pink 10-15cm 30	G
+50	Aethionema saxatile	pink-white flr/blue-green lvs 5-25cm 169	G
+51	Aethionema schistosum	pink 13-18cm 57	G
+52	Aethionema sp	pink 6cm 57	G
+53	Aethionema subulatum	pink 5-10cm 112	G
+54	Aethionema 'Warley Rose'	rose-pink to 20cm 77	G
+55	Agastache 'Astello Indigo'	deep indigo blue 50cm 155	G
+56	Agastache sp.	pink 150cm 156	G
+57	Agave bracteosa	white-pale yellow 45cm/1.8m scape 170	G
+58	Agave parryi ssp neomexicana	yellowish green flr/blue-green lvs 45cm lvs/4.5m flr 156	G
+59	Agave univittata	greenish white-yellowish green 30-40cm lvs/3-5m flr 170	G
+60	Agrostemma githago (PI)	pink to 1m 2	G
+61	Albuca humilis	white/green stripe to 10cm 30 111 122	G
+62	Albuca shawii	yellow to 30cm 30 74	G
+63	Alcea rosea 'Light Rose Caplez'	1.5m 39	G
+64	Alcea rosea 'Nigra'	dark maroon-black to 2m 92	G
+65	Alcea rosea ssp ficifolia	pink 125cm 90	G
+66	Allium acuminatum	pink-rose purple 10-35cm 64	G
+67	Allium aflatunense	purplish-pink to 90cm 42	G
+68	Allium amplectens	white 15-50cm 139	G
+69	Allium atropurpureum	deep blackish-purple 60-100cm 5	G
+70	Allium caesium	deep sky blue 15-65cm 73	G
+71	Allium callimischon	white/purple mid-vein 10-35cm 45	G
+72	Allium carinatum	white 30-50cm 184	G
+73	Allium carinatum ssp pulchellum	pink-purple 30-50cm 64 144	G
+74	Allium carolinianum	pink-purple 20-40cm 118	G
+75	Allium cernuum	pink 10-50cm 60	G
+76	Allium cernuum	pink/white mix 10-50cm 6 138 153	G
+77	Allium cernuum 'Pink Giant'	pink-purple 30-45cm 19	G
+78	Allium cristophii	purple-violet to 60cm >	G
+79	Allium cupuliferum	red-purple 30-50cm 35	G
+80	Allium cyaneum	blue 10-30m 118	G
+81	Allium cyathophorum	purple-dark purple to 15cm 156	G
+82	Allium cyathophorum v farreri	dark pink 20-25cm 144	G
+83	Allium cyathophorum v farreri	purple 13-15cm 64	G
+84	Allium daghestanicum	pink/pale purple 20-30cm 132	G
+85	Allium dodecadontum	pink 60-80cm 63	G
+86	Allium douglasii	pink-purple 10-40cm 77 114	G
+87	Allium falcifolium	white 5-25cm 139	G
+88	Allium fistulosum	yellowish white 15-70cm 19	G
+89	Allium flavum	yellow 6-30cm >	G
+90	Allium flavum ssp tauricum	mix flr/blue-grey lvs 15-35cm 35	G
+91	Allium flavum ssp tauricum (ex McDonough)	mix 15-30cm 85	G
+92	Allium galanthum (ex Berkutenko)	white 60-80cm 152	G
+93	Allium geyeri	pink-white 10-50cm 156	G
+94	Allium gomphrenoides	pink/white 5-25cm 63	G
+95	Allium hollandicum 'Purple Sensation'	purple-reddish purple to 90cm 184	G
+96	Allium huber-morathii	reddish/pink 5-20cm 118	G
+97	Allium insubricum	rosy pink to 25cm 67	G
+98	Allium karataviense	mix 25-30cm 85	G
+99	Allium karataviense	pale pink-lilac flr/blue-grey lvs 25-30cm 169	G
+100	"Allium karataviense (ex Tian Shan, Kyrgyzstan)"	 83	G
+101	Allium komarowii	dark purple 30-50cm 35	G
+102	Allium lusitanicum	pink-pale purple 20-45cm 156	G
+103	Allium meteoricum	pale pink 15-20cm 124	G
+104	Allium nigrum	white/dark pink center 50cm 80	G
+105	Allium nigrum	white/green midvein 60-100cm 63	G
+106	Allium nutans	pink-pale purple 30-60cm 169	G
+107	Allium obliquum (ex Ruksans)	bright green to 1m 19	G
+108	Allium ochotense	whitish-green 20-30cm 12 22	G
+109	Allium oreophilum	rose-red 15-20cm 175	G
+110	"Allium oreophilum (ex Tian Shan, Kyrgyzstan)"	 83	G
+111	Allium ovalifolium v ovalifolium	white/pink 30-60cm 124	G
+112	Allium pseudoflavum	pale yellow/greenish-yellow 20-50cm 3	G
+113	Allium pskemense	white 40-100cm 66	G
+114	Allium regelii	pale lilac-mauve/pinkish carmine 20-70cm 154	G
+115	Allium scabriflorum	violet-blue/deep purple 10-25cm 35	G
+116	Allium schoenoprasum	mix 20-50cm 156	G
+117	Allium senescens	pink-purple 10-40cm 40 56 64	G
+118	Allium setifolium	pale pink-red 5-10cm 63	G
+119	Allium siculum	reddish/greenish-cream 50-120cm 11 169	G
+120	Allium sp (ex China)	light pink 50-60cm 152	G
+121	Allium stellatum	deep pink 20-50cm 124 169	G
+122	Allium subvillosum	white 5-40cm 67	G
+123	Allium texanum	white 50-60cm 81	G
+125	Allium togashii	pale pink/white 12-20cm 156 169	G
+126	Allium tolmiei	white-pink/reddish mid-rib 5-40cm 134	G
+127	Allium tripedale	pink-white 50-90cm 101	G
+128	Allium tuberosum (PI)	white 30-50cm 108 147	G
+129	Allium unifolium	bright pink 20-80cm 64	G
+130	Allium victorialis	white-greenish 30-70cm 117 118	G
+131	Allium wallichii CGG 14029	pink to 50cm 6	G
+132	Allium zebdanense	white 25-40cm 169	G
+133	Aloinopsis malherbei	yellow/salmon-pink to 5cm 114	G
+134	Alophia drummondii	purple 15-45cm 10 179	G
+135	Alstroemeria hookeri (true)	pink 25cm 64	G
+136	Alstroemeria sp	candy pink 50-60cm 64	G
+137	Alyssoides cretica	yellow flr/grey woolly lvs 15-20cm 185	G
+138	Alyssoides utriculata	yellow 20-50cm >	G
+139	Alyssum oxycarpum	yellow flr/silver lvs 10-20cm 77	G
+140	Amsonia hubrichtii	pale blue 60-90cm 173	G
+141	Amsonia tabernaemontana	light blue 60-90cm 184	G
+142	Anacampseros rufescens	pink 5-8cm 100	G
+143	Anchusa capensis	deep blue 30-45cm 121	G
+144	Androsace carnea	pink 2-7cm 140	G
+145	Androsace carnea ssp brigantiaca	white to 12cm 57	G
+146	Androsace cylindrica	white 2-5cm 77	G
+147	Androsace cylindrica ssp hirtella	white 7.5cm 77	G
+148	Androsace cylindrica x pyrenaica	white 7.5cm 77	G
+149	Androsace halleri	pink 2-10cm 15	G
+150	Androsace lehmanniana	white/pink 2-7cm 77	G
+151	Androsace septentrionalis	white 1-15cm 50 144	G
+152	Androsace villosa	white to 3cm 118	G
+153	Andryala agardhii	yellow flr/silver woolly lvs 8-15cm 63	G
+154	Anemone baldensis	white 5-15cm 110	G
+155	Anemone caroliniana	white 5-35cm 139	G
+156	Anemone drummondii	white/tinged blue reverse 10-25cm 134	G
+157	Anemone hortensis	mix 20-40cm 30	G
+158	Anemone multifida	mix 10-40cm 118	G
+159	Anemone multifida	red 10-40cm 12	G
+160	Anemone multifida	white 10-40cm 69	G
+161	Anemone multifida 'Major'	cream-yellow 20cm 154	G
+162	Anemone multifida 'Rubra'	dark rose-pink to 30cm 26	G
+163	Anemone multifida v tetonensis	red 10-20cm 77	G
+164	Anemone multifida v tetonensis	red-purple/white-yellow/blue 10-20cm 57	G
+165	Anemone narcissiflora ssp biarmiensis	white/soft yellow 15-50cm 41	G
+166	Anemone narcissiflora ssp fasciculata	white 15-50cm 40	G
+167	Anemone nemorosa	blue 5-15cm 140	G
+168	Anemone nemorosa 'Robinsoniana' (moist packed)	pale lavender-blue 15-20cm 169	G
+169	Anemone rivularis	white/blue-mauve reverse 20-60cm 57	G
+170	Anemone rivularis (ex Chris Chadwell)	white to 60cm 103	G
+171	Anemone rupicola	white/pink-violet reverse 5-25cm 89 95 112	G
+172	Anemone rupicola (cf)	white/blue reverse 60cm 82	G
+173	Anemone sp	 49	G
+174	Anemone sylvestris	white 30-45cm 99	G
+175	Anemonella thalictroides	pink 10-30cm 128 140	G
+176	Anemonella thalictroides (moist packed)	semi-double white 10-30cm 140	G
+177	Anemonella thalictroides (moist packed)	white 10-30cm 140	G
+178	Anemonopsis macrophylla (moist packed)	pale purple 40-80cm 88	G
+179	Angelica pachycarpa	greenish-cream to 1m 156	G
+180	Antennaria alpina	whitish 3-18cm 66	G
+181	Antennaria aromatica	white-light brown flr/white woolly lvs 2-7cm 130	G
+182	Antennaria dioica	pink-white flr/grey lvs 3-10cm 39 90	G
+183	Antennaria dioica 'Nyewoods Variety'	bright pink flr/grey lvs 10cm 95	G
+184	Antennaria parvifolia	white-pink flr/grey woolly lvs 2-8cm 100	G
+185	Antennaria sp	silver lvs 156	G
+186	Anthemis cretica	white flr/grey lvs 10-30cm 156	G
+187	Anthemis spruneri	white ray flr/grey lvs 15-20cm 100	G
+188	Anthericum baeticum	white to 35cm 156	G
+189	Anthericum liliago	white 60-90cm 93	G
+190	Anthericum ramosum	white 30-70cm >	G
+191	Anthriscus sylvestris 'Ravenswing'	white flr/dark purple-bronze lvs 30-90cm 113	G
+192	Anthyllis coccinea	red 15-30cm 74	G
+193	Anticlea (Zigadenus) elegans	cream-greenish 20-80cm 44 158	G
+194	Aquilegia alpina (cf)	blue/pinkish-white 15-30cm 36	G
+195	Aquilegia atrata	dark red-purple 30-60cm 54 147	G
+196	Aquilegia bertolonii	blue-violet 20-30cm 31 178	G
+197	Aquilegia bertolonii (aff)	blue-purple/white 30cm 16	G
+198	Aquilegia buergeriana	yellow/brown-purple 30-80cm 145	G
+199	Aquilegia buergeriana (dwarf form)	yellow/brown-purple 15-30cm >	G
+200	Aquilegia buergeriana 'Calimero'	purple/yellow 15-20cm 6 40	G
+201	Aquilegia canadensis	red/coral 45cm 113	G
+202	Aquilegia canadensis	red/orange 45cm 179	G
+203	Aquilegia canadensis	red/yellow 15-90cm >	G
+204	Aquilegia canadensis (dwarf form)	orange/yellow 20-25cm 69	G
+205	Aquilegia canadensis 'Corbett'	pale yellow 30-45cm 6	G
+206	Aquilegia canadensis 'Little Lanterns'	red/yellow to 25cm 31 118 124	G
+207	Aquilegia chrysantha	yellow 30-120cm 64 79	G
+208	Aquilegia chrysantha 'Denver Gold'	yellow flr/blue-green lvs 75-90cm 156	G
+209	Aquilegia chrysantha v hinckleyana	yellow 50-70cm 179	G
+210	Aquilegia discolor	blue/white 10-20cm >	G
+211	Aquilegia ecalcarata	purplish pink to 40cm 116	G
+212	Aquilegia flabellata	blue/lilac 20-30cm 41 57 148	G
+213	Aquilegia flabellata	blue/white 20-30cm 69 82	G
+214	Aquilegia flabellata	pink/white 15cm 32	G
+215	Aquilegia flabellata	white 20-30cm 40 69	G
+216	Aquilegia flabellata 'Cameo Blue & White'	blue/white 15-20cm 32	G
+217	Aquilegia flabellata v pumila	blue/white 15cm >	G
+218	Aquilegia flabellata v pumila	white 15-25cm 69	G
+219	Aquilegia grahamii	red/yellow 20-50cm 100	G
+220	Aquilegia grahamii hybrids	20-25cm 77	G
+221	Aquilegia 'Origami Yellow'	soft yellow 35-45cm 99	G
+222	Aquilegia oxysepala	purple/yellowish 40-80cm 19	G
+223	Aquilegia rockii	black-purple 30cm 115	G
+224	Aquilegia saximontana	blue/cream 5-25cm >	G
+225	Aquilegia saximontana	purple 5-25cm 154	G
+226	Aquilegia scopulorum	mix flr colors/blue-grey lvs 5-30cm >	G
+227	Aquilegia scopulorum (cf)	soft blue/cream long-spurred flr/blue lvs 5	G
+228	Aquilegia sp	blue 30cm 155	G
+229	Aquilegia sp	clear blue 20cm 50	G
+230	Aquilegia sp	double white 50-60cm 13	G
+231	Aquilegia triternata	red/yellow 15-60cm 154	G
+232	Aquilegia viridiflora	dark purplish brown/greenish 15-50cm 69	G
+233	Aquilegia vulgaris	blue 30-90cm 15 147	G
+234	Aquilegia vulgaris	double purple w/white edge 60cm 113	G
+235	Aquilegia vulgaris	mix 30-90cm 15	G
+236	Aquilegia vulgaris	pink 30-90cm 147	G
+237	Aquilegia vulgaris	white/purple 30-90cm 15	G
+238	Aquilegia vulgaris	white/short spurs 50-60cm 147	G
+239	Aquilegia vulgaris 'Nivea'	pure white to 90cm 113	G
+240	Aquilegia vulgaris v stellata Barlow Series	mix 60-75cm 15	G
+241	Aquilegia vulgaris v stellata 'Green Apples'	double green-white 45-60cm 113	G
+242	Aquilegia vulgaris v stellata 'Nora Barlow'	rose pink/cream-pale green 60-90cm 181	G
+243	Arabis caucasica	white 15-25cm 146	G
+244	Arabis sp (ex wild Colorado)	 156	G
+245	Aralia cordata 'Sun King'	white flr/yellow lvs 90-180cm 108	G
+246	Arbutus menziesii	creamy white flr/red frt 4-10m 134	G
+247	Arctostaphylos columbiana (decumbent form)	white 30cm 134	G
+248	Arenaria grandiflora	white 5-15cm 112	G
+249	Arenaria norvegica	white 3-7cm 44	G
+250	Arenaria purpurascens	pale pink-purple to 14cm 32	G
+251	Arisaema consanguineum	green/purple-brown 90-180cm 91	G
+252	Arisaema consanguineum 'Perfect Wave'	bluish lvs w/silver center 40-120cm 5	G
+253	Arisaema dracontium	green to 130cm 91 115	G
+254	Arisaema flavum	yellow 30-75cm 82 159	G
+255	Arisaema flavum ssp abbreviatum (hort)	yellow to 70cm 159	G
+256	Arisaema heterophyllum	yellow green-purple tinged to 100cm 21 90 115	G
+257	Arisaema triphyllum	green/purple w/white stripes 60-90cm 82 165	G
+258	Aristida fendleriana	10-40cm 185	G
+259	Aristolochia clematitis	pale yellow flr/non-climbing 60-100cm 108	G
+260	Armeria alpina	deep pink 7-30cm 38 110	G
+261	Armeria caespitosa	pink-purple 2-5cm 40 162	G
+262	Armeria caespitosa 'Lelekovice'	pale pink 5cm 110	G
+263	Armeria caespitosa 'Red Faery'	rose/red 7-12cm 89 95	G
+264	Armeria filicaulis	pink/purple to 14cm 32	G
+265	Armeria juniperifolia	pink 5-15cm 151	G
+266	Armeria maritima	pink-white 2-30cm 31 147	G
+267	Armeria maritima	red/white 2-30cm 71	G
+268	Armeria maritima 'Dusseldorfer Stolz'	deep pink 10-20cm 147	G
+269	Armeria maritima 'Little Penny'	dark rose-pink 3-10cm 89	G
+270	Armeria maritima 'Rubrifolia'	rose-pink flr/burgundy lvs 15-20cm >	G
+271	Armeria maritima 'Victor Reiter'	pink 5-10cm 54 107	G
+272	Armeria pseudarmeria	pink 25-50cm 4 56	G
+273	Arnoglossum atriplicifolium	white 1-3m 62	G
+274	Arthropodium candidum 'Purpureum'	white flr/purple-bronze lvs 10-30cm 175	G
+275	Arum apulum	red-brown 20cm 65	G
+276	Arum concinnatum	pale green/purple edge 20-45cm 65	G
+277	Arum italicum	cream-light green flr/red frt 30-45cm 21 159 165	G
+278	Arum sp	green w/red cast 30cm 65	G
+279	Aruncus dioicus v aethusifolius	cream 15-30cm 6 54	G
+280	Aruncus dioicus 'Zweiweltenkind'	cream white to 75cm 156	G
+281	Asarina procumbens	cream/yellow 5-7cm 6 76	G
+282	Asarum caudatum v viridiflorum (moist packed)	greenish-yellow flr 7-17cm 169	G
+283	Asarum hartwegii (moist packed)	reddish-brown 9-21cm 169	G
+284	Asclepias angustifolia	white/pale purple 20-70cm 87	G
+285	Asclepias incarnata	pink-mauve 1-1.5m >	G
+286	Asclepias purpurascens	deep rose-purple to 1m 172	G
+287	Asclepias tuberosa	orange 30-100cm >	G
+288	Asimina triloba	maroon flr/large green frt to 11m 51	G
+289	Asperula orientalis	pale-clear purplish blue to 30cm 153	G
+290	Asphodeline damascena	white flr/blue-green lvs 45-170cm 114	G
+291	Asphodeline liburnica	yellow 60-100cm 64 66	G
+292	Asphodeline lutea	yellow 90-120cm 26 156	G
+293	Asphodeline taurica	white 60-80cm 3	G
+294	Asphodelus albus	white/pink-veined 50-120cm 3	G
+295	Asplenium scolopendrium 'Peraferens'	25cm 11	G
+296	Aster ageratoides 'Ezo Murasaki'	purple to 60cm 33	G
+297	Aster alpinus	blue 15-30cm 160	G
+298	Aster alpinus	lavender 15-30cm 36	G
+299	Aster alpinus	lilac-purple 6-20cm 57	G
+300	Aster alpinus	mix 15-30cm 96 146	G
+301	Aster alpinus	purple 15-30cm 15 19	G
+302	Aster alpinus	white 15-30cm 58	G
+303	Aster himalaicus	blue-purple 8-25cm 52 156	G
+304	Aster likiangensis	bluish-lavender purple 3-20cm 142	G
+305	Aster souliei	blue-purple/violet 2-45cm 57	G
+306	Aster stracheyi	violet-pale lilac 3-15cm 68	G
+307	Astilbe chinensis v pumila (ex S Korea Chiri-san HC970423) 	light-mid pink 30cm 5	G
+308	Astilbe sp	mixed colors 155	G
+309	Astragalus acaulis	pale sulphur yellow to 15cm 119	G
+310	Astragalus lutosus	white flr/silver-grey lvs 2-5cm 118	G
+311	Astragalus sempervirens	pink 5-20cm 119	G
+312	Astragalus utahensis	bright pink-purple flr/woolly lvs 5-10cm 100	G
+313	Astrantia major	greenish-white/reddish 60-90cm 98	G
+314	Asyneuma campanuloides	dark bluish-violet 30-50cm 57	G
+315	Asyneuma limonifolium	blue 5-15cm 119	G
+316	Asyneuma limonifolium	violet-blue 15-30cm 144	G
+317	Athamanta turbith	white 30-50cm 100	G
+318	Athyrium filix-femina 'Lady in Red'	red stem 45-60cm 33	G
+319	Aubrieta parviflora	white-pale lilac pink 5-10cm 77	G
+320	Aubrieta scardica	purple to 10cm 77	G
+321	"Aubrieta sp (ex Mt Ossa, Greece)"	 99	G
+322	Azara microphylla	yellow fragrant flr 4-8m 11	G
+323	Babiana angustifolia	blue 10-20cm 133	G
+324	Babiana tubiflora	cream-white/purple-violet spots 7-15cm 99	G
+325	Baptisia australis	blue-violet flr/blue-black frt to 1.5m 21 169 175	G
+326	Baptisia australis v minor	purple-blue 30-60cm 167	G
+327	Baptisia bracteata	cream-pale yellow 45-75cm 54 153	G
+328	Baptisia lanceolata	yellow 30-60cm 54	G
+329	Baptisia perfoliata	yellow flr/blue-grey lvs 60-90cm 117	G
+330	Barbarea rupicola	yellow 5-40cm 175	G
+331	Barnardia (Scilla) japonica	lavender/lilac 7-20cm 113 182	G
+332	Beesia calthifolia	white 14-58cm 175	G
+333	Beesia deltophylla	white 14-34cm 6	G
+334	Begonia boliviensis	bright orange/red 30-45cm 64	G
+335	Begonia grandis 'Heron's Pirouette'	pink 30-60cm 169	G
+336	Begonia grandis ssp sinensis	pink 20-40cm 3	G
+337	Begonia henryi	pink to 25cm 170	G
+338	Bellevalia paradoxa	blackish-blue 12-20cm 160	G
+339	Berlandiera lyrata	yellow/red-maroon center 10-60cm 84 129	G
+340	Beta trigyna	greenish-white to 100cm 156	G
+341	Betonica nivea	white to 35cm 119	G
+342	Betula lenta	to 20m 181	G
+343	Betula utilis v jacquemontii	to 20m 5	G
+344	Bletilla striata	violet 18-60cm 151	G
+345	Bomarea salsilla	red to 2m 128	G
+346	Brimeura amethystina	white 10-15cm 72	G
+347	Bukiniczia cabulica	pink flr/white veined lvs to 30cm 112 156	G
+348	Bupleurum ranunculoides	yellow 10-60cm 64 66	G
+349	Bupleurum rotundifolium	yellow-green 10-40cm 151	G
+350	Calceolaria andina	deep yellow/orange 20-35cm 11 45	G
+351	Calceolaria biflora	yellow 10-45cm 58 156	G
+352	Calceolaria chelidonioides	yellow 30-50cm 101	G
+353	Calceolaria filicaulis	yellow 15-25cm 154	G
+354	Calceolaria 'John Innes'	yellow/purple spots 10-20cm 96 177	G
+355	Callicarpa dichotoma	pink-white flr/purple frt 1-2m 178	G
+356	Callirhoe involucrata	reddish-purple 15-30cm 79 89	G
+357	Callirhoe triangulata	magenta-red 45-50cm 170	G
+358	Calochortus albus	white-pink 20-80cm 17	G
+359	Calochortus amabilis	yellow 10-50cm 59	G
+360	Calochortus argillosus	white/red-lavender markings 40-60cm 59	G
+361	Calochortus howellii	yellowish white 20-35cm 18	G
+362	Calochortus longibarbatus	light pink-lavender 10-30cm 64	G
+363	Calochortus luteus	deep yellow/red-brown 20-50cm 29	G
+364	Calochortus obispoensis	yellow-orange/purple-brown tips 30-60cm 18	G
+365	Calochortus splendens	lavender-purple 20-60cm 59	G
+366	Calochortus uniflorus	pink 5-10cm 24	G
+367	Calochortus venustus	mix 10-60cm 18	G
+368	Caltha biflora	white 15-30cm 64	G
+369	Caltha palustris	yellow to 50cm 77	G
+370	Calycanthus chinensis	white 1-3m 21	G
+371	Calycanthus floridus	maroon to 3.5m 62	G
+372	Calylophus serrulata	yellow 15-45cm 34	G
+373	Camassia leichtlinii	blue-violet/cream 20-130cm 177	G
+374	Camassia leichtlinii	dark blue-violet 20-130cm 85	G
+375	Camassia leichtlinii ssp leichtlinii	creamy white 20-130cm 3	G
+376	Camassia quamash	blue-violet 20-80cm 77	G
+377	Camassia scilloides	light blue/whitish 19-47cm 179	G
+378	Campanula alliariifolia	white-light violet 50-70cm 156 181	G
+379	Campanula aristata	pale blue 7-30cm 119	G
+380	Campanula betulifolia	white/pink bud 10-20cm 32 185	G
+381	Campanula carpatica	blue 15-30cm 64	G
+382	Campanula carpatica 'Rapido Blue'	violet-blue 15-20cm 147 175	G
+383	Campanula choruhensis	white/flushed pink 10-15cm 57 100	G
+384	Campanula coriacea	lilac 5-15cm 100	G
+385	Campanula dolomitica	white/yellowish 30-60cm 32	G
+386	Campanula hofmannii	creamy white 30-60cm 37 45 175	G
+387	Campanula incurva	pale blue-lilac to 30cm 35 57 156	G
+388	Campanula latifolia	mix 60-120cm 160	G
+389	Campanula latifolia	white 60-120cm 122	G
+390	Campanula latiloba 'Hidcote Amethyst'	pale pinkish-lilac to 90cm 175	G
+391	Campanula medium	mix 60-80cm 158	G
+392	Campanula pelia (cf)	 57	G
+393	Campanula persicifolia	lilac 30-90cm 180	G
+394	Campanula persicifolia	pink 30-90cm 42	G
+395	Campanula persicifolia	white 30-90cm 19	G
+396	Campanula persicifolia 'Telham Beauty'	blue 60-120cm 9	G
+397	Campanula 'Pink Octopus'	pink 30-45cm 147	G
+399	Campanula primulifolia	lavender blue to 90cm 133 175	G
+401	Campanula 'Ringsabell Indigo Blue'	bluish-purple 15-40cm 147	G
+402	Campanula 'Ringsabell Mulberry Rose'	rose pink 15-40cm 147	G
+403	Campanula rotundifolia	pale-mid violet-blue 10-50cm 153	G
+404	Campanula sarmatica	lilac-blue flr/grey woolly lvs to 50cm 32 67	G
+405	Campanula saxifraga	white 20cm 119	G
+406	Campanula saxifraga ssp aucheri	violet-blue 5-15cm 112	G
+407	Campanula thyrsoides	pale yellow-cream 20-40cm 100	G
+408	Campanula zangezura	lavender-violet to 30cm 14	G
+409	Cardamine concatenata	white-pale pink 20-40cm 169	G
+410	Cardiocrinum cordatum	greenish white 70-200cm 54 113	G
+411	Cardiocrinum giganteum	white/streaked purple 1-3m 181 175	G
+412	Cardiocrinum giganteum v yunnanense	white/purple-red streak 1-3m 149	G
+413	Carex appalachica	20-60cm 175	G
+414	Carex grayi	spiked club-shaped seed head 40-90cm 90 115	G
+415	Carex pendula	20-100cm 55 90	G
+416	Carex scaposa	pink to 30cm 170	G
+417	Carlina acaulis ssp caulescens	silvery white 15-50cm 97	G
+418	Caryopteris incana	purplish-bluish 25-50cm 29	G
+419	Castilleja miniata x integra hybrid	 34	G
+420	Catananche caerulea	pink 40cm 180	G
+421	Catananche caespitosa	yellow flr/silver-grey lvs 5-10cm 156	G
+422	Caulophyllum thalictroides	yellow-green flr/blue fruit 20-90cm 113	G
+423	Centaurea drabifolia	yellow flr/grey lvs 5-25cm 78	G
+424	Centaurea urvillei	butter yellow 25cm 78	G
+425	Cercis chinensis	pink 2-5m 173	G
+426	Cercis chinensis	purplish red/pink/white 2-5m 178	G
+427	Cercis siliquastrum	deep pink to 12m 173	G
+428	Chaenorhinum origanifolium	purple-violet 15-25cm 68	G
+429	Chamaebatiaria millefolium	white 60-200cm 156	G
+430	Chelidonium majus 'Flore Pleno'	double yellow to 60cm 9	G
+431	Chiastophyllum oppositifolium	yellow 15cm 37 58	G
+432	Chilopsis linearis	white w/purple 5m 173	G
+433	Chionanthus retusus	white to 20m 33	G
+434	Chionanthus sp	 5	G
+435	Chionanthus virginicus	white 3-10m 51	G
+436	Chionanthus virginicus (moist packed)	white 3-10m 87	G
+437	Chlorophytum saundersiae	white 40cm 172	G
+438	Chrysogonum virginianum	yellow 15-35cm 6	G
+439	Cinna arundinacea	28-185cm 141	G
+440	Cistus creticus	rose-purple 1-1.5m 150	G
+441	Cistus laurifolius	white 80-200cm 78	G
+442	Citrus trifoliata 'Flying Dragon'	white flr/yellow frt/contorted to 3.5m 115	G
+443	Clarkia hybrid	long blooming magenta 90cm 133	G
+444	Clarkia pulchella	fuchsia 10-50cm 60	G
+445	Claytonia megarhiza v nivalis	pink-purple 2-5cm 77	G
+446	Claytonia virginica (moist packed)	white/pink 5-20cm 124	G
+447	Clematis addisonii	reddish-purple/cream tips 60-100cm 45 175	G
+448	Clematis akebioides	yellow/greenish-yellow tinged purple to 5m 126	G
+449	Clematis alpina	blue-violet/purple to 4m 37	G
+450	Clematis crispa	lavender/violet-blue to 3m 116	G
+451	Clematis 'Everett'	deep red-purple 1-1.5m 160	G
+452	Clematis florida 'Alba Plena'	double white/green tinge 2-2.5m 33	G
+453	Clematis fremontii	pale blue-violet/purple 15-45cm 20	G
+454	Clematis fremontii	white 30-45cm 146	G
+455	Clematis fusca	purple-brown 35-200cm 175	G
+456	Clematis heracleifolia 'China Purple'	violet-blue 60-100cm 175	G
+457	Clematis hexapetala	white 30-100cm 156	G
+458	Clematis hirsutissima	dark violet-blue 15-65cm 64 154 156	G
+459	Clematis integrifolia	blue to 1m 158	G
+460	Clematis integrifolia	purple to 1m 144	G
+461	Clematis integrifolia 'Mongolian Bells'	mostly blue 25-35cm 156	G
+462	Clematis integrifolia 'Mongolian Bells'	white 25-35cm 156	G
+463	Clematis integrifolia 'Rosea'	pink to 1m 14	G
+464	Clematis ochroleuca	pale purple 20-70cm 114	G
+465	Clematis 'Omoshiro'	white/pink edges & reverse to 2.4m 33	G
+466	Clematis pitcheri	bluish-purple/reddish-purple to 4m 91	G
+467	Clematis pitcheri v dictyota	pale-dark purple to 4m 28 70	G
+468	Clematis recta 'Lime Close'	white flr/dark purple lvs to 1.5m 175	G
+469	Clematis recta 'Purpurea'	white flr/purple new lvs to 1.5m 44 169 184	G
+470	Clematis 'Rooguchi'	indigo-violet/plum purple to 2.4m 5	G
+471	Clematis scottii	dark violet-blue 15-65cm >	G
+472	Clematis serratifolia	yellow 4-5m 184	G
+473	Clematis tangutica	bright yellow 2-4m 63	G
+474	Clematis texensis	rose-red/scarlet to 3m 50 70 84	G
+475	Clematis tibetana v vernayi 'Glasnevin Dusk'	purple-black 2-2.5m 67	G
+476	Clematis versicolor	pale lavender-reddish purple/cream to 5m 51	G
+477	Clematis viorna	reddish purple-lavender/cream-yellow to 4m >	G
+478	Clematis viorna (chubby form)	 25	G
+479	Cleome hirta	purplish-pink to 1.6m 26 92	G
+480	Cleome houtteana	lavender to 150cm 21	G
+481	Cleome houtteana	white to 150cm 21	G
+482	Clethra alnifolia 'Ruby Spice'	rose-pink 120-180cm 155	G
+483	Clianthus puniceus	red/pink 0.8-3m 181	G
+484	Clinopodium grandiflorum	pink 20-60cm 175	G
+485	Clinopodium nepeta 'Marvellete Blue'	blue-purple 15-20cm 8	G
+486	Clintonia umbellulata	white-greenish white flr/black frt 27-60cm 153 169	G
+487	Clintonia umbellulata (moist packed)	white-greenish white flr/black frt 27-60cm 45	G
+488	Clitoria ternatea	vivid deep blue to 3m 168	G
+489	Codonopsis lanceolata	greenish-cream/purple inside to 1.5m 6 175	G
+490	Codonopsis obtusa	pale blue/pale purple inside to 60cm 41	G
+491	Codonopsis ovata	pale blue/purple veined 30-40cm 154	G
+492	Colchicum cupanii	rose-lilac 6-10cm 72	G
+493	"Colchicum luteum ""Vahsh'"	yellow-orange 10-30cm 35	G
+494	Colchicum sp mixed (autumn-blooming)	lilac/pink/white 15-30cm 169	G
+495	Collomia grandiflora	apricot 40cm 126	G
+496	Colutea arborescens	yellow to 3m 159	G
+497	Commelina coelestis	bright blue 30-60cm 175	G
+498	Conoclinium coelestinum	blue-violet to 1m 147	G
+499	Convolvulus boissieri	white-pink 2-10cm 112	G
+500	Convolvulus compactus	white-rose flr/silver hirsute lvs to 8cm 100	G
+501	Coreopsis lanceolata	yellow 10-60cm 180	G
+502	Coreopsis tripteris	yellow 90-200cm 79	G
+503	Cornus kousa	creamy white flr/pink-red frt 7.5-9m 125	G
+504	Corydalis erdelii	pale pink-reddish purple 5-12cm 35	G
+505	Corydalis nobilis	cream-yellow/dark tip 30-50cm 142 158	G
+506	Corydalis oppositifolia	white-pink turns maroon 5-12cm 35	G
+507	Corydalis solida (moist packed)	mix 10-25cm 169	G
+508	Corylopsis gotoana	yellow to 5m 178	G
+509	Coryphantha sulcata	yellow/red 4-12cm 168	G
+510	"Coryphantha sulcata (ex Wise Co, Texas)"	yellow/red 15cm 28	G
+511	Cosmos bipinnatus 'Lemonade'	pale yellow 30-75cm 121	G
+512	Cosmos sulphureus 'Tango'	orange to 120cm 121	G
+513	Cotoneaster permutatus (hort)	deep red 1.5m 135	G
+514	Cotula sp (ex South Africa)	 156	G
+515	Cotyledon orbiculata (hardy zone 6)	orange-red flr/grey-silver lvs 10-90cm 156	G
+516	Crambe cordifolia	white to 2.5m 129	G
+517	Crambe maritima	white flr/blue-green lvs to 75cm 183	G
+518	Cremanthodium arnicoides	yellow 10-45cm 19 44 159	G
+519	Cremanthodium arnicoides x delavayi	yellow 45cm 40	G
+520	Cremanthodium decaisnei	yellow 6-25cm 19	G
+521	Crinodendron patagua	white to 10m 128	G
+522	Crocus caspius	white/lilac 10cm 72	G
+523	Crocus fleischeri 'Gulek Pass'	white/deep yellow throat 5-9cm 35	G
+524	Crocus goulimyi ssp leucanthus	white-very pale lilac 10cm 73	G
+525	Crocus hadriaticus	white/yellow throat 10cm 35	G
+526	Crocus hadriaticus 'Celia'	very pale lilac/violet-purple throat 10cm 35	G
+527	Crocus hadriaticus 'Purple Heart'	white/deep purple throat 10cm 35	G
+528	Crocus kotschyanus	lilac 10cm 64	G
+529	Crocus 'Negro Boy'	dark purple 15cm 41	G
+530	Crocus oreocreticus	lilac/silver 12-15cm 35	G
+531	Crocus pulchellus 'Zephyr'	greyish lilac 10cm 35	G
+532	Crocus speciosus 'Artabir'	pale violet-blue/purple veins 12cm 35	G
+533	Crocus sublimis	pale lilac-blue 7-10cm 63	G
+534	Crocus tommasinianus	pale lilac-deep purple to 10cm 122	G
+535	Cryptotaenia japonica f atropurpurea	light pink-purple flr/purple lvs 30-60cm 175	G
+536	Cunila origanoides	purple-lavender 20-40cm 156	G
+537	Cyclamen cilicium (good leaf pattern)	 25	G
+538	Cyclamen coum	mix 10cm 74	G
+539	Cyclamen graecum	pink 6-16cm >	G
+540	Cyclamen graecum 'Windmill'	 73	G
+541	Cyclamen hederifolium	mix 8-20cm 25 41 159	G
+542	Cyclamen hederifolium	white 8-20cm 41 83	G
+543	Cyclamen hederifolium 'Artemis'	white flr/double grey shield lvs 8-20cm 72	G
+544	Cyclamen hederifolium 'Extreme'	 83	G
+545	Cyclamen hederifolium 'Silver Arrow'	pink 15cm 165	G
+546	Cyclamen hederifolium Silver Leaf Group	mix 8-20cm 37	G
+547	Cyclamen mirabile	pale-deep pink 5-13cm 41	G
+548	Cyclamen persicum (ex CSE)	 72	G
+549	Cyclamen persicum (ex wild form)	pink 10cm 74	G
+550	Cyclamen purpurascens	rose-pink/purple 4-18cm 68 72	G
+551	Cyclamen repandum ssp peloponnesiacum	pink 10-20cm 63	G
+552	Cyclamen repandum ssp rhodense	white/pale pink to 10cm 161	G
+553	Cypella herbertii	golden yellow 30-50cm 170	G
+554	Cypripedium kentuckiense	ivory-pale yellow/dark red-brown mottled sepal 35-97cm 168	G
+555	Cyrilla racemiflora	white-cream to 10m 135	G
+556	Cyrtanthus epiphyticus	reddish-orange 25-40cm 114	G
+557	Dactylicapnos (Dicentra) macrocapnos	yellow 2-8m 64 3	G
+558	Dactylicapnos (Dicentra) scandens	yellow 2-5m 175	G
+559	Dactylorhiza purpurella	violet-purple to 45cm 82	G
+560	Dalea candida	white 30-60cm 156	G
+561	Dalea foliosa	purple 20-80cm 138	G
+562	Dalea purpurea	rose-purple 20-90cm 112	G
+563	Danae racemosa (moist packed)	greenish flr/red frt to 120cm 166	G
+564	Daphne alpina	white 40-60cm 77 142	G
+565	Daphne cneorum	pink 15-20cm 118	G
+566	Daphne domini	pale pink flr/orange frt 20-30cm 77 160	G
+567	Daphne genkwa (Chinese form)	lilac/lavender 30-100cm 185	G
+568	Daphne kurdica	white 30-60cm 97 162	G
+569	Daphne laureola	yellow-green 60cm 58 122	G
+570	Daphne laureola ssp philippi	yellow-green 30-60cm 142	G
+571	Daphne mezereum	pink-light purple 50-150cm 11	G
+572	Daphne mezereum	white flr/yellow frt to 150cm 77 122 175	G
+573	Daphne mezereum (compact form)	white flr 185	G
+574	"Daphne oleoides (ex  Mt Vermion, Greece)"	white 30-60cm 77	G
+575	Daphne pontica	yellow-green 50-100cm 142	G
+576	Darmera peltata	white-pink 30-150cm 128	G
+577	Dasylirion wheeleri	straw-tan flr/blue-grey lvs 1.5-5m 170	G
+578	Daubenya aurea	mixed to 5cm 34	G
+579	Daucus carota 'Dara' (PI)	deep red fades to pink-white to 90cm 33 102	G
+580	Daucus carota 'Purple Kisses' (PI)	maroon 80-100cm 151	G
+581	Daucus carota 'Rosea' (PI)	rose-pink 40-100cm 172	G
+582	Degenia velebitica	yellow flr/silver-grey lvs 5-10cm >	G
+583	Delosperma congestum	yellow 5-10cm 184	G
+584	Delphinium beesianum	blue/blue-purple 8-28cm 120	G
+585	Delphinium elatum	blue 40-200cm 15	G
+586	Delphinium elatum	purple 40-200cm 15	G
+587	Delphinium exaltatum	pale lavender/purple 70-200cm 56 90 146	G
+588	Delphinium exaltatum (moist packed)	pale lavender/purple 70-200cm 138	G
+589	Delphinium grandiflorum 'Blauer Zwerg'	deep blue 30-40cm 9	G
+590	Delphinium grandiflorum 'Blue Butterfly'	deep blue 40cm 33	G
+591	Delphinium likiangense	blue 10-50cm 154	G
+592	Delphinium pylzowii	blue-purple/bluish-grey 20-55cm 156	G
+593	Delphinium requienii	blue-grey to 120cm 121	G
+594	Delphinium sp (ex Iran - summer dormant)	pale pink 30cm 57	G
+595	Delphinium speciosum	dark blue 10-60cm 57	G
+596	Delphinium tatsienense	purple-blue 30-80cm 15	G
+597	Deutzia hybrida (x) 'Magicien'	pink/white edge flr 120-180cm 39	G
+598	Dianthus alpinus	red 5-10cm 63	G
+599	Dianthus alpinus	rich pink 5-10cm 144	G
+600	Dianthus arenarius (cf)	 156	G
+601	Dianthus barbatus	dark maroon 30-60cm 15	G
+602	Dianthus barbatus	maroon 30-60cm 15	G
+603	Dianthus barbatus	mix 30-60cm 77	G
+604	Dianthus barbatus	pink 30-60cm 15	G
+605	Dianthus barbatus	red 30-60cm 15	G
+606	Dianthus barbatus	white 30-60cm 15	G
+607	Dianthus brevicaulis	dark purple-pink 5-10cm 77	G
+608	Dianthus callizonus	pink-carmine 5-10cm 77 144	G
+609	Dianthus carthusianorum	pink-purple to 60cm 5 56 147	G
+610	Dianthus chinensis	lavender blue 30-50cm 144	G
+611	Dianthus chinensis 'Siberian Blue'	lavender-blue/reddish-violet to 30cm 9 147 160	G
+612	Dianthus crinitus	white/pinkish to 40cm 32	G
+613	Dianthus deltoides	bright pink 15-25cm 57	G
+614	Dianthus deltoides 'Arctic Fire'	white/red-pink eye 15-20cm 159	G
+615	Dianthus deltoides 'Vampir'	deep red 15cm 162	G
+616	Dianthus ferrugineus	dark ruby red to 50cm 105	G
+617	Dianthus giganteus	pink-purple to 1m 144 153 156	G
+618	Dianthus gratianopolitanus	deep rose-pink flr/blue-green lvs 6-25cm 67	G
+619	Dianthus haematocalyx ssp pindicola	pinkish-purple 1-6cm 34	G
+620	Dianthus integer ssp minutiflorus	white 5-20cm 105	G
+621	Dianthus knappii	soft yellow to 40cm 156	G
+622	Dianthus microlepis	pink-purple flr/silver-grey lvs to 10cm 32	G
+623	Dianthus myrtinervius	deep-bright pink 5-15cm 109	G
+624	Dianthus myrtinervius ssp caespitosus	deep pink 2-7cm 100	G
+625	Dianthus nitidus	deep pink 7-15cm 79 156	G
+626	Dianthus pavonius	pink-purple 2-25cm >	G
+627	Dianthus 'Peppermint Star'	pink/red center 20cm 147	G
+628	Dianthus petraeus	white 10-15cm 41	G
+629	Dianthus pinifolius	bright pink 25cm 144	G
+630	Dianthus plumarius	mix 30-40cm 147	G
+631	Dianthus plumarius	pink/maroon eye 15-30cm 147	G
+632	Dianthus 'Rainbow Loveliness'	pastel mix 30-45cm 155	G
+633	Dianthus subacaulis 'Tight Blue'	pink flr/blue lvs 5-10cm 32	G
+634	Dianthus superbus	pink 25-45cm 64	G
+635	Dianthus superbus	pure white 25-45cm 113	G
+636	Dianthus superbus ssp alpestris	pink-lavender flr/grey lvs 25-45cm 185	G
+637	Dianthus superbus ssp alpestris	white/red 20-25cm 69	G
+638	Dianthus superbus ssp superbus	pink to 60cm 38	G
+639	Dianthus sylvestris	pink to 10cm 100	G
+640	Dicentra cucullaria (moist packed)	white/yellow 8-30cm 169	G
+641	Dicentra eximia	rose-pink 30-45cm 113	G
+642	Dicranostigma lactucoides	yellow flr/blue-grey lvs 15-60cm 57	G
+643	Dictamnus albus	white 60-90cm 122	G
+644	Dierama igneum	pink-deep mauve to 90cm 128	G
+645	Dierama pulcherrimum	rosy-purple 90-150cm 11	G
+646	Dierama reynoldsii	deep magenta-purple flr/silver bract 1-2m 64	G
+647	Dierama reynoldsii x floriferum	 177	G
+648	Dierama sp mixed	pink to 90cm 41	G
+649	Dierama trichorhizum	mauve-pink to 60cm 45	G
+650	Diervilla sessilifolia	yellow 90-150cm 125	G
+651	Digitalis ciliata	pale yellow 30-60cm 57	G
+652	Digitalis ferruginea	pale yellow-golden brown/rusty 90-150cm >	G
+653	Digitalis grandiflora	pale yellow 70-120cm >	G
+654	Digitalis hybrid	mixed 150cm 15	G
+655	Digitalis lamarckii	cream-white/purplish-brown veins 25-80cm 65	G
+656	Digitalis lanata	cream/purple-brown 30-60cm >	G
+657	Digitalis lanata 'Cafe Creme'	creamy-white/purple-brown veins 30-60cm 175	G
+658	Digitalis lutea	pale yellow 60-90cm >	G
+659	Digitalis mertonensis (x)	copper-pink/rose 90-120cm 158	G
+660	Digitalis minor 'Majorca'	pink 20-30cm 170	G
+661	Digitalis obscura	rusty dark orange/green-yellow 30-60cm 99	G
+662	Digitalis parviflora	reddish brown 30-60cm 175	G
+663	Digitalis parviflora 'Milk Chocolate'	reddish-brown 60-90cm 41	G
+664	Digitalis purpurea	purple-pink 1-2m 65	G
+665	Digitalis purpurea	white 1-2m 13 125	G
+666	Digitalis thapsi	pink flr/woolly lvs 30-60cm 156	G
+667	Digitalis trojana	whitish/reddish-brown veins 30-80cm 175	G
+668	Digitalis viridiflora	yellow-green 60-90cm 90	G
+669	Dimorphotheca pluvialis	whitish/bluish-purplish reverse 5-20cm 64	G
+670	Dionysia involucrata	violet-purple 1-5cm 77	G
+671	Dipcadi serotinum	brown-pink/green-yellow 20-40cm 63	G
+672	Diphylleia cymosa	white flr/blue frt to 120cm 128	G
+673	Diplarrena moraea	white 50-100cm 175	G
+674	Disporum uniflorum (moist packed)	yellow 20-80cm 183	G
+675	Dodecatheon alpinum	pink 10-35cm 154	G
+676	Dodecatheon clevelandii	magenta/white 10-40cm 29	G
+677	Dodecatheon conjugens	magenta/white 5-30cm 69	G
+678	Dodecatheon dentatum	white 15-40cm 45 64	G
+679	Dodecatheon meadia	pink 10-50cm 64 109	G
+680	Dodecatheon meadia	white 10-50cm >	G
+681	Dodecatheon pulchellum	magenta-lavender 10-45cm >	G
+682	Douglasia laevigata (Central Oregon form)	 77	G
+683	Douglasia laevigata v ciliolata	deep pink-rose 2-7cm 77	G
+684	Douglasia montana	rose pink 2-5cm 77	G
+685	Draba aizoides	yellow 5 -10cm 131	G
+686	Draba arabisans	white 7-30cm 54	G
+687	Draba bruniifolia (dwarf form)	yellow 156	G
+688	Draba bryoides	yellow 3-5cm 57 131	G
+689	Draba compacta (cf)	white 1-5cm 115	G
+690	Draba cusickii	yellow 3-12cm 41	G
+691	Draba densifolia	pale yellow 2-10cm 77	G
+692	Draba hispanica	yellow 2-10cm >	G
+693	Draba incerta	yellow flr/hairy lvs 4-14cm 46 169	G
+694	Draba kitadakensis	white flr/grey-green lvs 10-15cm 40	G
+695	Draba korabensis (hort)	yellow 5-10cm 115	G
+696	Draba mollissima	yellow 1-5cm 131	G
+697	Draba novolympica	bright yellow to 4cm 169	G
+698	Draba oligosperma	yellow/cream white 2-10cm 112	G
+699	Draba paysonii	pale yellow 3cm 46	G
+700	Draba polytricha	bright yellow 1-5cm >	G
+701	Draba sphaeroides	yellow 3-8cm 57	G
+702	Dracocephalum argunense	blue-purple 35-57cm 6 149	G
+703	Dracocephalum argunense 'Fuji Blue'	blue to 30cm 164	G
+704	Dracocephalum forrestii	blue-purple 13-28cm 142	G
+705	Dracocephalum renati	creamy white 20-25cm 156	G
+706	Dracocephalum ruyschiana	blue-purple 15-25cm 95 124	G
+707	Drimia haworthioides	green/white-purple 20-40cm 111	G
+708	Drosera linearis	white 2-15cm 82	G
+709	Dryas drummondii	yellow 2-23cm 118	G
+710	Dryas 'Flava' (octopetala x drummondii)	pale yellow 34	G
+711	Dryas octopetala	white/cream 3-12cm 60 107 156	G
+712	Drymocallis (Potentilla) arguta	creamy white-yellowish 30-100cm 93	G
+713	Drymocallis (Potentilla) rupestris	white 18-45cm 93 122	G
+714	Drymocallis (Potentilla) rupestris 'Nana'	white 7-12cm 35 163	G
+715	Dudleya cymosa	yellow/red 5-30cm 134	G
+716	Dudleya pulverulenta	red 30-100cm 162	G
+717	Dyckia 'Silver Superstar'	orange flr/pale pink-silver lvs 15-20cm 162	G
+718	Dysphania botrys	green 14-65cm 163	G
+719	Eccremocarpus scaber	red-orange to 5m 128	G
+720	Echeandia texensis 'Loma del Potrero Cerdado'	yellow 90-150cm 170	G
+721	Echinacea purpurea	pink-purple 50-120cm 155	G
+722	Echinacea purpurea hybrid	magenta 108	G
+723	Echinacea purpurea 'Rainbow Marcella' (Butterfly Series)	raspberry pink-orange 40-45cm 95	G
+724	Echinocactus parryi	yellow 20-30cm 171	G
+725	Echinocactus texensis 'Kempo Form'	red 10cm 171	G
+726	Echinocactus texensis 'Mexico Ayanami Form'	red 10cm 171	G
+727	Echinocereus coccineus	pale yellow 20cm 78	G
+728	Echinocereus engelmannii VZD881	red-magenta 25cm 171	G
+729	Echinocereus hardy mix (coccineus/triglochidiatus/fendleri/reichenbachii/hybrids) 	red/purple/orange 10-30cm 86	G
+730	Echinocereus reichenbachii (giant form)	 156	G
+731	Echinops chantavicus (ex Kazakhstan)	light blue 60-120cm 152	G
+732	Echinops ritro	steel blue 90-120cm 47	G
+733	Echinops tjanschanicus	light blue 1.5m 152	G
+734	Echium amoenum	russet-red 15-40cm 35 46	G
+735	Echium vulgare	blue-purple 30-90cm 156	G
+736	Echium wildpretii 'Red Rocket'	reddish flr/silvery lvs to 2m 33	G
+737	Edraianthus glisicii	violet-blue 6-20cm 63	G
+738	Edraianthus graminifolius	blue-violet 5-10cm 32 79	G
+739	Edraianthus graminifolius 'Albus'	white to 15cm 15	G
+740	Edraianthus horvatii	blue-violet to 10cm 120	G
+741	Edraianthus niveus	white 5-10cm 119	G
+742	Edraianthus pumilio	violet-blue flr/silver lvs 1-3cm 34 41 63	G
+743	Edraianthus serbicus	violet 10-15cm 32	G
+744	Edraianthus serpyllifolius	deep violet 2-5cm 63	G
+745	Edraianthus tenuifolius	blue-violet 5-20cm 15	G
+746	Elsholtzia stauntonii	rose-purple 70-170cm 155	G
+747	Elsholtzia stauntonii	white 70-170cm 183	G
+748	Enemion biternatum (moist-packed)	white 10-40cm 169	G
+749	Enemion hallii	white 35-85cm 134	G
+750	Enkianthus campanulatus	cream/rose veins 1.8-3m 64	G
+751	Ennealophus euryandrus	blue-lavender 25-45cm 81	G
+752	Ephedra monosperma	red cones to 15cm 93 130 172	G
+753	Epipactis gigantea	green/purple/brown/pink/white 20cm 78	G
+754	Epipactis gigantea	greenish-rose/red-brown 30-100cm 64	G
+755	Eranthis hyemalis	yellow to 15cm 72 73	G
+756	Eranthis hyemalis (moist packed)	yellow 5-15cm 12 169	G
+757	Eranthis pinnatifida (moist-packed)	white petal/blue-purple anther 5-15cm 169	G
+758	Eremogone (Arenaria) kingii	white/rarely pink 3-20cm 164	G
+759	Eremogone (Arenaria) lychnidea	white 10-20cm 57	G
+760	"Eremurus cristatus (ex Tian Shan, Kyrgyzstan)"	 83	G
+761	Eremurus robustus	pale pink-white 2.5-3m 114	G
+762	"Eremurus tianschanicus (ex Tian Shan, Kyrgyzstan)"	 83	G
+763	Erigeron arenarioides	blue 6-25cm 112	G
+764	Erigeron aureus	yellow flr/woolly grey lvs 1-15cm 140 144	G
+765	Erigeron borealis	purple 15-25cm 54	G
+766	Erigeron compositus	bluish 5-15cm 140	G
+767	Erigeron compositus	pink 5-15cm 52 82	G
+768	Erigeron compositus	violet 5-15cm 77	G
+769	Erigeron compositus 'The Giant'	white 25cm 134	G
+770	Erigeron elegantulus	mix 3-15cm 112	G
+771	Erigeron glaucus 'Olga'	lavender to 30cm 156	G
+772	Erigeron grandiflorus	purplish 2-25cm 154	G
+773	Erigeron leiomerus	pale purple 4-12cm 130	G
+774	Erigeron linearis	bright yellow-cream flr/greenish-white lvs 5-15cm 118 119	G
+775	Erigeron nivalis	white-pinkish 5-25cm 119	G
+776	Erigeron pinnatisectus	light blue-purplish 4-11cm 30 85 124	G
+777	Erigeron pumilus (cf)	 156	G
+778	Erigeron 'Rosa Juwel'	rose pink 60cm 180	G
+779	Erigeron scopulinus	white 0.5-3.5cm 52	G
+780	Erigeron tener	blue-purple flr/grey-green lvs 2-15cm 100	G
+781	Erigeron ursinus	pink-bluish purple 5-25cm 52 156	G
+782	Erinus alpinus	mix 10-15cm 112 139	G
+783	Erinus alpinus	rose-pink 10-15cm 30 131	G
+784	Eriogonum allenii	yellow 30-50cm 156	G
+785	Eriogonum heermannii v sulcatum	yellowish white 5-80cm 100	G
+786	Eriogonum jamesii v jamesii	white-cream flr/white-grey woolly lvs 5-25cm 156	G
+787	Eriogonum ovalifolium v nivale	cream 1-13cm 134	G
+788	Eriogonum sphaerocephalum	pale-bright yellow 5-40cm 156	G
+789	Eriogonum umbellatum 'Shasta Sulfur'	lemon yellow to 30cm 156	G
+790	Eriogonum umbellatum v aureum 'Kannah Creek'	yellow turns orange/purple-red winter lvs 30-40cm 156	G
+791	Eriogonum wrightii v wrightii	white-pink/rose flr/woolly lvs 15-50cm 156	G
+792	Eriophyllum lanatum	yellow flr/woolly grey lvs 30-60cm 112 129 150	G
+793	Eritrichium canum	blue 15-40cm 2	G
+794	Eritrichium nanum	blue 1-10cm 15	G
+795	Erodium manescavi	magenta-pink 20-45cm 9	G
+796	Erodium trifolium	white/purple veins 35cm 168	G
+797	Eryngium agavifolium	green/white 1m 129 181	G
+798	Eryngium alpinum	blue 30-70cm 40 44	G
+799	Eryngium amethystinum	light blue-purple 30-50cm 38	G
+800	Eryngium aquaticum	white-purplish tinge to 120cm 138	G
+801	Eryngium bourgatii	silver-blue 15-45cm 156	G
+802	Eryngium giganteum	bluish-silver to 120cm 58 156 181	G
+803	Eryngium pandanifolium	pale green-pinkish purple flr/grey-green lvs 90-180cm 38	G
+804	Eryngium serra	green-white 90-180cm 38	G
+805	Eryngium yuccifolium	greenish-white to 1.5m 47	G
+806	Eryngium yuccifolium 'Kershaw Blue'	tan flr/powder-blue lvs 60-150cm 170	G
+807	Erysimum alpinum (hort)	yellow 25cm 77	G
+808	Erysimum arenicola	yellow 4-30cm 134	G
+809	Erysimum arenicola x capitatum v purshii	flesh pink 20cm 77	G
+810	Erysimum cheiri (x)	yellow/red/orange 15-60cm 92	G
+811	Erysimum helveticum	yellow 15-30cm 15	G
+812	Erysimum kotschyanum	yellow flr/grey lvs 5-10cm 144	G
+813	Erysimum marshallii (x)	orange to 50cm 15 102	G
+814	Erysimum pulchellum	golden yellow 5-15cm 77	G
+815	Erythronium oregonum	cream/yellow base/mottled lvs 15-40cm 77	G
+816	Erythronium revolutum	violet-pink 15-40cm 41 77	G
+817	"Erythronium revolutum (ex Saddle Mtn, OR coast range)"	pink 85	G
+818	"Escobaria missouriensis (ex Hays Co, Texas)"	yellow 10cm 28	G
+819	"Escobaria missouriensis (ex House Rock Valley, Arizona)"	yellow 5cm 28	G
+820	Eucomis autumnalis	greenish-white to 60cm 81	G
+821	Euonymus europaeus	yellowish-green flr/red-pink frt 3-6m 98	G
+822	Euonymus sachalinensis	bright red frt 2-3m 159	G
+823	Eupatorium hyssopifolium	white 50-100cm 5	G
+824	Euphorbia mellifera	yellow-green to 3m 175	G
+825	Ferocactus fordii	purple-pale pink to 40cm 171	G
+826	Ferula sp (ex Kazakhstan)	 156	G
+827	Fessia (Scilla) greilhuberi	blue-lilac to 25cm 68	G
+828	Fibigia clypeata	yellow flr/grey woolly lvs 15-75cm 90 102 129	G
+829	Fibigia eriocarpa	yellow flr/grey-green lvs 30-45cm 74	G
+830	Foeniculum vulgare 'Purpureum'	yellow flr/bronze lvs 90-180cm 117	G
+831	"Fosterella sp (ex Monteagudo, Bolivia)"	 177	G
+832	Frailea buenekeri ssp densispina (ex AH 0054)	yellow 2cm 28	G
+833	Frailea castanea (ex LB 640)	yellow 1cm 28	G
+834	Frailea phaeodisca (ex PR 533)	yellow 1cm 28	G
+835	Francoa appendiculata	pale pink/rose markings 60-90cm 175	G
+836	Francoa sonchifolia	pink to 60cm 37 150	G
+837	Franklinia alatamaha	creamy white 5-7m 62	G
+838	Freesia alba	white/purple-yellow flush 12-40cm 10	G
+839	Freesia grandiflora	red to 60cm 10 20	G
+840	Freesia laxa	pink-cerise 20-35cm 6	G
+841	Freesia laxa	red 20-35cm 11 114	G
+842	Freesia laxa	white/red eye 20-35cm 175	G
+843	Freesia laxa 'Joan Evans'	white/red eye to 30cm 11	G
+844	Freesia leichtlinii	cream 8-20cm 10	G
+845	Fritillaria acmopetala	yellowish green-purplish brown 30-70cm 12 41	G
+846	Fritillaria crassifolia	green-yellow/brown 3-10cm 83	G
+847	Fritillaria eduardii	orange-red to 1m 97	G
+848	Fritillaria imperialis	orange 40-100cm 114 160	G
+849	Fritillaria imperialis 'Chopin' (Rascal Series)	reddish orange 60-70cm 179	G
+850	Fritillaria kurdica	yellowish-green/brown-purple 3-10cm 18	G
+851	Fritillaria meleagris	mix 15-40cm 19 82	G
+852	Fritillaria meleagris	purple checkered 15-40cm 64 65	G
+853	Fritillaria meleagris	white 15-40cm 30 169	G
+854	Fritillaria meleagris (v unicolor alba)	pure white to 30cm 72	G
+855	Fritillaria michailovskyi	brownish-purple/yellow 6-25cm 83	G
+856	Fritillaria orientalis	reddish-brown checkered 15-40cm 3	G
+857	Fritillaria pallidiflora	pale yellow 15-45cm >	G
+858	Fritillaria persica	plum purple-grey green 30-90cm 169	G
+859	Fritillaria pontica	pale green/maroon tinged 15-45cm >	G
+860	Fritillaria pyrenaica	brownish-purple/yellow-greenish 15-40cm 73	G
+861	Fritillaria raddeana	pale yellow 50-80cm 18 25	G
+862	Fritillaria rhodocanakis	purplish-brown/yellow 10-15cm 18	G
+863	"Fritillaria sewerzowii (ex Tian Shan, Kyrgyzstan)"	 83	G
+864	Fritillaria thunbergii	pale yellow/slightly tessellated 15-80cm 3 25 114	G
+865	Fritillaria whittallii	green-brown 10-35cm 41	G
+866	Fumana thymifolia	yellow 20-30cm 112	G
+867	Gaillardia grandiflora (x) 'Arizona Red Shades'	crimson red 30cm 8	G
+868	Galanthus 'Spindlestone Surprise'	white/yellow tip & ovary to 30cm 41	G
+869	Galatella (Aster) sedifolia	lavender-blue/pinkish-lilac 60-90cm 156	G
+870	Galax urceolata	white 20-40cm 5	G
+871	Galvezia juncea	bright red-scarlet to 1m 126	G
+872	Gaultheria pyroloides	cream-light pink flr/white frt 10-30cm 64	G
+873	Gaura biennis	white-rose 120-180cm 93	G
+874	Gazania linearis	yellow/orange to 30cm 151	G
+875	Gelasine elongata	bright blue-violet flr/grey-green lvs to 60cm 170	G
+876	Gentiana acaulis	blue 2-8cm 107 154	G
+877	Gentiana acaulis 'Undulatifolia'	blue flr/wavy-edged lvs 2-8cm 54 89	G
+878	Gentiana andrewsii	dark blue 30-60cm 75	G
+879	Gentiana andrewsii	white 30-60cm 146	G
+880	Gentiana angustifolia	deep sky blue to 10cm 154	G
+881	Gentiana angustifolia (Leach BG hybrid)	deep blue 7.5cm 54	G
+882	Gentiana asclepiadea	dark blue-purple 50cm 175	G
+883	Gentiana asclepiadea	deep blue 60-90cm 5 123	G
+884	Gentiana asclepiadea	white 60-90cm 37 175	G
+885	Gentiana asclepiadea (tall form)	blue purple 100cm 175	G
+886	Gentiana asclepiadea 'Knightshayes'	deep blue 30-60cm 37 142	G
+887	Gentiana asclepiadea 'Rosea'	pink-rose 30-60cm 142 175	G
+888	Gentiana autumnalis	deep blue 30-60cm 137	G
+889	Gentiana cachemirica	blue 10-25cm 147	G
+890	Gentiana clausa	blue-purple 30-60cm 113	G
+891	Gentiana clusii	blue 5-10cm 154	G
+892	Gentiana clusii 'Alboviolacea'	pale pink/dark pink spotted throat & reverse 5cm 118	G
+893	Gentiana cruciata	violet-blue 20-40cm 5 52 161	G
+894	Gentiana cruciata 'Blue Cross'	dark blue to 30cm 147 175	G
+895	Gentiana dahurica	dark blue-purple 10-25cm 32 107	G
+896	Gentiana decumbens (cf)	 57	G
+897	Gentiana depressa	pale purple-blue 3-6cm 116 147	G
+898	Gentiana gelida	pale yellow-cream to 40cm 119	G
+899	Gentiana linearis	blue-purple 25-70cm 137	G
+900	Gentiana lutea	yellow 1-2m 19 37	G
+901	Gentiana nubigena	white 3-10cm 86	G
+902	Gentiana paradoxa	blue 15-25cm 85 156	G
+903	Gentiana paradoxa x septemfida	blue 10-20cm 156	G
+904	Gentiana saponaria 'Shoal Creek'	 170	G
+905	Gentiana septemfida	deep blue 15-30cm 156 158	G
+906	Gentiana septemfida	white 15-30cm 156	G
+907	Gentiana septemfida v lagodechiana	blue to 10cm 64	G
+908	Gentiana siphonantha	dark blue-purple 10-25cm 119	G
+909	Gentiana sp (ex Kazakhstan)	 156	G
+910	Gentiana uchiyamae	blue-purple 30-70cm 45	G
+911	Gentiana verna	deep blue 5-8cm 44 45 58	G
+912	Gentiana verna	white 5-8cm 58	G
+913	Gentiana villosa	greenish white/purple-green veins 30-60cm 170	G
+914	Gentianopsis crinita	blue 30-60cm 137	G
+915	Geranium brevicaule 'Nigricans'	white flr/dark brown lvs 2.5-15cm 30	G
+916	Geranium cinereum	pink flr/grey-green lvs to 15cm 61	G
+917	Geranium maculatum 'Espresso'	lavender flr/brown lvs 45-60cm 6 136	G
+918	Geranium magniflorum	purple 15-25cm 156	G
+919	Geranium renardii	white-lavender veins to 30cm 100	G
+920	Geranium sanguineum	pink mix 20-40cm 158	G
+921	Geranium sanguineum 'Striatum'	pale pink/dark pink veins 10-20cm 67	G
+922	Geranium subacutum	white 5-50cm 61	G
+923	Geum montanum	bright yellow 10-35cm 110	G
+924	Geum radiatum	yellow 10-45cm 137	G
+925	Geum reptans	yellow 5-20cm 110	G
+926	Geum rivale	pink 25-70cm 90	G
+927	Geum triflorum	cream/pink-purple 10-45cm 6	G
+928	Gillenia trifoliata	white/pale rose 40-100cm 5 94	G
+929	Gladiolus 'Atom'	red/white edge 30-90cm 175 177	G
+930	Gladiolus carneus	white/pink 25-60cm 99	G
+931	Gladiolus communis	reddish purple 50-100cm 64 154	G
+932	Gladiolus dalenii 'Carolina Primrose'	pale yellow 45-90cm 175	G
+933	Gladiolus flanaganii	bright red/paler red to 30cm >	G
+934	Gladiolus imbricatus	reddish-violet purple 40-60cm 154 184	G
+935	Gladiolus italicus	pink-light purple 50-100cm 3 74	G
+936	Gladiolus priorii	red 30-40cm 29	G
+937	Gladiolus tristis	cream/brown shading 40-100cm 111 121	G
+938	Glaucidium palmatum	(many stems w/2 flrs rather than 1) purple 45-60cm 88	G
+939	Glaucidium palmatum	mix 45-60cm 178	G
+940	Glaucidium palmatum	pink-pale purple 45-60cm >	G
+941	Glaucidium palmatum	white 45-60cm 37	G
+942	Glaucium grandiflorum	dark orange-red 30-50cm 29	G
+943	Glaucium grandiflorum x flavum hybrid	orange 60-90cm 177	G
+944	Glaucium hybrids (acutidentatum x corniculatum)	mix 156	G
+945	Gleditsia sinensis	yellowish white to 30m 173	G
+946	Globularia bisnagarica	blue 5-30cm 120	G
+947	Globularia cordifolia	pale lavender-blue 5-10cm >	G
+948	Globularia nudicaulis	blue 20-30cm 151	G
+949	Globularia spinosa	blue-purple 10-20cm 110	G
+950	Globularia stygia	blue 5-10cm 156	G
+951	Globularia trichosantha	violet-blue 15-20cm 32 139	G
+952	Gloriosa modesta	bright yellow/orange to 2m 64	G
+953	Gymnocalycium capillense	pink-white/red throat to 9cm 29	G
+954	Gypsophila aretioides 'Caucasica'	white/pink veins 3cm 77	G
+955	Gypsophila bungeana	white 10-35cm 3 154	G
+956	Gypsophila cerastioides	white/lilac 10-27cm 163	G
+957	Gypsophila libanotica	rose flr/grey lvs 15-25cm 77	G
+958	Gypsophila repens	white/pale lilac-purple to 20cm 77	G
+959	Habranthus brachyandrus	pink/dark base 30cm 107	G
+960	Habranthus gracilifolius	pink 10-25cm 10	G
+961	Habranthus robustus	pale pink 15-30cm 10 81	G
+962	Habranthus tubispathus	yellow-copper 10-20cm 29	G
+963	Hakonechloa macra 'Aureola'	yellow striped lvs 45cm 33	G
+964	Halesia carolina	white to 24m 55	G
+965	Halesia diptera Magniflora Group	white 7-11m 178	G
+966	Hamamelis intermedia (x)	yellow/orange/red to 4m 5	G
+967	Haplopappus glutinosus	yellow-orange 5-15cm 89 95	G
+968	Helenium autumnale	yellow 50-130cm 158	G
+969	Helianthemum nummularium	mix 20-30cm 156	G
+970	Helianthemum nummularium	pink/yellow mix 10cm 158	G
+971	Helianthemum nummularium ssp pyrenaicum	pink 20-30cm 77	G
+972	Helianthus maximiliani	yellow 50-300cm 93	G
+973	Helianthus microcephalus	yellow 20-200cm 93	G
+974	Helleborus foetidus	yellow-green 30-80cm 16	G
+975	Helleborus hybridus (x)	small dark spotted 67	G
+976	Helleborus hybridus (x) (moist packed)	dark forms to 45cm 175	G
+977	Helleborus hybridus (x) (moist packed)	dark slate-black to 45cm 169	G
+978	Helleborus hybridus (x) (moist packed)	double black to 45cm 169	G
+979	Helleborus hybridus (x) (moist packed)	mix pink/purple w/spots to 45cm 169	G
+980	Helleborus hybridus (x) (moist packed)	mixed to 45cm 175	G
+981	Helleborus hybridus (x) (moist packed)	mixed whites to 45cm 166	G
+982	Helleborus hybridus (x) (moist packed)	pure white to 45cm 169	G
+983	Helleborus hybridus (x) (moist packed)	white w/spots to 45cm 169	G
+984	Helleborus hybridus (x) Ashwood Garden Hybrid (moist packed)	blacks 25-30cm 166	G
+985	Helleborus hybridus (x) Ashwood Garden Hybrid (moist packed)	dark yellow 25-30cm 166	G
+986	Helleborus hybridus (x) Ashwood Garden Hybrid (moist packed)	frosted 25-30cm 166	G
+987	Helleborus hybridus (x) Ashwood Garden Hybrid (moist packed)	veined picotee 25-30cm 166	G
+988	Helleborus hybridus (x) 'Birkin's Double Pink' (moist packed)	double pink to 45cm 169	G
+989	Helleborus hybridus (x) 'Eco Black Lace' (moist packed)	dark veins to 45cm 169	G
+990	Helleborus hybridus (x) 'Eco Dragon's Blood' (moist packed)	pink/green w/dark spots to 45cm 169	G
+991	Helleborus hybridus (x) 'Mrs Betty Ranicar' (moist packed)	double white 45-60cm 169	G
+992	Helleborus hybridus (x) 'Neon' Ashwood Evolution Group (moist packed)	yellow-golden/deep red veins 25-30cm 166	G
+993	Helleborus hybridus (x) 'Sunshine Strain'	mix 30-45cm 27	G
+994	Helleborus hybridus (x) 'Sunshine Strain' (moist packed)	mix 30-45cm 169	G
+995	Helleborus multifidus (moist packed)	green to 50cm 166	G
+996	Helleborus multifidus ssp serbicus (moist packed)	dark purple/green to 40cm 166	G
+997	Helleborus niger (moist packed)	white 15-30cm 175	G
+998	Heloniopsis umbellata	white tinged pink 4-20cm 64	G
+999	Helwingia japonica	black frt 1-2m 55	G
+1000	Hemerocallis citrina v vespertina	clear yellow 1-1.4m 113	G
+1001	"Hemerocallis minor (ex Baikal, Russia)"	 83	G
+1002	Hemiboea subcapitata	white/purple spotted 10-40cm 3	G
+1003	Hepatica acutiloba	rose pink to 20cm 77	G
+1004	Hepatica maxima (moist packed)	white 30cm 3	G
+1005	Hepatica nobilis	red 10-15cm 77	G
+1006	Hepatica nobilis	white flr/mottled lvs 185	G
+1007	Hepatica nobilis 'Cremar'	rich pink flr/wavy marbled lvs 10-15cm 77	G
+1008	Hepatica nobilis 'Rosea'	rich pink 10-15cm 77	G
+1009	Hesperantha baurii	bright pink to 20cm >	G
+1010	Hesperantha huttonii	pink 20-45cm 64	G
+1011	Heterotheca jonesii	yellow 2-6cm 6 71	G
+1012	Heuchera abramsii	red-purple 5-15cm 164	G
+1013	Heuchera bracteata	greenish yellow 6-28cm 154	G
+1014	Heuchera hallii	white 10-30cm 156	G
+1015	Heuchera pulchella	pinkish white 7-15cm >	G
+1016	Heuchera sanguinea 'Leuchtkafer' ('Firefly')	bright red 30cm 9	G
+1017	Heuchera sp (ex Fred Case)	red/pink 20cm 32	G
+1018	Hibiscus hamabo	yellow-orange red/dark red center 1-5m 135	G
+1019	Hibiscus makinoi	pink 2-4.5m 135	G
+1020	Hibiscus moscheutos	pink/white w/maroon eye to 2.5m 172	G
+1021	Hieracium maculatum	yellow flr/mottled lvs 10-50cm 112	G
+1022	Hieracium tomentosum	yellow flr/white woolly lvs 10-40cm 100	G
+1023	Hieracium villosum	yellow flr/silver-grey woolly lvs 30-45cm >	G
+1024	Hippeastrum 'Charisma'	red/white 60cm 81	G
+1025	Hippeastrum hybrid 'HJB' (hardy zone 7)	red orange-red/cream-white splash on some 60cm 81	G
+1026	Holodiscus discolor	white/pink tinged 0.5-5m 156	G
+1027	Hosta 'Blue Mouse Ears'	lavender flr/blue-green lvs to 15cm 33	G
+1028	Hosta capitata	pale purple-violet 25-70cm 3	G
+1029	Hosta 'Sun Drop'	gold edged lvs to 20cm 33	G
+1030	Hosta venusta	purple violet 8-24cm 31	G
+1031	Hunnemannia fumariifolia	yellow flr/grey-green lvs to 60cm 76	G
+1032	Hyacinthella glabrescens	deep blue-violet 5-25cm 3	G
+1033	Hydrangea quercifolia	white to 8m 21	G
+1034	Hydrastis canadensis	white flr/red frt 15-50cm 113	G
+1035	Hydrastis canadensis (moist packed)	white flr/red frt 15-50cm 169	G
+1036	Hypericum androsaemum	yellow 30-70cm 120	G
+1037	Hypericum buckleyi	golden yellow 5-45cm 137	G
+1038	Hypericum hircinum	yellow to 2m 93	G
+1039	Hypericum olympicum (cf) (dwarf form)	 156	G
+1040	Hypericum przewalskii	yellow 30-55cm 93	G
+1041	Hypericum uniflorum	yellow 3-10cm 119	G
+1042	Hypochaeris uniflora	yellow 30-50cm 110	G
+1043	Hypoxis argentea	bright yellow flr/silky-haired lvs 30cm 170	G
+1044	Hyssopus officinalis	purplish-blue/pink/white 30-60cm 8	G
+1045	Iberis sempervirens	white 15-30cm 15 27	G
+1046	Iberis simplex	white flr/violet bud 5-10cm 4 57 156	G
+1047	Ikonnikovia kaufmanniana	purple 14-35cm 156	G
+1048	Ilex 'Nellie R. Stevens'	bright red frt 4.5-6m 33	G
+1049	Ilex verticillata 'Bailfire' ('Wildfire')	white flr/bright red frt to 2.5mm 33	G
+1050	Ilex verticillata 'Winter Red'	bright red frt 1.8-2.4m 155	G
+1051	Iliamna rivularis	rose-purplish/white 90-180cm 158	G
+1052	Illicium floridanum (moist packed)	red-maroon to 3m 62	G
+1053	Impatiens bicolor	pink/yellow 26-75cm 152 159	G
+1054	Incarvillea delavayi	rose-purple/pink 30-60cm 136	G
+1055	Incarvillea diffusa	pink/purple-red to 1.5m 126	G
+1056	Incarvillea forrestii	red/purple-red 15-30cm 58	G
+1057	Incarvillea olgae	pink-purple 100-150cm 150	G
+1058	Incarvillea sp	large pink flr 40cm 45	G
+1059	Incarvillea younghusbandii	rose-purple 10-20cm 114	G
+1060	Incarvillea zhongdianensis	deep pink-magenta 20-50cm 45	G
+1061	Inula acaulis v caulescens	yellow 6-20cm 119	G
+1062	Inula helenium	yellow 50-150cm 165	G
+1063	Inula magnifica	yellow to 1.8m 149 181	G
+1064	Inula verbascifolia	yellow flr/silver woolly lvs to 30cm 100	G
+1065	Iodanthus pinnatifidus	light purple-white 30-80cm 7	G
+1066	Ionactis (Aster) linariifolia	pink 6cm 96	G
+1067	Ipomoea lobata	red-orange-yellow to 5m 121	G
+1068	Ipomoea purpurea 'Dacapo Light Blue'	clear blue/dark purple star 2m 121	G
+1069	Ipomopsis aggregata	scarlet-red 30-150cm 60 129	G
+1070	Ipomopsis longiflora	white/pale lavender-blue 20-45cm 100	G
+1071	Ipomopsis rubra	scarlet red 60-180cm 138 156 160	G
+1072	Iris bloudowii	yellow 8-30cm 118	G
+1073	Iris Cal-Sib hybrid (Pacific Coast x Sibirica) (dwarf)	white 20-25cm 178	G
+1074	Iris cristata	blue/lilac-purple 4-8cm 5	G
+1075	Iris cristata	white 4-8cm 5	G
+1076	Iris delavayi	purple/white veined falls 1m 19	G
+1077	Iris dichotoma	purple 40-60cm 59	G
+1078	Iris domestica	orange-red-yellow/red spots 60-90cm 151	G
+1079	Iris domestica 'Hello Yellow'	yellow 25-60cm 10	G
+1080	Iris ensata	mix 25-100cm 69 178	G
+1081	Iris forrestii	yellow 11-50cm 37	G
+1082	Iris fulva (dwarf form)	rusty-red 40cm 102	G
+1083	Iris gracilipes	pale purple 15-30cm 102	G
+1084	Iris hookeri	deep-pale blue/blue-violet 5-60cm 69 89 136	G
+1085	Iris innominata	yellow 25cm 64	G
+1086	Iris japonica	pale bluish 25-60cm 115	G
+1087	Iris kerneriana	yellow to 30cm 63	G
+1088	Iris lactea	mixed 14-70cm 59	G
+1089	Iris lactea	pale violet/milky white-yellow 14-70cm 22 35	G
+1090	Iris latifolia	deep blue to 60cm 37	G
+1091	Iris latifolia	mixed blue/purple to 60cm 64	G
+1092	Iris lutescens	violet-purple to 30cm 57	G
+1093	Iris magnifica	pale lilac-white/yellow zone 30-60cm 35 63 83	G
+1094	Iris magnifica	white 30-60cm 74 35	G
+1095	Iris magnifica 'Aman-Kutan' x 'Agalik'	white/blue veins 50cm 59	G
+1096	Iris magnifica 'Virginity'	pure white 30-60cm 35	G
+1097	Iris missouriensis	blue-purple 25-60cm 156	G
+1098	Iris norrisii (x)	mix 60-90cm 102	G
+1099	Iris norrisii (x) 'Dazzler'	yellow/orange/pink/purple/red to 40cm 82	G
+1100	Iris Pacific Coast hybrid 'Blue Nebula'	red-purple/blue 35cm 68	G
+1101	Iris Pacific Coast hybrid 'Crandall's White'	white/yellow signal patch 40cm 175	G
+1102	Iris persica	brownish-greenish-greyish 10cm 35	G
+1103	Iris prismatica	pale violet/blue 30-80cm 59 102	G
+1104	Iris pseudacorus (PI)	yellow 70-150cm 37 98	G
+1105	Iris reticulata v bakeriana	blue-lilac 10cm 83	G
+1106	Iris sanguinea 'Nana Alba'	white 10-20cm 175	G
+1107	Iris setosa	deep violet-blue 15-90cm 31 128	G
+1108	Iris setosa	mix 15-90cm 178	G
+1109	Iris sibirica	violet/blue 50-120cm 156	G
+1110	Iris sibirica	white/bluish 60cm 140	G
+1111	Iris sibirica 'Pink Haze'	lavender-pink 60-90cm 175	G
+1112	Iris sintenisii	blue-violet 20-35cm 97	G
+1113	Iris sp	blue dwarf 155	G
+1114	Iris spuria ssp maritima	blue-violet/purple 20-70cm 85	G
+1115	Iris spuria ssp musulmanica	blue-violet/lavender-purple 40-100cm 63	G
+1116	Iris tectorum	bluish-violet 20-40cm 35	G
+1117	Iris tectorum	white 20-40cm 5 16 123	G
+1118	Iris typhifolia	dark violet 50-90cm 85	G
+1119	Iris variegata	yellow/brown veined falls 20-45cm 118	G
+1120	Iris versicolor	red-violet 60-75cm 175	G
+1121	Iris versicolor	violet-blue/greenish-yellow patch 20-60cm 42	G
+1122	Isodon umbrosus	blue-purple 50-100cm 3	G
+1123	Ixiolirion tataricum	light blue-dark violet 10-40cm 57 144 154	G
+1124	Jeffersonia diphylla	white 40cm 6 77	G
+1125	Jeffersonia diphylla (moist packed)	white 40cm 169 175	G
+1126	Junellia succulentifolia	bluish-white/violet 15-30cm 156	G
+1127	Kalimeris incisa	pale blue 30-45cm 5	G
+1128	Kalmia latifolia	pink-purple 2-8m 64	G
+1129	Kirengeshoma palmata	yellow 80-120cm 5	G
+1130	Kniphofia baurii	red-greenish yellow to 1m 99	G
+1131	Kniphofia hirsuta	orange red/yellow 30-60cm 156	G
+1132	Kniphofia ritualis	orange red-greenish yellow 40-90cm 156	G
+1133	Kniphofia uvaria	orange-greenish yellow 50-120cm 180	G
+1134	Koelreuteria bipinnata	yellow flr/pink frt 7-20m 173	G
+1135	Koelreuteria paniculata 'Rose Lantern'	yellow flr/rose-red fruit to 10m 178	G
+1136	Lachenalia quadricolor	red base/yellow/green/purple tip 15-28cm 113	G
+1137	Lallemantia canescens	dark violet blue-lavender 20-50cm 156	G
+1138	Larix kaempferi 'Diana'	contorted branches to 6m 91	G
+1139	Lathyrus odoratus	mix/fragrant 1-2m 177	G
+1140	Lathyrus sativus	blue 30-70cm 179	G
+1141	Lathyrus vernus	deep pink-purple 20-40cm 169	G
+1142	Lathyrus vernus 'Alboroseus'	pink/white 20-40cm 183	G
+1143	Lavandula angustifolia 'Hidcote'	deep blue purple to 50cm 42	G
+1144	Layia platyglossa	yellow/white 30-70cm 133	G
+1145	Leontopodium himalayanum	white 7-32cm 19	G
+1146	Leonurus cardiaca	pink-lilac 60-100cm 156	G
+1147	Leopoldia comosa	violet-blue/brownish-green 20-60cm 57 74 114	G
+1148	"Leopoldia comosa (ex Corbieres, France)"	tan/purple 30-40cm 64	G
+1149	Leopoldia weissii	brown-yellowish/violet-purplish 8-30cm 64	G
+1150	Lespedeza thunbergii	reddish purple 1-3m 108	G
+1151	Lespedeza violacea	purple 40-80cm 51	G
+1152	Leucanthemella serotina	white/greenish-yellow center to 180cm 90	G
+1153	Leucocoryne odorata	white 30-45cm 18	G
+1154	Levisticum officinale	yellow/greenish-yellow 1.8-2.5m 92	G
+1155	Lewisia columbiana v rupicola	pale pink-deep purple magenta/rose 10-30cm 134	G
+1156	Lewisia columbiana v wallowensis	white/pink veins 10-30cm 32 96	G
+1157	Lewisia cotyledon	mix 10-30cm 175	G
+1158	Lewisia cotyledon	orange/pink 10-30cm 85	G
+1159	Lewisia cotyledon	white 10-30cm 134	G
+1160	Lewisia cotyledon hybrid	orange 10-15cm 77	G
+1161	Lewisia cotyledon hybrid	pink 10-15cm 77	G
+1162	Lewisia longipetala hybrids	 77	G
+1163	Lewisia pygmaea	white 3-9cm 154	G
+1164	Lewisia rediviva	rose-pink 1-3cm 77	G
+1165	Liatris ligulistylis	lavender 120-150cm 117	G
+1166	Liatris ligulistylis	pinkish purple 20-100cm 5	G
+1167	Liatris microcephala	lavender-purple 30-80cm 5	G
+1168	Liatris pycnostachya	deep rose purple 60-120cm 5	G
+1169	Liatris scariosa	lavender-purple 30-150cm 51	G
+1170	Liatris scariosa v nieuwlandii	pink-purple 30-100cm 138	G
+1171	Liatris scariosa v novae-angliae	reddish-purple 30-100cm 172	G
+1172	Liatris spicata	pink-purple 40-110cm 160	G
+1173	Liatris spicata 'Kobold'	pink-purple 45-75cm 181	G
+1174	Libertia grandiflora	white 50-80cm 37	G
+1175	Ligularia alpigena	yellow 22-140cm 40	G
+1176	Ligularia japonica 'Chinese Dragon'	gold-orange 1-1.5m 182	G
+1177	Ligularia stenocephala	yellow 40-170cm 181	G
+1178	Ligusticum scoticum	green-white 15-60cm 156	G
+1179	Lilium canadense	melon to 1.5m 153	G
+1180	Lilium canadense	orange to 1.8m 56 6	G
+1181	Lilium canadense	red to 1.8m 66	G
+1182	Lilium canadense	red-orange to 1.8m 101	G
+1183	Lilium canadense	yellow to 1.8m 114	G
+1184	Lilium canadense	yellow-orange/red to 1.8m 101	G
+1185	Lilium concolor 'Shikoku Yellow'	yellow/red spots 30-60cm 170	G
+1186	Lilium duchartrei	white/red-purple spots 50-150cm 128	G
+1187	Lilium formosanum	white/maroon stripe outer 120-200cm 50	G
+1188	Lilium formosanum v formosanum	white/flushed purple reverse 20-55cm 114 117	G
+1189	Lilium grayi	orange-red to 1.3m 137	G
+1190	Lilium mackliniae	pink 30-50cm 114	G
+1191	Lilium martagon	cream/red mix 1-2m 19	G
+1192	Lilium martagon	mix 1-2m 82 136	G
+1193	Lilium martagon	pink 1-2m >	G
+1194	Lilium martagon	pink-purple/spotted 1-2m 13 37	G
+1195	Lilium martagon	white 1-2m 101 156	G
+1196	Lilium martagon	white/pink 1-2m 175	G
+1197	Lilium martagon (robust form)	pink 1-1.5m 175	G
+1198	Lilium martagon 'Akemina' (nv)	orange 100cm 19	G
+1199	Lilium martagon 'Claude Shride'	mahogany-red/deep orange spots 90-180cm 82	G
+1200	Lilium martagon 'Fairy Morning'	pink/yellow/apricot 90-180cm 82	G
+1201	Lilium martagon 'Manitoba Morning'	pinkish-red/yellow-brown spots 90-120cm 82	G
+1202	Lilium martagon v cattaniae (hort)	dark maroon to 2m 136	G
+1203	Lilium michiganense	yellow-orange to 1.9m 44	G
+1204	Lilium monadelphum	yellow 50-100cm 120	G
+1205	Lilium oxypetalum	pale yellow-green 20-30cm 45	G
+1206	Lilium philadelphicum	orange 20-30cm 60	G
+1207	Lilium philippinense	white 30-90cm 81	G
+1208	Lilium regale	white w/yellow throat/purple flush reverse 120-150cm 23	G
+1209	Lilium regale (ex Taiwan)	 177	G
+1210	Lilium superbum	yellow-red orange/maroon spots to 2.8m 53	G
+1211	Limnanthes douglasii	white/yellow center 3-35cm 29	G
+1212	Limonium bellidifolium	pale violet 10-20cm 71	G
+1213	Limonium cosyrense	lavender-blue 10-25cm 4	G
+1214	Limonium gougetianum	pale violet 10-20cm 4	G
+1215	Limonium minutum	light violet 10-15cm 112	G
+1216	Limonium sp (ex Peter Korn SJ6357)	pale pink 15cm 44	G
+1217	Linaria aeruginea	mix 10-20cm 26	G
+1218	Linaria alpina	white/yellow 5-20cm 147	G
+1219	Linaria purpurea	purple-violet 30-70cm 143 147	G
+1220	Linaria tristis	yellow/purple-brown 10-30cm 57	G
+1221	Lindelofia longiflora	bright blue-purple 15-60cm 154	G
+1222	Lindera umbellata	yellow-green to 4m 135	G
+1223	Linnaea amabilis	whitish tinged pink to 3m 169 178	G
+1224	Linum alpinum	purple 79	G
+1225	Linum lewisii	blue 5-80cm 156	G
+1226	Linum monogynum	white to 40cm 68 143	G
+1227	Lithospermum erythrorhizon	white 40-90cm 93	G
+1228	Lobelia cardinalis	red 60-120cm >	G
+1229	Lobelia laxiflora	red/yellow 1.5-3m 11	G
+1230	Lobelia siphilitica 'Mistassinica'	blue 10-15cm 106	G
+1231	Lomatium grayi	yellow 15-50cm 77 100	G
+1232	Lomelosia (Scabiosa) caucasica	pale blue to 60cm 158	G
+1233	Lunaria annua	purple 60-90cm 15	G
+1234	Lunaria annua 'Alba Variegata'	white flr/variegated lvs 60-90cm 160	G
+1235	Lunaria annua 'Corfu Blue'	blue-purple 45-90cm 185	G
+1236	Lupinus microcarpus	yellow to 80cm 126	G
+1237	Lupinus microcarpus v densiflorus	yellow 40-80cm 17	G
+1238	Lupinus perennis	blue-purple/pink to 60cm 13	G
+1239	Lupinus Russell hybrids	mix 1m 15	G
+1240	Lupinus texensis	blue 20-50cm 109	G
+1241	Lychnis arkwrightii (x) 'Vesuvius'	orange-red flr/purple lvs to 45cm 123	G
+1242	Lychnis 'Molten Lava'	red flr/dark lvs to 30cm 26	G
+1243	Lychnis yunnanensis (hort)	mix 20-45cm 30 85	G
+1244	Lysichiton americanus	yellowish green to 70cm 14	G
+1245	Lysimachia ephemerum	white flr/grey-green lvs to 1m 93 148	G
+1246	Magnolia loebneri (x) 'Leonard Messel'	white/rosy purple to 4.5m 5	G
+1247	Magnolia macrophylla	cream-white to 15m 87 108 3	G
+1248	Magnolia macrophylla v ashei	creamy white to 10m 5	G
+1249	Magnolia sieboldii	white 5-10m 159	G
+1250	Magnolia tripetala	creamy white to 15m 88	G
+1251	Maianthemum (Smilacina) henryi	yellowish green-white 50-80cm 120	G
+1252	Maianthemum (Smilacina) racemosum	white flr/red frt 75-125cm 6 169	G
+1253	Malva moschata	white to 90cm 52	G
+1254	Malva sylvestris	pink-purple to 1.25m 38 112	G
+1255	Manfreda maculosa	pale yellow-white turn pink-rose flr/spotted lvs to 40cm 4	G
+1256	Manfreda maculosa 'Hondo Robusto'	cream-lavender pink flr/spotted lvs 30cm lvs/90cm flr 170	G
+1257	Manfreda sp (ex JC Raulston Arboretum)	brown flr/moderately wavy & spotted lvs 30cm lvs/1.5m flr 81	G
+1258	Manfreda undulata 'Cherry Chocolate Chip'	burgundy flr/spotted wavy lvs w/red-white edge 20-120cm 170	G
+1259	Manfreda virginica	yellow-green 8-40cm lvs/140cm flr 172	G
+1260	Massonia depressa	green/cream/pink 5cm 20	G
+1261	Massonia echinata	cream white 5cm 29	G
+1262	Massonia pustulata	cream-pink to 5cm 29 148	G
+1263	Matthiola montana	lilac-pink flr/grey-green hairy lvs to17cm 32	G
+1264	Maurandya (Asarina) antirrhiniflora	rosy-red 1-2m 17	G
+1265	Meconopsis baileyi	blue to 1m 19 77	G
+1266	Meconopsis baileyi	violet to 1m 77	G
+1267	Meconopsis 'Lingholm' (Fertile Blue Group)	sky blue 1-1.2m 43 77	G
+1268	Melanthium woodii	maroon-brown/green 60-120cm 137	G
+1269	Melasphaerula ramosa	cream-pale yellow 30-50cm 29	G
+1270	Melica ciliata	50-100cm 124	G
+1271	Mertensia simplicissima	blue flr-pink buds/blue-green lvs 15cm 71	G
+1272	Milium effusum 'Aureum'	yellow-green lvs 30-60cm 156	G
+1273	Mimulus cardinalis	orange-red/scarlet 25-80cm 64 134	G
+1274	Mimulus guttatus	yellow 2-150cm 154	G
+1275	Mimulus ringens	lavender-purple 20-130cm 90 113	G
+1276	Minuartia juniperina	white 8-20cm 64	G
+1277	Mirabilis jalapa 'Orange Crush'	orange-salmon pink 60-90cm 183	G
+1278	Mirabilis multiflora	magenta 40-70cm 49 144	G
+1279	Mitella diphylla (cf)	pink 30-40cm 6	G
+1280	Moltkia petraea	deep violet-blue 20-40cm 114 156	G
+1281	Molucella laevis	green calyx/white flr 60-100cm 29	G
+1282	Monarda bradburiana	pinkish-white w/purple spots 30-60cm 138	G
+1283	Monarda fistulosa	lavender-pink 50-120cm 79	G
+1284	Monardella macrantha 'Marion Sampson'	bright red 7-15cm 156	G
+1285	Monardella odoratissima ssp glauca	purple/red-purple 10-30cm 78	G
+1286	Moraea alticola	pale yellow to 90cm 114	G
+1287	Moraea aristata	white/blue eyes 20-40cm 24	G
+1288	Moraea longifolia	pale yellow 60-150cm 64	G
+1289	Moraea polyanthos	blue 15-60cm 24	G
+1290	Moraea setifolia	pale lilac 20-40cm 64	G
+1291	Moraea vespertina	white 45-60cm 24	G
+1292	Moraea villosa	mix to 40cm 24	G
+1293	Morina longifolia	white turns pink-deep red to 90cm 175	G
+1294	Muhlenbergia cuspidata	20-60cm 75	G
+1295	Muscari latifolium	dark purple/pale violet 15-30cm 169	G
+1296	Muscari sp (ex MESE 240)	blue 12cm 74	G
+1297	Myosotis alpestris	blue 5-20cm 15	G
+1298	Myrrhis odorata	white 60-120cm 90	G
+1299	Narcissus assoanus	yellow 7-25cm 63	G
+1300	Narcissus asturiensis	yellow 7-12cm 77	G
+1301	Narcissus bulbocodium	yellow 10-15cm 63	G
+1302	Narcissus 'Craigton Clumper'	pale yellow 72	G
+1303	Narcissus nivalis	yellow 12cm 63	G
+1304	Narcissus obesus	yellow 10-30cm 72	G
+1305	Narcissus obvallaris	yellow 30cm 18 77	G
+1306	Narcissus rupicola	yellow to 23cm 63 77	G
+1307	Nassella tenuissima	30-90cm 106	G
+1308	Nemophila menziesii	blue/white to15cm 133	G
+1309	Nicotiana glauca (PI)	green-yellow 2-6m 183	G
+1310	Nicotiana langsdorffii	chartreuse to 1.5m 113	G
+1311	Nicotiana sylvestris	white to 1.5m 121 183	G
+1312	Nigella damascena	blue 20-50cm 155	G
+1313	Notholirion bulbuliferum	lilac/mauve/pale purple 65-105cm 65	G
+1314	Nothoscordum ostenii	yellow 10cm 72	G
+1315	Oenothera acaulis	white fades light rose-purple 15cm 170	G
+1316	Oenothera acaulis 'Aurea'	yellow 5-10cm 64	G
+1317	Oenothera argillicola	yellow to 150cm 138	G
+1318	Oenothera cespitosa	white-turns pink to 20cm 90 156	G
+1319	Oenothera elata ssp hirsutissima (fragrant strain)	yellow 60cm 78	G
+1320	Oenothera elata ssp hookeri	yellow 40-180cm 133	G
+1321	Oenothera glazioviana	yellow fading red-orange 50-150cm 158	G
+1322	Oenothera kunthiana	pink 15-20cm 64	G
+1323	Oenothera longituba	yellowish green 50-100cm 64	G
+1324	Oenothera macrocarpa	yellow 15-30cm 79	G
+1325	Oenothera macrocarpa ssp fremontii	yellow flr/silvery-green lvs 15-20cm 156	G
+1326	Oenothera macrocarpa ssp macrocarpa	yellowish green 10-40cm 156	G
+1327	Oenothera rosea	pink/rose-purple 10-50cm 93	G
+1328	Oenothera sp	yellow flr/long red stalks 150cm 177	G
+1329	Onosma alborosea	white age pink-red flr/hairy lvs to 20cm 35	G
+1330	Onosma cinerea (cf)	pale yellow flr/grey hairy lvs to 40cm 169	G
+1331	Onosma nana	white/pale yellow age to blue/pink 10-20cm 156	G
+1332	Ophiopogon umbraticola (moist packed)	whitish-lavender flr/blue frt 15-30cm 170	G
+1333	Orbea variegata	pale yellow/maroon speckled to 10cm 76	G
+1334	Orbexilum (Psoralea) pedunculatum v psoralioides 'Nash'	lavender 45cm 170	G
+1335	Origanum acutidens	yellow-green bracts/white-pink flr to 50cm 156	G
+1336	Origanum 'Kent Beauty'	rose-pink flr/silvery lvs to 25cm 156	G
+1337	Origanum rotundifolium	lavender-pink/pale green bracts/pale grey lvs 10-20cm 175	G
+1338	Origanum sp	pink flr/blue lvs 60cm 80	G
+1339	Orlaya grandiflora	white 45-60cm 102	G
+1340	Ornithogalum candicans	white to 120cm 2	G
+1341	Ornithogalum fimbrimarginatum	white 20-45cm 111	G
+1342	Ornithogalum neopatersonia	greenish-white 15-20cm 111	G
+1343	Ornithogalum princeps	pale green-cream 60-90cm 65	G
+1344	Ornithogalum pyrenaicum	pale greenish-yellow 30-60cm 3	G
+1345	Ornithogalum regale	pale green 90-120cm 65	G
+1346	Ornithogalum viridiflorum	pale yellow-green to 1m 65 66	G
+1347	Orostachys aggregata	white-cream flr/grey-green lvs 10-15cm 47	G
+1348	Orostachys chanetii	white 10-30cm 156	G
+1349	Orostachys fimbriata	white flr/brown-orange lvs 10-20cm 170	G
+1350	Orostachys minuta	reddish/purple spotted 2-6cm 156	G
+1351	Orostachys spinosa	yellowish green 10-30cm 170	G
+1352	Orychophragmus violaceus	violet 30cm 175	G
+1353	Othonna capensis	yellow 10-13cm 151	G
+1354	Oxypetalum (Tweedia) coeruleum	sky blue to 1m 41	G
+1355	Oxytropis campanulata	magenta-purple 15-30cm 119	G
+1356	Packera (Senecio) aurea	yellow 30-60cm 141	G
+1357	Paeonia 'Abkhazi Princess'	white/dark purple eye 161	G
+1358	Paeonia anomala	pink to 1m 117 156	G
+1359	Paeonia anomala ssp veitchii	pink 30-90cm 118	G
+1360	Paeonia anomala ssp veitchii	rose-red 30-90cm 45 159	G
+1361	Paeonia arietina	rose-red 30-70cm 32 83 161	G
+1362	Paeonia cambessedesii	rose-pink to 45cm 67 64	G
+1363	Paeonia corsica	pink 35-80cm 35	G
+1364	Paeonia daurica	red 45cm 117	G
+1365	Paeonia daurica ssp coriifolia	red 70-100cm 77	G
+1366	Paeonia daurica ssp coriifolia	rose 70-100cm 103	G
+1367	Paeonia daurica ssp mlokosewitschii	yellow 80-100cm 45 156	G
+1368	Paeonia daurica ssp mlokosewitschii hybrid	 159	G
+1369	Paeonia daurica ssp wittmanniana	creamy yellow 80-100cm 45	G
+1370	Paeonia delavayi	red 20-180cm 19	G
+1371	Paeonia delavayi f lutea	yellow compact form 161	G
+1372	Paeonia mairei	pink-red to 1m 103	G
+1373	Paeonia mascula	light pink to 90cm 82	G
+1374	Paeonia mascula ssp mascula	red-pink to 80cm 156	G
+1375	Paeonia obovata	cream 30-70cm 5	G
+1376	Paeonia obovata	mix 30-70cm 123	G
+1377	Paeonia obovata	pink 30-70cm 109 113	G
+1378	Paeonia obovata	white 30-70cm 3 123	G
+1379	Paeonia officinalis ssp officinalis	red-pinkish 35-90cm 156	G
+1380	Paeonia ostii	pale pink 90cm 102	G
+1381	Paeonia ostii	white to 1.5m >	G
+1382	Paeonia peregrina	brilliant red 30-50cm 160	G
+1383	Paeonia rockii	mix to 1.8m 103	G
+1384	Paeonia rockii	pink 60-180cm 103 161	G
+1385	Paeonia rockii	rich pink to 1.8m 94	G
+1386	Paeonia rockii	white/dark purple eye to 1.8m 73 114 161	G
+1387	Paeonia rockii ssp linyanshanii	white/dark purple base to 1.8m 161	G
+1388	Paeonia suffruticosa (x)	dark red to 1.5m 103	G
+1389	Paeonia suffruticosa (x)	mix to 1.5m 5 169	G
+1390	Paeonia suffruticosa (x)	white to 1.5m 108 166	G
+1391	Paeonia suffruticosa (x) v papaveracea	rose-pink/white to 2m 83	G
+1392	Papaver alpinum	orange 5-25cm 118	G
+1393	Papaver alpinum	pale orange 5-25cm 46	G
+1394	Papaver apokrinomenon	soft orange 20-30cm 74	G
+1395	Papaver atlanticum	soft apricot orange to 45cm 13 95 151	G
+1396	Papaver atlanticum 'Flore Pleno'	semi-double orange 45-60cm 12 107 156	G
+1397	Papaver burseri	pure white flr to 20cm 30	G
+1398	Papaver cambricum	mix 40-60cm 90	G
+1399	Papaver cambricum	yellow 40-60cm 26 43	G
+1400	Papaver cambricum flore-pleno	mix 40-60cm 77	G
+1401	Papaver commutatum 'Ladybird'	red/black-spotted base to 45cm 49	G
+1402	Papaver croceum (aff)	yellow 30-40cm 49	G
+1403	Papaver degenii	yellow 5-15cm 46	G
+1404	Papaver lasiothrix	deep red 60-90cm 132	G
+1405	Papaver nudicaule	mix 10-40cm 15	G
+1406	Papaver orientale	orange/red 30-90cm 15	G
+1407	Papaver orientale 'Prinzessin Victoria Louise'	salmon-pink/black center 60-90cm 19	G
+1408	Papaver popovii	orange 10-25cm 180 105	G
+1409	Papaver radicatum ssp kluanensis	yellow to 17cm 154	G
+1410	Papaver rhoeas	deep red 30cm 64	G
+1411	Papaver rhoeas	red/black base to 70cm 151	G
+1412	Papaver rhoeas	red/pink to 70cm 13	G
+1413	Papaver somniferum	coral to 120cm 31	G
+1414	Papaver somniferum	mix to 120cm 12	G
+1415	Papaver somniferum 'Frosted Salmon'	double salmon-pink/white edges 90cm 33	G
+1416	Papaver somniferum 'Lauren's Grape'	deep red-purple to 120cm 13 117	G
+1417	Paradisea lusitanica	white 80-120cm 64 177	G
+1418	Paris polyphylla	yellow-green 10-100cm 64	G
+1419	Paris quadrifolia	yellow-green flr/blue-black frt 25-40cm 37	G
+1420	Parnassia asarifolia	white/green veins 18-50cm 137	G
+1421	Parodia erubescens (x)	lemon yellow 20cm 170	G
+1422	Parodia mammulosa ssp submammulosa	yellow/pale pink 5-10cm 170	G
+1423	Parodia ottonis	yellow to 15cm 170	G
+1424	Pasithea caerulea	blue 60cm 128	G
+1425	Patrinia gibbosa	yellow 20-60cm 183	G
+1426	Patrinia scabiosifolia	yellow 30-100cm 149	G
+1427	Pavonia praemorsa	pale yellow flr/apricot buds 1-2m 76	G
+1428	Pedicularis groenlandica	pink-purple 10-60cm 154	G
+1429	Pelargonium endlicherianum	deep pink-maroon veins 20-35cm >	G
+1430	Pelargonium quercetorum	hot pink 60cm 78	G
+1431	Peltoboykinia tellimoides	pale yellow 20-100cm 47	G
+1432	Peltoboykinia watanabei	cream-yellow 45-85cm 88 90 186	G
+1433	Penstemon aridus	blue-purple 5-25cm 130 164	G
+1434	Penstemon azureus ssp angustissimus	violet-blue/purple 13-50cm 180	G
+1435	Penstemon barbatus	blue/pink mix 60-90cm 158	G
+1436	Penstemon barbatus	orange 120cm 88	G
+1437	Penstemon barrettiae	lilac/rose-purple 15-40cm 68	G
+1438	Penstemon californicus	blue-purple 10-30cm 61	G
+1439	Penstemon calycosus	whitish 60-90cm 173	G
+1440	Penstemon cardinalis	deep red 40-70cm 70 86	G
+1441	Penstemon cardwellii	bright purple/blue-violet 10-30cm 134 154	G
+1442	Penstemon cardwellii	lavender 10-30cm 113	G
+1443	Penstemon cardwellii hybrid	lavender blue 10cm 175	G
+1444	Penstemon cardwellii hybrids	mix 77	G
+1445	Penstemon cobaea	purple to 60cm 124	G
+1446	Penstemon cyaneus	dark blue-violet 30-70cm 77	G
+1447	Penstemon 'Dark Towers'	pale pink flr/dark bronze-red lvs 45-90cm 33 160	G
+1448	Penstemon davidsonii	blue-lavender/purple 10-15cm 109	G
+1449	Penstemon davidsonii	white 10-15cm 134	G
+1450	Penstemon davidsonii v menziesii	purple-lavender 5-10cm 77 154	G
+1451	Penstemon deustus	cream/purple lines 20-40cm 4	G
+1452	Penstemon digitalis	white 70-150cm 88	G
+1453	Penstemon digitalis 'Gold Foil'	white-pinkish flr/yellow-bronze lvs 30-50cm 170	G
+1454	Penstemon digitalis 'Husker Red'	white flr/maroon lvs to 90cm 8	G
+1455	Penstemon digitalis 'Mystica'	white-lavender flr/burgundy lvs to 150cm 9	G
+1456	Penstemon eatonii	deep scarlet-red 40-100cm 144 180	G
+1457	Penstemon fruticosus hybrids	mix 77	G
+1458	Penstemon fruticosus v fruticosus	blue-lavender/light purple 15-40cm 32	G
+1459	Penstemon fruticosus v serratus	pink 15-40cm 52	G
+1460	Penstemon gairdneri v gairdneri	blue-lavender/rose-purple 10-40cm 119	G
+1461	Penstemon grandiflorus	dark pink 35cm 86	G
+1462	Penstemon grandiflorus	lilac 50-100cm 180	G
+1463	Penstemon grandiflorus	mix 50-100cm 47 96	G
+1464	Penstemon grandiflorus	pale pink 60cm 164	G
+1465	Penstemon grandiflorus	white-pale pink 50-100cm 129	G
+1466	Penstemon grandiflorus (ex Isanti Co MN)	pink/mauve 100cm 124	G
+1467	Penstemon grandiflorus 'War Axe' strain	mix 60-90cm 70	G
+1468	Penstemon hallii	deep blue-purple 16-20cm 164	G
+1469	Penstemon haydenii	milky blue-lavender 15-45cm 154	G
+1470	Penstemon heterophyllus	blue-violet/purple 30-150cm 180	G
+1471	Penstemon hirsutus	lavender-violet/white 20-60cm 156 180	G
+1472	Penstemon hirsutus	pink 20-60cm 79	G
+1473	Penstemon hirsutus 'Pygmaeus'	lavender/pink 15cm 84 113	G
+1474	Penstemon hirsutus 'Pygmaeus'	lavender/white 15cm >	G
+1475	Penstemon hirsutus 'Pygmaeus'	pink 15cm 79	G
+1476	Penstemon hirsutus 'Pygmaeus'	purple 15cm 139	G
+1477	Penstemon hirsutus 'Pygmaeus'	white 15cm 75 118	G
+1478	Penstemon humilis ssp brevifolius	dark blue 10-20cm 77	G
+1479	Penstemon laricifolius	cream/pink/lavender 10-20cm 156	G
+1480	Penstemon laricifolius ssp laricifolius	red-purple/pink 10-20cm 61	G
+1481	Penstemon linarioides	pale blue-violet 10-50cm 144	G
+1482	Penstemon linarioides ssp coloradoensis	blue-lavender flr/gray lvs 30cm 32	G
+1483	Penstemon lyallii	pale lavender 30-80cm 119	G
+1484	Penstemon mensarum	dark purple-blue 40-50cm 78 144 154	G
+1485	Penstemon newberryi hybrids	pink 77	G
+1486	Penstemon newberryi ssp sonomensis	cherry red 12-30cm 68	G
+1487	Penstemon nitidus	bright blue-pinkish flr/blue-grey lvs 10-30cm 118	G
+1488	Penstemon ovatus	blue-purple 30-100cm 5 134	G
+1489	Penstemon palmeri	white tinged pink-deep pink 50-180cm 70 86	G
+1490	Penstemon pinifolius	red 10-50cm 156 175	G
+1491	Penstemon pinifolius 'Mersea Yellow'	yellow 20-30cm 156	G
+1492	Penstemon procerus	blue 5-15cm 144	G
+1493	Penstemon procerus	cream 5-40cm 134	G
+1494	Penstemon procerus	deep blue-purple 5-40cm 119	G
+1495	Penstemon procerus	lavender 5-25cm 144	G
+1496	Penstemon pseudospectabilis	deep reddish-pink/magenta 30-100cm 144 180	G
+1497	Penstemon richardsonii	pink-lavender/blue 20-80cm 93	G
+1498	Penstemon roseus	red/crimson to 120cm 143	G
+1499	Penstemon rostriflorus	scarlet 30-100cm 156	G
+1500	Penstemon rupicola	pink-deep rose to 10cm 154 175	G
+1501	Penstemon rupicola	purple to 10cm 154	G
+1502	Penstemon rupicola hybrids	mix 77	G
+1503	Penstemon rydbergii	blue-purple 20-70cm 154	G
+1504	Penstemon secundiflorus	mix 15-50cm 35	G
+1505	Penstemon serrulatus	deep blue-purple 20-70cm >	G
+1506	Penstemon serrulatus	pink-purple 40-45cm 26	G
+1507	Penstemon smallii	pale red-purple 40-60cm 62 155 180	G
+1508	Penstemon spatulatus	blue-violet 10-25cm 119	G
+1509	Penstemon strictus	deep blue/violet 35-70cm 154	G
+1510	Penstemon superbus	scarlet 30-120cm 70	G
+1511	Penstemon tenuis	pink 40cm 173	G
+1512	Penstemon tenuis	violet-purple 40-90cm 143	G
+1513	Penstemon uintahensis	sky blue 5-15cm 49 154	G
+1514	Penstemon virens	deep blue-violet 10-40cm 46	G
+1515	Penstemon virgatus ssp asa-grayi	pale blue-purple 25-80cm 32	G
+1516	Penstemon washingtonensis	deep blue-purple 10-25cm 49	G
+1517	Penstemon whippleanus	dark wine purple 20-60cm 119	G
+1518	Penstemon wilcoxii	blue-purple 30-100cm 20	G
+1519	Penstemon wrightii	red-pink to 60cm 4	G
+1520	Persicaria virginiana	white/pink 45-60cm 93	G
+1521	Persicaria virginiana 'Painter's Palette'	red flr/green-white-red lvs 45-60cm 55	G
+1522	Petrocoptis glaucifolia	rose-pink to 15cm 41	G
+1523	Petrophytum caespitosum	white to 10cm 112 156	G
+1524	Petrophytum cinerascens	cream flr/greyish lvs 5-15cm 134	G
+1525	Petunia exserta	bright red 30-60cm 26 105	G
+1526	Petunia patagonica	cream-white/dark purple veins 15cm 156	G
+1527	Peucedanum verticillare	yellow-green flr/purple stems & new lvs 180-200cm 177	G
+1528	Phacelia sericea	dark blue-purple flr/silvery silky lvs 10-60cm 109	G
+1529	Phacelia tanacetifolia	blue-lavender 15-100cm 109	G
+1530	Phalocallis (Cypella) coelestis	blue-lavender 30-90cm 53 117 172	G
+1531	Phegopteris decursive-pinnata	30-60cm 33	G
+1532	Phemeranthus brevifolius	rose/lavender/white 6cm 100	G
+1533	Phemeranthus calcaricus	rose-purple to 25cm 79	G
+1534	Phemeranthus calycinus	pink/red-purple 25-40cm >	G
+1535	Phleum sp (ex Kazakhstan)	green 60cm 152	G
+1536	Phlomis sieheana	yellow 15-30cm 32	G
+1537	Phlomoides maximowiczii	pink-purple 80-100cm 170	G
+1538	Phlomoides oreophila	purple 30-80cm 156	G
+1539	Phlox nana	bright pink 10-30cm 52	G
+1540	Phuopsis stylosa	pink 15-20cm 71 147	G
+1541	Physaria bellii	yellow flr/silvery hairy lvs 5-13cm 52	G
+1542	Physaria ovalifolia	yellow 5-25cm 156	G
+1543	Physaria reediana	pale green-yellow 2-4cm 6	G
+1544	Physaria sp	green lvs compact 178	G
+1545	Physostegia virginiana 'Rose Queen'	pink to 90cm 8	G
+1546	Phyteuma scheuchzeri	deep blue to 40cm >	G
+1547	Phyteuma sieberi	deep blue 10cm 156	G
+1548	"Phyteuma sp (mix of scheuchzeri, sieberi, hemisphaericum)"	blue 20-40cm 169	G
+1549	Phytolacca acinosa	white-yellowish greenish flr/purple black frt 50-150cm 98	G
+1550	Phytolacca americana 'Silberstein'	white flr/cream-speckled variegated lvs 1-1.8m 175	G
+1551	Pinellia pedatisecta	yellowish-green to 45cm 81	G
+1552	Pinellia tripartita	whitish-light green 30-35cm 55 159	G
+1553	Plagiorhegma (Jeffersonia)dubium	pale lilac 10-30cm 77 107	G
+1554	Plantago nivalis	brownish flr/white woolly lvs 2-10cm 44	G
+1555	Platycodon grandiflorus	blue/purple 30-90cm 73 155 175	G
+1556	Platycodon grandiflorus	pale pink/rose veins 20-90cm 175	G
+1557	Platycodon grandiflorus	white semi-double 20-90cm 175	G
+1558	Platycodon grandiflorus (dwarf form)	blue 10-30cm 156	G
+1559	Platycodon grandiflorus (dwarf form)	rose 10-30cm 156	G
+1560	Platycodon grandiflorus (dwarf form)	white 10-30cm 156	G
+1561	Platycodon grandiflorus 'Sentimental Blue'	blue 15-30cm 89 95 128	G
+1562	Polanisia (Cleome) dodecandra	white 10-60cm 42	G
+1563	Polemonium brandegeei	pale yellow 10-30cm 144	G
+1564	Polemonium caeruleum	white 45-60cm 146 175	G
+1565	Polemonium caeruleum ssp himalayanum	blue to 1m 45	G
+1566	Polemonium foliosissimum	light yellow 30-90cm 79	G
+1567	Polemonium pauciflorum	clear pale yellow 25	G
+1568	Polemonium pauciflorum	soft yellow/red tinge 15-30cm 175	G
+1569	Poliothyrsis sinensis	yellowish-white 7-15m 173	G
+1570	Pollia japonica	white flr/dark blue frt 30-90m 55	G
+1571	Polygonatum biflorum (extra tall form) (moist packed)	white-greenish yellow 150-180cm 183	G
+1572	Polygonatum pubescens 'Gilty Pleasure'	white flr/gold lvs 50-90cm 136	G
+1573	Polystichum acrostichoides	30-80cm 14	G
+1574	Polystichum polyblepharum	45-90cm 33	G
+1575	Pontechium (Echium) maculatum	crimson red 40-70cm 54 124	G
+1576	Potentilla erecta	yellow 10-30cm 98	G
+1577	Potentilla megalantha	yellow 10-20cm 79 131	G
+1578	Potentilla porphyrantha	pink flr/silver lvs 5-15m 5	G
+1579	Potentilla pyrenaica	yellow 20-40cm 40	G
+1580	Potentilla thurberi 'Monarch's Velvet'	deep red/black center 30-60cm 147	G
+1581	Potentilla villosa	yellow flr/woolly lvs 5-30cm 109	G
+1582	Primula alpicola	mix 15-60cm 37	G
+1583	Primula auricula	mix to 20cm 19	G
+1584	Primula auricula	violet flr/silver farina lvs 118	G
+1585	Primula auricula	yellow to 20cm 169	G
+1586	Primula auricula v albocincta	yellow flr/grey-green white-edged lvs to 16cm 45	G
+1587	Primula beesiana (syn burmanica)	rose flr/efarinose lvs 20-50cm 65	G
+1588	Primula bulleesiana (x)	mix 45-60cm 37 136 175	G
+1589	Primula bulleyana	deep orange 20-70cm 37	G
+1590	Primula candelabra hybrids	mixed 50-75cm 175	G
+1591	Primula capitata	purple-blue 10-45cm 37 77	G
+1592	Primula capitata (ex CC3843)	rich purple 10-45cm 37	G
+1593	Primula florindae	mix 30-120cm 37	G
+1594	Primula florindae	orange 30-120cm 140	G
+1595	Primula florindae	red 30-120cm 37	G
+1596	Primula florindae	yellow 30-120cm 37 154	G
+1597	Primula halleri	lilac-violet 8-30cm 19	G
+1598	Primula incana	lavender 2-46cm 19	G
+1599	Primula japonica	bright pink-purple 45-60cm 155	G
+1600	Primula japonica	cerise 45-60cm 128	G
+1601	Primula japonica	dark rose-pink 45-60cm 101	G
+1602	Primula japonica	magenta 45-60cm 43	G
+1603	Primula japonica	orange 45-60cm 33	G
+1604	Primula japonica	pink 45-60cm 77	G
+1605	Primula japonica	pink/yellow 45-60cm 154	G
+1606	Primula japonica	red 45-60cm 33	G
+1607	Primula japonica	white 45-60cm 31	G
+1608	Primula japonica 'Apple Blossom'	pale pink to 60cm 37	G
+1609	Primula japonica hybrids	crimson 75cm 175	G
+1610	Primula laurentiana	lavender-pink 10-48cm 45	G
+1611	Primula matthioli	deep pink-rose 20-25cm 92 19	G
+1612	Primula matthioli	purple-violet 20-25cm 142	G
+1613	Primula matthioli	white 20-25cm 43	G
+1614	Primula parryi	magenta-pink 15-50cm 154	G
+1615	Primula pulverulenta	rose-purple 25-100cm 37 64	G
+1616	Primula scotica	violet/red-purple to 10cm 37 58	G
+1617	Primula secundiflora	rose-purple/deep rose 10-60cm 37	G
+1618	Primula sieboldii	mix 12-25cm 5 60 102	G
+1619	Primula sieboldii	pink shades 12-25cm 113	G
+1620	Primula sieboldii (from Japanese Sakurasoh forms)	mix 12-25cm 69	G
+1621	Primula sieboldii 'Beni-kagari'	pink 20cm 69	G
+1622	Primula simensis	yellow flr/very mealy lvs to 80cm 37	G
+1623	Primula stenocalyx	bluish lavender-pink to 15cm 19	G
+1624	Primula veris	mix 8-30cm 153	G
+1625	Primula veris	yellow 8-30cm 113 156 160	G
+1626	Primula vialii	rose red/violet-purple 20-45cm 34 96	G
+1627	Primulina (Chirita) tamiana	white/purple-lavender 10cm 82	G
+1628	Prospero (Scilla) autumnale	lilac/pink/bluish purple to 15cm 165	G
+1629	Pseudofumaria (Corydalis) lutea	yellow 40cm 151	G
+1630	Pseudolysimachion kiusianum	purple-blue 50-100cm 175	G
+1631	Pseudolysimachion rotundum ssp subintegrum	blue-purple/white to 1m 93	G
+1632	Ptelea trifoliata 'Variegata'	cream flr/gold variegated lvs 3-5m 155	G
+1633	Pterocephalus depressus	pink-mauve 5-10cm >	G
+1634	Pterocephalus perennis	pink-purple flr/grey-green lvs to 12cm 57 77	G
+1635	Pterocephalus pinardii	pink 4cm 100 106	G
+1636	Pterostyrax hispidus	white to 15m 3	G
+1637	Ptilotrichum spinosum	white flr/grey-green lvs 15-30cm 187	G
+1638	Ptilotrichum spinosum 'Roseum'	rose-pink flr/grey lvs 15-30cm 30	G
+1639	Pulsatilla albana	mix 10-30cm 77	G
+1640	Pulsatilla albana ssp albana	yellow 5-30cm 57	G
+1641	Pulsatilla alpina ssp apiifolia	yellow 10-50cm >	G
+1642	Pulsatilla ambigua	dark violet 16-22cm 40 124	G
+1643	Pulsatilla caucasica (hort)	yellow 20cm 34	G
+1644	Pulsatilla chinensis	violet 15-35cm 110	G
+1645	Pulsatilla grandis	violet-purple 5-30cm 120	G
+1646	Pulsatilla grandis 'Papageno'	pink fringed 15-30cm 180	G
+1647	Pulsatilla grandis 'Papageno'	purple fringed 15-30cm 160	G
+1648	Pulsatilla halleri	violet-lavender 5-25cm 19	G
+1649	Pulsatilla halleri ssp styriaca 'Pink Dream'	pink 20cm 185	G
+1650	Pulsatilla hybrids	red 77	G
+1651	Pulsatilla montana	dark blue-violet 10-30cm 26 77	G
+1652	Pulsatilla nigricans	dark purple-black 15-30cm 119	G
+1653	Pulsatilla nuttalliana	purple 10-40cm 119	G
+1654	Pulsatilla patens ssp patens	blue-violet/lilac to 40cm 97	G
+1655	Pulsatilla pratensis ssp bohemica	dark purple-black to 15cm 77	G
+1656	Pulsatilla rubra	dark red 25cm 57	G
+1657	"Pulsatilla sp (ex Brno, very early)"	purple 15cm 6	G
+1658	Pulsatilla vernalis	white/blue or pink reverse 5-15cm 131	G
+1659	Pulsatilla vulgaris	bright pink 15-40cm 118	G
+1660	Pulsatilla vulgaris	double purple 15-40cm 118	G
+1661	Pulsatilla vulgaris	maroon 15-40cm 180	G
+1662	Pulsatilla vulgaris	mix 15-40cm 69 156	G
+1663	Pulsatilla vulgaris	pale pink 15-40cm 144	G
+1664	Pulsatilla vulgaris	purple 15-40cm 169	G
+1665	Pulsatilla vulgaris	red 15-40cm 118	G
+1666	Pulsatilla vulgaris	white 15-40cm >	G
+1667	Pulsatilla vulgaris 'Elegans'	burgundy-red 20cm 32	G
+1668	Pulsatilla vulgaris 'Rode Klokke'	red 25cm 160	G
+1669	Pycnosorus globosus	yellow flr/grey woolly lvs to 120cm 7	G
+1670	Pyrrocoma crocea	bright yellow 18-80cm 154 156	G
+1671	Raffenaldia primuloides	yellow/lilac/white 15cm 77	G
+1672	Ramonda myconi	deep violet 6-12cm 122	G
+1673	Ramonda myconi 'Alborosea'	white/pink 8cm 97	G
+1674	Ranunculus gramineus	yellow 30-45cm 40 112 142	G
+1675	Ranunculus platanifolius	white 30-100cm 142	G
+1676	Raoulia glabra	cream/white 2.5cm 126	G
+1677	Rhaponticum (Leuzea) coniferum	pink-purple flr/white-felted lvs 15-30cm 34 78 130	G
+1678	Rheum moorcroftianum (ex CC6342)	red spike 30cm 19	G
+1679	Rheum palmatum	pink-red to 250cm 43	G
+1680	Rhexia virginica	rose-lavender 20-60cm 82	G
+1681	Rhododendron atlanticum	white/flush pink-rose .5-1m 64	G
+1682	Rhododendron kiusianum	rose-purple 45-60cm 169	G
+1683	Rhodophiala bagnoldii	yellow 30cm 34	G
+1684	Rhus glabra	yellowish-green flr/red frt 3-5m 164	G
+1685	Rhus potaninii	creamy white flr/red frt to 12m 185	G
+1686	Rohdea japonica (moist packed)	pale yellow flr/red frt 30-50cm 166	G
+1687	Romneya coulteri	white 1-2.5m 181	G
+1688	Romulea bulbocodium	blue-violet 10-15cm 74	G
+1689	Rosa carolina	pink 30-130cm 166	G
+1690	Rosa glauca	pink flr/glaucous-purple lvs 1.5-3m 155	G
+1691	Rosa xanthina	yellow 2-3m 92	G
+1692	Rosularia sedoides	white 5-10cm 156	G
+1693	Rudbeckia fulgida v sullivantii 'Goldsturm'	yellow 60-90cm 155	G
+1694	Rudbeckia laciniata	yellow to 3m 38	G
+1695	Rudbeckia maxima	yellow to 2.5m 149	G
+1696	Rudbeckia occidentalis	purple-brown cone center to 2m 154	G
+1697	Rudbeckia triloba	yellow-orange to 1.5m 155	G
+1698	Rudbeckia triloba 'Prairie Glow'	red-orange/yellow 90-120cm 146	G
+1699	Ruellia 'Black Beauty'	pale lilac flr/black lvs to 25cm 170	G
+1700	Ruellia humilis	lavender-lilac 30-60cm 82 155	G
+1701	Rumex sanguineus	green-red brown flr/red-purple veined lvs 30-70cm 148	G
+1702	Salpingostylis (Calydorea) coelestina	blue-violet 15-30cm 53	G
+1703	Salvia absconditiflora	white-pink 30-60cm 32 119	G
+1704	Salvia apiana	white-pale lavender flr/silver-white lvs to 1.5m 92	G
+1705	Salvia argentea	white flr/silver-grey woolly lvs 30-60cm >	G
+1706	Salvia atropatana	white/yellow 25-70cm 157	G
+1707	Salvia blepharochlaena	white-pale yellow/purple-veined 10-30cm 119	G
+1708	Salvia brandegeei	pale blue-lavender 100-150cm 126	G
+1709	Salvia caespitosa	lilac-pink/violet/white 5-15cm 156	G
+1710	Salvia canariensis	purple-violet flr/grey felt lvs to 2m 126 133	G
+1711	Salvia canescens v daghestanica	purple flr/silver-white woolly lvs 10-30cm 156	G
+1712	Salvia chrysophylla	lilac/yellow lip 20-60cm 156 185	G
+1713	Salvia coccinea	scarlet/orange-red to 1m 163	G
+1714	Salvia coccinea 'Lady in Red'	red 50-60cm 155	G
+1715	Salvia columbariae	blue 10-50cm 133	G
+1716	Salvia cyanescens	violet-blue flr/velvety grey-green lvs 30-90cm 156	G
+1717	Salvia darcyi	coral-red to 1m 156	G
+1718	Salvia dorrii	blue-purple flr/grey-green lvs 30-90cm 112	G
+1719	Salvia flava	yellow/purple-brown lip 20-50cm 157	G
+1720	Salvia fruticosa (ex Crete)	 157	G
+1721	Salvia glutinosa	pale yellow/maroon speckled 40-60cm 141	G
+1722	Salvia henryi	bright red flr/grey lvs to 30cm 156	G
+1723	Salvia jurisicii	violet-lavender to 30cm 32 144 156	G
+1724	Salvia lanceolata	dusky rose-brown flr/grey lvs 90-200cm 157	G
+1725	Salvia microphylla 'Royal Bumble'	scarlet-red flr/purple-black stems 60-120cm 76	G
+1726	Salvia officinalis 'Nana'	lavender-blue 30-45cm 156	G
+1727	Salvia pentstemonoides (ex Native American Seed)	cherry-red 90-150cm 170	G
+1728	Salvia phlomoides	violet-white flr/white woolly lvs to 45cm 157	G
+1729	Salvia pisidica	violet blue 15-35cm 156	G
+1730	Salvia pratensis (PI)	bluish-violet 1-1.5m 157	G
+1731	Salvia recognita	pale pink flr/grey hairy lvs 60-90cm 156	G
+1732	Salvia reflexa (PI)	pale-dark blue 10-70cm 157	G
+1733	Salvia ringens	violet-blue to 60cm 157	G
+1734	Salvia scabiosifolia	pale violet flr/grey green lvs to 50cm 157	G
+1735	Salvia sclarea	pale mauve-lilac/white-pink 90-120cm 156	G
+1736	Salvia sclarea v turkestanica (hort)	white/pink tinged to 1m 181	G
+1737	Salvia 'Shangri-la' (moorcroftiana x indica)	lavender-blue flr/blue-grey lvs 60-90cm 156	G
+1738	Salvia sp	silver lvs 15cm 118	G
+1739	Salvia spathacea	ruby red- dark maroon 30-150cm 157	G
+1740	Salvia staminea	off-white/cream to 75cm 156	G
+1741	Salvia taraxacifolia	pink-cream 15-20cm 4	G
+1742	Salvia tiliifolia	white-blue/lilac to 1m 157	G
+1743	Salvia tomentosa	lilac-purple/white to 100cm 157	G
+1744	Salvia transsylvanica	lavender blue 60-90cm 156	G
+1745	Salvia verticillata	lavender to 90cm 157	G
+1746	Salvia viridis	cream/purple-rose bracts 30-60cm 157	G
+1747	Salvia viscosa	burgundy red 1m 157	G
+1748	Sanguinaria canadensis (moist packed)	semi-double white to 40cm 155	G
+1749	Sanguinaria canadensis (moist packed)	white to 40cm 12 169	G
+1750	Sanguisorba minor	greenish-reddish purple 40-75cm 156	G
+1751	Sanguisorba officinalis 'Little Angel'	red-purple flr/variegated lvs 10-18cm 106	G
+1752	Saponaria caespitosa	purplish-pink 5-15cm >	G
+1753	Saponaria cypria	pink to 15cm 4	G
+1754	Saponaria pumilio	pink-purple 1-5cm 57 144	G
+1755	Sarracenia flava	yellowish-green pitcher/yellow flr 25-90cm 168	G
+1756	Sarracenia moorei (x) 'Leah Wilkerson'	green-white w/red veins pitcher/orange flr to 100cm 168	G
+1757	Sarracenia rubra	green-maroon pitcher/maroon-red flr 12-75cm 168	G
+1758	Saruma henryi	soft yellow 45-60cm 31 48	G
+1759	Saruma henryi (moist packed)	soft yellow 40-60cm 169	G
+1760	Satureja subspicata	purple-violet 15cm 100	G
+1761	Sauromatum venosum	purplish brown-yellowish mottled spathe 20-100cm 165 166	G
+1762	Saxifraga apiculata (x) 'Pungens'	pale yellow 10-15cm 85	G
+1763	Saxifraga arendsii (x)	white 10-20cm 15	G
+1764	Saxifraga bronchialis	yellowish white 5-20cm 43	G
+1765	Saxifraga callosa (cf)	 156	G
+1766	Saxifraga cernua	white flr/red bulbils 10-20cm 44	G
+1767	Saxifraga cochlearis 'Minor'	white 10-20cm 77	G
+1768	Saxifraga hostii	white 20-60cm 156	G
+1769	Saxifraga hostii ssp hostii	creamy-white to 30cm 19	G
+1770	Saxifraga longifolia	white 10-70cm 20	G
+1771	Saxifraga 'Millstream'	pink-red to 20cm 156	G
+1772	Saxifraga oppositifolia	pink-purple 2cm 118	G
+1773	Saxifraga oppositifolia 'Wetterhorn'	deep pink 5cm 41	G
+1774	Saxifraga paniculata	red to 30cm 85	G
+1775	Saxifraga paniculata	white-cream to 30cm 40 85 156	G
+1776	Saxifraga paniculata (compact form)	white 3-20cm 64	G
+1777	Saxifraga paniculata (dwarf forms)	mix 85	G
+1778	Saxifraga Porophyllum hybrids	mix 77	G
+1779	Saxifraga pubescens 'Snowcap'	white to 4.5cm 41	G
+1780	Saxifraga 'Southside Seedling'	white 30-60cm 89	G
+1781	Saxifraga stribrnyi	purplish-pink flr/reddish stems 6-10cm 77	G
+1782	Saxifraga tricuspidata	white-cream 4-10cm 44	G
+1783	Scabiosa africana	mauve 30-100cm 126	G
+1784	Scabiosa graminifolia	lilac-pink 20-30cm 156	G
+1785	Scabiosa japonica 'Ritz Blue'	blue-lilac 10-20cm 8	G
+1786	Scabiosa japonica v alpina	lavender-blue 20cm 105 184	G
+1787	Scabiosa ochroleuca	cream-yellow 60-90cm 9	G
+1788	Scabiosa ochroleuca (dwarf form)	pale yellow 20-30cm 36	G
+1789	Schisandra chinensis	white flr/red frt to 8m 22 145 3	G
+1790	Schivereckia podolica	white to 25cm 144	G
+1791	Scilla amoena	blue 10-30cm 97	G
+1792	Scilla litardierei	blue-violet 15-20cm 74	G
+1793	Scilla mischtschenkoana	white/blue mid-vein 10-15cm 169	G
+1794	Scilla peruviana	violet-blue 15-40cm 74	G
+1795	Scilla sardensis	rich blue 7-20cm 175	G
+1796	Scilla verna	violet-blue 5-15cm 72	G
+1797	Scoliopus halli	yellowish green/purple 8-14cm 72	G
+1798	Scopolia carniolica f hladnikiana	greenish yellow to 60cm 97	G
+1799	Scrophularia californica	maroon-brown 80-120cm 134	G
+1800	Scutellaria alpina	blue-violet/purple-white 10-30cm 45 169	G
+1801	Scutellaria alpina	cream/pale magenta 10cm 175	G
+1802	Scutellaria alpina 'Arcobaleno'	yellow/blue/violet/pink mix 20-25cm 8	G
+1803	Scutellaria antirrhinoides	deep violet-blue 10-35cm 100	G
+1804	Scutellaria baicalensis	red-purple/blue-purple 30cm >	G
+1805	Scutellaria columnae	pale lavender-deep violet 40-100cm 93	G
+1806	Scutellaria diffusa	blue 25cm 175	G
+1807	Scutellaria incana	blue-purple 60-90cm 9 93	G
+1808	Scutellaria oreophila	pale yellow 12-20cm 77	G
+1809	Scutellaria ovata	blue-purple 40-60cm 103	G
+1810	Scutellaria parvula v leonardii	blue-violet 7-20cm 7	G
+1811	Scutellaria pontica	reddish-purple/magenta to 15cm 142	G
+1812	Scutellaria resinosa	deep violet-blue flr/grey-green lvs 10-20cm 100 112 156	G
+1813	Scutellaria salviifolia	yellow flr/grey lvs 5-15cm 100	G
+1814	Scutellaria sapphirina	blue 5cm 52	G
+1815	Scutellaria sieversii	yellowish 9-32cm 119	G
+1816	Scutellaria suffrutescens 'Texas Rose'	rose-red 10-15cm 175	G
+1817	Sedum acre	yellow 5-12cm 156	G
+1818	Sedum cepaea	pink/white 10-30cm 150 156	G
+1819	Sedum divergens	yellow 6-10cm 134	G
+1820	Sedum glaucophyllum	white 4-18cm 150	G
+1821	Sedum kamtschaticum 'Variegatum'	yellow flr/creamy margin lvs to 15cm 156	G
+1822	Sedum litorale	yellow to 30cm 156	G
+1823	Sedum nevii	white 6-9cm 156	G
+1824	Sedum populifolium	white-pale pink tinged 15-45cm 93	G
+1825	Sedum pulchellum	white-purple 6-23cm 156	G
+1826	Sedum rupestre 'Angelina'	yellow flr/golden lvs 10-15cm 156	G
+1827	Sedum tatarinowii	white-pinkish 8-15cm 156	G
+1828	Sempervivum arachnoideum	bright rose-red to 8cm 156	G
+1829	Sempervivum calcareum	pink flr/blue-green red tipped lvs 5-20cm 156	G
+1830	Sempervivum 'Desert Bloom'	pink flr/grey green-rosy lvs 7.5cm 147	G
+1831	Sempervivum heuffelii	pale yellow 7-20cm 156	G
+1832	Sempervivum heuffelii (mixed cultivars)	mix 95	G
+1833	Sempervivum hybrids/cultivars	mixed 68 169	G
+1834	Sempervivum montanum (cf)	 156	G
+1835	Senecio macrocephalus	pink-purple to 40cm 40 156 177	G
+1836	Senecio oxyriifolius	pale-golden yellow 40-110cm 126	G
+1837	Senecio polyodon	purple 45-60cm 167	G
+1838	Sequoia sempervirens	to 110m 11	G
+1839	Serratula coronata	purple 60-150cm 92	G
+1840	Serratula tinctoria	pink-purple 60-100cm 101	G
+1841	Seseli gummiferum	white-pink tinged flr/grey lvs to 90cm 129	G
+1842	Shortia galacifolia	white 10-18cm 5	G
+1843	Sidalcea 'Party Girl'	pink-magenta 45-90cm 5	G
+1844	Silene acaulis	pink 3-6cm 32	G
+1845	Silene acaulis 'Blush'	pale pink 8cm 41	G
+1846	Silene alpestris	white 12-20cm 46 64	G
+1847	Silene armeria	pink 20-40cm 151 173	G
+1848	Silene caroliniana ssp wherryi	bright pink 8-20cm 30	G
+1849	Silene chalcedonica	maroon 40-50cm 146	G
+1850	Silene chalcedonica	scarlet 35-100cm 26 129	G
+1851	Silene chalcedonica	white 50-100cm 101	G
+1852	Silene chalcedonica 'Carnea'	salmon-pink to 1m 175	G
+1853	Silene chalcedonica 'Pinkie'	pink-peach 60-75cm 151	G
+1854	Silene ciliata	white/pink to 30cm 32	G
+1855	Silene coronaria	magenta-pink flr/grey felted lvs 40-100cm 118 156	G
+1856	Silene coronaria	pink/white mix 60cm 158	G
+1857	Silene davidii	dark violet 4-8cm 119	G
+1858	Silene dioica	bright pink 30-60cm 36 122	G
+1859	Silene flos-jovis	pink 30-45cm 97 64 175	G
+1860	Silene fruticosa	pink/red to 50cm 126	G
+1861	Silene hookeri (aff)	red/white 5cm 69	G
+1862	Silene keiskei	white 5-20cm 49	G
+1863	Silene keiskei v akaisialpina	rose pink 5-10cm 41	G
+1864	Silene ovata	white 30-150cm 170	G
+1865	Silene petersonii	white/violet veining 5-15cm 77	G
+1866	Silene regia	red 50-160cm >	G
+1867	Silene saxifraga	white 10-20cm 15 184	G
+1868	Silene saxifraga	white/pink 10-20cm 119 150	G
+1869	Silene serpentinicola	scarlet red 4-15cm 77	G
+1870	Silene stellata	white 30-80cm 75	G
+1871	Silene suecica	bright pink 5-35cm 144 147	G
+1872	Silene uniflora	white flr/blue-green lvs to 15cm 144	G
+1873	Silene uniflora 'Compacta'	white-light pink flr/grey-green lvs 5-10cm >	G
+1874	Silene virginica	scarlet 20-80cm 68	G
+1875	Silene viscaria	rose pink/purple 30-60cm 49 122	G
+1876	Silene zawadzkii	white 15-30cm 119 142	G
+1877	Silphium laciniatum	yellow 1-3m 27 156	G
+1878	Silphium perfoliatum	yellow 75-300cm 90	G
+1879	Sinojackia rehderiana	white to 5m 135	G
+1880	Sinojackia xylocarpa	white to 7m 3	G
+1881	Sinopodophyllum hexandrum	mix 15-60cm 5	G
+1882	Sinopodophyllum hexandrum	pale pink flr/mottled lvs 15-60cm 129	G
+1883	Sinopodophyllum hexandrum	pink 15-60cm 94 101 64	G
+1884	Sinopodophyllum hexandrum	white 15-60cm 153	G
+1885	Sisyrinchium angustifolium	blue to 45cm 160	G
+1886	Sisyrinchium bellum	light blue-dark violet to 38cm 15	G
+1887	Sisyrinchium californicum	yellow 5-40cm 143	G
+1888	Sisyrinchium idahoense	bluish-violet to 45cm 112	G
+1889	Sisyrinchium macrocarpum	yellow/brown ring to 20cm 144	G
+1890	Sisyrinchium patagonicum	yellow/brown throat 10-30cm 64	G
+1891	Smyrnium perfoliatum	yellow to 90cm 149	G
+1892	Soldanella carpatica	deep blue 15cm 19	G
+1893	Soldanella hungarica	lilac-violet 10-15cm 43	G
+1894	Soldanella montana	blue-lilac to 15cm 19	G
+1895	Solidago caesia	yellow 35-80cm 3	G
+1896	Solidago leiocarpa	yellow 5-35cm 89	G
+1897	Solidago multiradiata (dwarf form)	yellow 8cm 112	G
+1898	Solidago odora	yellow 60-120m 93	G
+1899	Solidago ptarmicoides	white 10-40cm 31 75	G
+1900	Solidago flexicaulis	yellow 25-75cm 141	G
+1901	Sorbus filipes	crimson flr/dark red frt 1.5-4.5m 77	G
+1902	Sorbus reducta	white flr/pink-white frt 15-60cm 58	G
+1903	Sparaxis metelerkampiae	violet 15-30cm 29	G
+1904	Spartium junceum	pale yellow to 3m 156	G
+1905	Spigelia marilandica	red/yellow tip 30-60cm >	G
+1906	Spiloxene canaliculata	orange-yellow 10-35cm 34	G
+1907	Spiraea morrisonicola	pink 30cm 64	G
+1908	Spiraea salicifolia	pink 1-2m 181	G
+1909	Sporobolus heterolepis	30-70cm 117	G
+1910	Stachys albotomentosa	salmon flr/white felted lvs 30-45cm 76	G
+1911	Stachys macrantha	purple 45cm 113	G
+1912	Stachys officinalis 'Nana'	pink 15cm 163	G
+1913	Stachys officinalis 'Nana'	purple 15cm 151	G
+1914	Stachys spathulata	rose-purple 7-25cm >	G
+1915	Stanleya pinnata	yellow 30-120cm 129	G
+1916	Stewartia pseudocamellia	white 10-15m 5	G
+1917	Stewartia rostrata (moist packed)	white to 10m 62	G
+1918	Stewartia rostrata 'Pink Satin'	shell pink to 4m 33 113	G
+1919	Stokesia laevis	blue-purple/lilac 20-50cm 5	G
+1920	Stokesia laevis	mix 20-50cm 165	G
+1921	Stylophorum diphyllum	yellow to 50cm 129	G
+1922	Stylophorum diphyllum (moist packed)	yellow to 50cm 79	G
+1923	Stylophorum lasiocarpum	yellow 30-50cm 181	G
+1924	Styrax americanus	white to 5m 87	G
+1925	Styrax japonicus	white 4-8m 3	G
+1926	Styrax japonicus 'Fargesii'	white to 10m 33	G
+1927	Sutherlandia frutescens	red-orange flr/grey-green lvs 50-100cm 76	G
+1928	"Symphyotrichum (Aster) laeve ""Bluebird'"	violet-blue 90-120cm 5	G
+1929	Symphyotrichum (Aster) oblongifolium	rose/lavender/deep purple 10-80cm 5	G
+1930	Symphyotrichum (Aster) prenanthoides	blue-mauve 60-90cm 93	G
+1931	Symplocos paniculata	white flr/sapphire-blue frt 1-10m 135	G
+1932	Syneilesis aconitifolia	pink-white 70-120cm 101 178 184	G
+1933	Synthyris missurica	violet-blue 10-60cm 60	G
+1934	Talinum 'Kingwood Gold'	pink flr/chartreuse lvs 45-60cm 173	G
+1935	Tanacetum albipannosum	white flr/silver lvs 35cm 156	G
+1936	Tanacetum armenum	white to 10cm 156	G
+1937	Tanacetum parthenium 'Aureum'	white flr/chartreuse lvs to 30cm 39	G
+1938	Tanacetum parthenium 'Snowball'	double white to 30cm 8	G
+1939	Taraxacum albidum	white to 40cm 124	G
+1940	Taraxacum atrans	white/blush 2-8cm 100	G
+1941	Taraxacum faeroense	yellow flr/red-black lvs to 15cm 22 43	G
+1942	Taraxacum leucanthum	white/yellow center 15-30cm 43	G
+1943	Taraxacum pseudoroseum	pink/yellow center 10-20cm 177	G
+1944	Tecophilaea cyanocrocus	mixed forms to 10cm 34	G
+1945	Tecophilaea violiflora	blue/lilac/purple/white 15-30cm 34	G
+1946	Telekia speciosa	yellow 120-180cm 149	G
+1947	Telesonix jamesii	crimson-purple 6-18cm 156	G
+1948	Tellima grandiflora	greenish white-pinkish red 40-90cm 31	G
+1949	Tellima grandiflora Odorata Group	cream-green flr/fragrant 45-60cm 134	G
+1950	Tetraneuris acaulis	yellow 2-30cm 112	G
+1951	Tetraneuris herbacea	yellow 6-35cm 156	G
+1952	Tetraneuris scaposa	yellow 14-40cm 52 78	G
+1953	Tetraneuris sp (ex New Mexico)	 156	G
+1954	Teucrium botrys	pink-purple 10-30cm 156	G
+1955	Teucrium hircanicum	deep purple-reddish 45-60cm 4 143 175	G
+1956	Teucrium orientale	lilac-blue 20-50cm 32 45 100	G
+1957	Teucrium pyrenaicum	cream/lavender 15-25cm 67	G
+1958	Teucrium scorodonia	pale green/yellowish 30-60cm 93	G
+1959	Teucrium spinosum	whitish 10-25cm 4	G
+1960	Thalictrum aquilegiifolium	lilac-purple to 90cm 155	G
+1961	Thalictrum aquilegiifolium	white/pink/lavender mix 1-1.5m 175	G
+1962	Thalictrum baicalense	greenish white 40-80cm 169	G
+1963	Thalictrum coriaceum	white-purplish 65-150cm 138	G
+1964	Thalictrum pubescens	white-purplish 50-300cm 47	G
+1965	Thalictrum rochebruneanum	lavender-purple 120-180cm 40 155 175	G
+1966	Thalictrum speciosissimum	yellow flr/blue-grey lvs 90-150cm 101	G
+1967	Thalictrum tuberosum	cream to 40cm 64	G
+1968	"Thelocactus bicolor (ex Starr Co, Texas)"	violet-red 20cm 28	G
+1969	Thermopsis lupinoides	yellow 50-80cm 78 129	G
+1970	Thermopsis villosa	yellow 90-150cm >	G
+1971	Thlaspi bellidifolium	lilac-purple 2-5cm 109	G
+1972	Thlaspi minimum	white 5-10cm 112 150	G
+1973	Thlaspi praecox	white 10-20cm 124	G
+1974	Thlaspi zaffranii	white-pale pink flr/grey-green lvs 3-5cm 109	G
+1975	Tiarella cordifolia	white 15-40cm 5	G
+1976	Tigridia chiapensis	white 30cm 114	G
+1977	Tigridia pavonia	mix 25-75cm 175	G
+1978	Tigridia pavonia	red-orange 50-100cm 114	G
+1979	Tigridia vanhouttei	cream/purple-brown veins to 70cm 114	G
+1980	Townsendia hookeri	white 1-3cm >	G
+1981	Townsendia incana	white 2-12cm 164	G
+1982	Townsendia 'Jeannie's Purple'	lavender-purple 2.5cm 112 130	G
+1983	Townsendia leptotes	pink 1-3cm 118	G
+1984	Townsendia montana	mix 2cm 118 164	G
+1985	Townsendia parryi	blue-purplish 5-12cm 68 130	G
+1986	Townsendia parryi	mauve 5-12cm 34	G
+1987	Townsendia rothrockii	blue-purplish 1-3cm >	G
+1988	Townsendia rothrockii	lilac/mauve 1-3cm 130	G
+1989	Townsendia scapigera	white 3-5cm 164	G
+1990	Townsendia sp	pink 118	G
+1991	Townsendia sp	white 118	G
+1992	Townsendia spathulata	white-pinkish 1-2cm 112 154	G
+1993	Toxicoscordion (Zigadenus) venenosum	cream 20-70cm 38	G
+1994	Tragopogon capitatus	yellow 40-100cm 152	G
+1995	Trichophorum alpinum	white 10-40cm 66	G
+1996	Trichostema dichotomum	blue 15-70cm 168	G
+1997	Tricyrtis ex 'Angel's Halo'	white/lilac spots to 1m 5	G
+1998	Tricyrtis formosana 'Autumn Glow'	white/purple spotted flr/yellow variegated lvs 25-80cm 136	G
+1999	Tricyrtis latifolia	yellow/reddish spots 40-100cm >	G
+2000	Tricyrtis macropoda	white/purple spots 60-75cm 172	G
+2001	Tricyrtis macropoda 'Yungi Temple Form'	white/purple spots to 150cm 115	G
+2002	Tricyrtis puberula	yellowish-green/purplish-brown spots to 70cm 66	G
+2003	Trifolium badium	yellow-brown 10-25cm 39	G
+2004	Trifolium rubens	rosy-red 40-60cm 92	G
+2005	Trifolium trichocephalum	cream 30-70cm 119	G
+2006	Trillium chloropetalum	mix flr/mottled lvs 20-65cm 161	G
+2007	Trillium cuneatum (moist packed)	bronze/very dark red 25	G
+2008	Trillium cuneatum (moist packed)	maroon to 45cm 169	G
+2009	Trillium erectum (moist packed)	mix 15-60cm 25	G
+2010	Trillium erectum (moist packed)	red/maroon-dark purple 15-60cm 169	G
+2011	Trillium flexipes (moist packed)	pink ovaries 25	G
+2012	Trillium flexipes hybrid (moist packed)	red flr/white ovary 20-50cm 169	G
+2013	Trillium flexipes hybrid (moist packed)	reddish-brown over cream/white ovary to 50cm 169	G
+2014	Trillium grandiflorum (moist packed)	white 15-30cm 169	G
+2015	Trillium kurabayashii (moist packed)	red-purple flr/mottled lvs 25-55cm 25	G
+2016	Trillium luteum (moist packed)	greenish-lemon yellow 15-40cm 5	G
+2017	Trillium parviflorum	white 17-30cm 161	G
+2018	Trillium parviflorum x kurabayashii	white 17-30cm 161	G
+2019	Trillium recurvatum (moist packed)	dark maroon purple-yellow 15-48cm 169	G
+2020	Trillium sp (sessile type) (moist packed)	dark maroon 20cm 124	G
+2021	Trillium sulcatum (moist packed)	cream white 30-70cm 25	G
+2022	Tripora divaricata	blue to 80cm 155	G
+2023	Tripsacum dactyloides	60-90cm 7	G
+2024	Triteleia ixioides	pale-bright yellow to 50cm 64	G
+2025	Triteleia laxa	pale blue/deep purple 10-70cm 17	G
+2026	Tritonia disticha	pink 50cm 64	G
+2027	Trollius chinensis	orange 20-80cm 158	G
+2028	Trollius chinensis 'Golden Queen'	orange-yellow 60-90cm 154	G
+2029	Trollius cultorum (x) 'Lemon Queen'	yellow 30-60cm 103	G
+2030	Trollius hondoensis	yellow-orange 40-60cm 73 64	G
+2031	Trollius pumilus	yellow 5-25cm 19	G
+2032	Tropaeolum austropurpureum	violet-purple 180cm 34	G
+2033	Tropaeolum polyphyllum	golden yellow flr/blue-grey lvs 20cm 114	G
+2034	Tulipa biflora	white w/yellow base/purplish-green reverse 10-15cm 57	G
+2035	Tulipa celsiana	yellow/red-tinged reverse 10-15cm 169	G
+2036	Tulipa clusiana 'Lady Jane'	white/rose-red reverse 20-30cm 16 139	G
+2037	Tulipa clusiana v chrysantha	yellow/red reverse 13-30cm 72	G
+2038	"Tulipa iliensis (ex Tian Shan, Kyrgyzstan)"	 83	G
+2039	Tulipa saxatilis ssp bakeri 'Lilac Wonder'	pinkish lilac 7.5-20cm 30	G
+2040	Tulipa sprengeri	bright red/scarlet 20-40cm >	G
+2041	Tulipa sprengeri 'Trotters Form'	red to 50cm 37	G
+2042	Tulipa sylvestris	yellow to 45cm 82 124 144	G
+2043	Tulipa sylvestris ssp australis	yellow/red reverse to 40cm 156	G
+2044	Tulipa tarda	yellow/white tips 5-20cm 49 118 169	G
+2045	Tulipa turkestanica 'Nuratau'	white-yellow center/grey-violet reverse 15-30cm 35	G
+2046	Urospermum dalechampii	yellow 25-40cm 170	G
+2047	Uvularia grandiflora (moist packed)	yellow 20-75cm 169	G
+2048	Veltheimia bracteata	pale-deep pink/greenish yellow 20-40cm 20	G
+2049	Veltheimia bracteata	salmon 20-40cm 13	G
+2050	Veratrum californicum	creamy white 1-2.5m 134	G
+2051	Veratrum formosanum	dark purple 30cm 156	G
+2052	Veratrum nigrum	black-purple to 1m 39	G
+2053	Verbascum alpinum	pale yellow 50-120cm 39	G
+2054	Verbascum bombyciferum	yellow flr/grey-white felted lvs 150-180cm 129 156	G
+2055	Verbascum bombyciferum 'Arctic Snow'	yellow flr/white woolly lvs to 1.5m 86	G
+2056	Verbascum chaixii ssp austriacum	yellow 60-130cm 39	G
+2057	Verbascum longifolium	yellow flr/grey woolly lvs 50-150cm 39	G
+2058	Verbascum lychnitis	white-yellow flr/white woolly under lvs-stems to 150cm 156	G
+2059	Verbascum phoeniceum	purple 30-100cm 144	G
+2060	Verbascum roripifolium	yellow to 1.2m 156	G
+2061	Verbena bonariensis (PI)	lavender-rose purple to 180cm 31 129	G
+2062	Verbena hastata	blue-violet 35-150cm 92	G
+2063	Verbena hastata 'Rosea'	pale pink 60-150cm 9	G
+2064	Verbena simplex	white-lavender 20-60cm 75	G
+2065	Verbesina alternifolia	yellow 1-2m 87	G
+2066	Vernonia fasciculata	purple 30-120cm 87	G
+2067	Vernonia larseniae	purple flr/silver woolly lvs 70-100cm 156	G
+2068	Vernonia noveboracensis	purple 80-120cm 148	G
+2069	Veronica bachofenii	blue 20-30cm 93	G
+2070	Veronica fruticans	dark blue 5-10cm 15 27 32	G
+2071	Veronica gentianoides	pale blue 30-40cm 175	G
+2072	Veronica 'Giles van Hees'	reddish-pink 7-15cm 147	G
+2073	Veronica porphyriana	blue-purple 20-30cm 156	G
+2074	Veronica prostrata	blue 10-20cm 56	G
+2075	Veronicastrum virginicum	blue/white 80-200cm 2	G
+2076	Veronicastrum virginicum	pale blue 80-200cm 148	G
+2077	Veronicastrum virginicum	white 80-200cm 155	G
+2078	Viburnum nudum 'Brandywine'	white flr/pink-blue frt to 180m 155	G
+2079	Viola altaica	blue-purple 4-15cm 110	G
+2080	Viola brittoniana	light reddish-violet 5-30cm 179	G
+2081	Viola canadensis	white 3-45cm 90	G
+2082	Viola cornuta	violet-blue 20-30cm 64	G
+2083	Viola cornuta	white 20-30cm 64	G
+2084	Viola labradorica	lavender-violet 5-20cm 179	G
+2085	Viola odorata 'Wellsiana'	deep purple to 10cm 181	G
+2086	Viola rupestris	purple 5-10cm 93	G
+2087	Woodsia ilvensis	4.5-25cm 44	G
+2088	Wulfenia carinthiaca	deep violet-blue 20-30cm 128 175	G
+2089	Wyethia amplexicaulis	yellow 25-50cm 154	G
+2090	Xanthisma (Aster) coloradoense	pink 2.5-14cm 118	G
+2091	Xanthisma (Aster) coloradoense	pink-purple 2.5-14cm 100 154	G
+2092	Xanthisma (Aster) coloradoense (alpine form)	deep pink 2.5cm 20	G
+2093	Xanthisma (Aster) coloradoense (alpine form)	pink-purple 10cm 32	G
+2094	Xerophyllum asphodeloides	creamy white 80-100cm 137	G
+2095	"Yucca baccata (ex Mt Charleston, Nevada)"	cream/red on stem 90cm 86	G
+2096	Zephyra elegans	blue/white 20-60cm 34	G
+2097	Zephyranthes 'Capricorn'	pink/orange 30cm 81	G
+2098	Zephyranthes drummondii	white 16-45cm 4 10	G
+2099	Zephyranthes fosteri (cf)	pink 25cm 173	G
+2100	Zephyranthes katheriniae	red 20cm 107	G
+2101	Zephyranthes miradorensis	deep pink/white 20-35cm 107	G
+2102	Zephyranthes morrisclintii	rose pink 25cm 10	G
+2103	Zephyranthes primulina	yellow 15cm 10 107 167	G
+2104	Zephyranthes reginae	yellow 15-30cm 10	G
+2105	Zephyranthes rosea	rose 15cm 10	G
+2106	Zephyranthes 'Sunset Strain'	orangey-pink 25cm 167	G
+2107	Zinnia grandiflora	yellow 8-22cm 144 156	G
+2108	Zizia aptera	yellow 30-90cm 6	G
+2109	Zizia aurea	yellow 40-75cm >	G
+2110	Anemone sp	red 25cm 188	G
+2111	Aquilegia flabellata  Cameo Series	red/white 25cm 188	G
+2112	Pulsatilla tatewakii	bright violet 15-25cm 188	G
+3001	Aconitum columbianum ssp columbianum	"dark blue-purple 1-1.5m Washington: Wenatchee Mtns, Kittitas Co 1733m 175"	W
+3002	Actaea rubra	white 90cm Oregon: Wrangle Gap 1890m 127	W
+3003	Actaea rubra (moist packed)	white flr/red frt 61cm Massachusetts: Egremont 54	W
+3004	Agalinis tenuifolia	purple 20-80cm Virginia: Scott Co 176	W
+3005	Agastache urticifolia	purple 75cm Oregon: Mt Ashland 2073m 127	W
+3006	Agastache urticifolia	white 70cm Utah: Cache Co 2743m 164	W
+3007	Agave utahensis ssp utahensis	white/yellow 30cm Utah: Beaver Dam Mtns 1219m 86	W
+3008	Agoseris elata	yellow 25cm Oregon: Black Butte 1036m 127	W
+3009	Allium acuminatum	"hot pink, some white 20cm Colorado: Mesa Co 78"	W
+3010	Allium acuminatum	purply-pink 20cm Oregon: W of Shaniko 64	W
+3011	Allium amplectens	"white/lilac centers 15-25cm California: Inner North Coast Ranges, Lake Co 695m 175"	W
+3012	Allium atrosanguineum	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3013	Allium carolinianum	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3014	Allium cernuum	"pink 30cm Canada: Vancouver Island, BC 187"	W
+3015	Allium cratericola	"pale pink 5cm California: High North Coast Ranges, Mendocino Co 1827m 175"	W
+3016	Allium falcifolium	"red-violet 6-8cm California: Inner North Coast Ranges, Lake Co 614m 175"	W
+3017	Allium textile	white 15-20cm Colorado: Douglas Co 2250m 144	W
+3018	Allium tricoccum	white 15cm North Carolina: Jackson Co 53	W
+3019	Amorpha californica	California: S Central San Bernardino Mtns 2230m 177	W
+3020	Androsace rigida	"China: Zhongdian, NapaHai, Yunnan 174"	W
+3021	Anemone drummondii	white 40cm Oregon: Dutchman Peak 2073m 127	W
+3022	Anemone occidentalis	"Washington: Chinook Pass, Pierce Co 1660m 177"	W
+3023	Anemone occidentalis	"white 25cm Canada: Mt Thynne, BC 64"	W
+3024	Angelica arguta	white 100cm Oregon: Mt Ashland 2073m 127	W
+3025	Antennaria rosea	pink 2.5cm Oregon: Klamath Co 71	W
+3026	Antirrhinum vexillocalyculatum ssp breweri	"purple 75cm California: Inner North Coast Ranges, Lake Co 488m 175"	W
+3027	Aquilegia canadensis	red/yellow 20-45cm Massachusetts: Granby 48	W
+3028	Aquilegia coerulea	purple/white 20cm Colorado: Leadville 154	W
+3029	Aquilegia formosa	"red/yellow 30cm California: Northern Sierra Nevada, Plumas Co 1951m 175"	W
+3030	Aralia californica	"white 1.5-2m California: Northern Sierra Nevada, Sierra Co 907m 175"	W
+3031	Arctostaphylos canescens	"white flr/blue-grey lvs 1-2m Oregon: Siskiyou Mtns, Josephine Co 1435m 175"	W
+3032	Arctostaphylos glandulosa ssp adamsii	"California: Laguna Mtns, San DIego Co 1850m 177"	W
+3033	Arctostaphylos patula	"California: San Bernardino Mtns, Bluff Lake 2320m 177"	W
+3034	Arisaema triphyllum	"20-30cm Massachusetts: Granby, Hampshire Co 48"	W
+3035	Arisaema triphyllum	green 25cm New Jersey: Morristown 91m 21	W
+3036	Aristolochia macrophylla	brown 3m North Carolina: Watauga Co 87	W
+3037	Arnica latifolia	yellow 30cm Oregon: Dutchman Peak 2073m 127	W
+3038	Asclepias eriocarpa/californica	possibly mixed California: NW San Bernardino Mtns 1460m 177	W
+3039	Asclepias exaltata	white/green 120cm North Carolina: Watauga Co 87	W
+3040	Asclepias fascicularis	California: NW San Bernardino Mtns 550m 177	W
+3041	Aspidotis densa	15cm Oregon: Big Red Mtn 2012m 127	W
+3042	Astragalus curvicarpus v brachycodon	cream 25cm Oregon: Sisters 1036m 127	W
+3043	Athyrium filix-femina	50-76cm New York: Central 33	W
+3044	Azorella trifurcata	Chile: Laguna del Laja 174	W
+3045	Balsamorhiza careyana	yellow 50cm Oregon: Black Butte 1036m 127	W
+3046	Balsamorhiza sagittata	"Washington: Banks Lake, Grant Co 550m 177"	W
+3047	Botrychium multifidum	"green 15-20cm California: Northern Sierra Nevada, Plumas Co 1644m 175"	W
+3048	Boykinia major	"white 50-60cm Oregon: Siskiyou Mtns, Jackson Co 2096m 175"	W
+3049	Boykinia occidentalis	"white 20-30cm California: Inner North Coast Ranges, Lake Co 1167m 175"	W
+3050	Brickellia greenei	"white/discoid flr/fragrant lvs 20-30cm California: High North Coast Ranges, Mendocino Co 1902m 175"	W
+3051	Brodiaea californica	"lavender-blue violet 50cm California: N Sierra Nevada Foothills, Butte Co 960m 175"	W
+3052	Caiophora coronata	Chile: Valle Nevado 174	W
+3053	Calceolaria arachnoidea	Chile: Teno-Vergara 174	W
+3054	Calceolaria cavanillesii	Chile: Laguna del Maule 174	W
+3055	Calceolaria filicaulis	Chile: Valle Nevado 174	W
+3056	Callianthemum alatavicum	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3057	Calochortus albus	"white 20-30cm California: N Sierra Nevada Foothills, Butte Co 678m 175"	W
+3058	Calochortus albus	"white/pale red 20-30cm California: C Sierra Nevada Foothills, Mariposa Co 782m 175"	W
+3059	Calochortus amabilis	"dark yellow 10-20cm California: Inner North Coast Ranges, Lake Co 460m 175"	W
+3060	Calochortus amabilis	yellow 20cm California: Ukiah 24	W
+3061	Calochortus ambiguus	white 30cm Arizona: Coconino Co 1	W
+3062	Calochortus gunnisonii	purple 45cm Arizona: Gila Co 1326m 1	W
+3063	Calochortus invenustus (cf)	California: NE San Bernardino Mtns 2240m 177	W
+3064	Calochortus kennedyi	California: NE San Bernardino Mtns 1860m 177	W
+3065	Calochortus leichtlinii	"white/dark purple crescent 15-20cm California: Northern Sierra Nevada, Sierra Co 1733m 175"	W
+3066	Calochortus luteus x C superbus (variable in shape)	"white-bright yellow/red gland 16-20cm California: Inner North Coast Ranges, Lake Co 481m 175"	W
+3067	Calochortus macrocarpus	lilac 40cm Oregon: near Clarno 64	W
+3068	Calochortus macrocarpus v macrocarpus	"lavender 20-30cm Washington: E Cascade Foothills, Yakima Co 696m 175"	W
+3069	Calochortus nuttallii	white 5-10cm Utah: Abajo Mtns 2400m 46	W
+3070	Calochortus nuttallii	white/pink 30cm Colorado: Mesa Co 78	W
+3071	Calochortus splendens (cf)	"California: Laguna Mtns, San DIego Co 1440m 177"	W
+3072	Calochortus splendens (cf)	"dark lavender 16-20cm California: Inner North Coast Ranges, Lake Co 614m 175"	W
+3073	Calochortus superbus	"white-pale purple/yellow halo 15-20cm California: C Sierra Nevada Foothills, Mariposa Co 854m 175"	W
+3074	Caltha biflora	"white 25cm Canada: Mt Thynne, BC 64"	W
+3075	Caltha sagittata	Chile: Lagunas de Teno 174	W
+3076	Calycanthus floridus	maroon 3m North Carolina: Jackson Co 53	W
+3077	Calystegia occidentalis ssp occidentalis	"palest yellow twining to 1-2m California: Inner North Coast Ranges, Lake Co 1130m 175"	W
+3078	Camassia quamash	"blue 25cm Canada: Victoria, BC 187"	W
+3079	Carex stricta	25cm Ohio: Vinton Co 7	W
+3080	Castilleja applegatei	orange 30cm Oregon: Donomore 1890m 127	W
+3081	Castilleja applegatei	orange 30cm Oregon: Dutchman Peak 2073m 127	W
+3082	Castilleja arachnoidea	"pale yellow/chartreuse 10cm California: Siskiyou Mtns, Siskiyou Co 1978m 175"	W
+3083	Castilleja integra	orange 10-40cm Colorado: Douglas Co 1890m 144	W
+3084	Castilleja linariifolia	"orange 60cm Colorado: Owl Creek Pass, Ouray Co 78"	W
+3085	Castilleja peckiana	orange 30cm Oregon: Black Butte 1036m 127	W
+3086	Castilleja thompsonii	"yellow/purple 10-15cm Washington: E Cascade Range, Yakima Co 1816m 175"	W
+3087	Caulophyllum thalictroides (moist packed)	white flr/blue fruit 61cm Massachusetts: Egremont 54	W
+3088	Ceanothus cordulatus	"California: San Bernardino Mtns, Bluff Lake 2320m 177"	W
+3089	Cercis occidentalis	"bright rose-violet 3-6m California: C Sierra Nevada Foothills, Mariposa Co 837m 175"	W
+3090	Cercocarpus betuloides	"California: Laguna Mtns, San DIego Co 1850m 177"	W
+3091	Chamaecrista nictitans	yellow 25cm North Carolina: Jackson Co 53	W
+3092	Chimaphila maculata	Connecticut: Franklin 5	W
+3093	Chimaphila maculata	Connecticut: Southeast 178	W
+3094	Chlorogalum pomeridianum v pomeridianum	"white 75-100cm California: Inner North Coast Ranges, Lake Co 614m 175"	W
+3095	Chrysolepis sempervirens	"white 2-3m California: Northern Sierra Nevada, Sierra Co 1823m 175"	W
+3096	Clarkia rhomboidea	pink 40cm Oregon: Black Butte 127	W
+3097	Clarkia sp	Oregon: Cascade Mtns 64	W
+3098	Clematis alpina ssp sibirica	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3099	Clematis lasiantha	"creamy-white 3-6m California: C Sierra Nevada Foothills, Mariposa Co 609m 175"	W
+3100	Clematis occidentalis v dissecta	"violet-purple 75-100cm Washington: Wenatchee Mtns, Kittitas Co 1794m 175"	W
+3101	Clematis viorna	pink to 4m North Carolina: Watauga Co 62	W
+3102	Clintonia borealis	"15-25cm Vermont: Morristown, Lamoille Co 48"	W
+3103	Clintonia borealis	greenish yellow 25cm Maine: at sea level 21	W
+3104	Clintonia borealis	yellow 10-15cm Michigan: Alger Co 12	W
+3105	Clintonia borealis	yellow 30cm New Hampshire: Hillsboro Co 137	W
+3106	Cornus canadensis	white 10cm Maine: at sea level 21	W
+3107	Cornus nuttalli	California: SW San Bernardino Mtns 1720m 177	W
+3108	Cornus nuttalli	"white 4-6m California: Northern Sierra Nevada, Sierra Co 1500m 175"	W
+3109	Cornus sessilis	"white 4m California: Northern Sierra Nevada, Sierra Co 907m 175"	W
+3110	Cremanthodium campanulatum	"China: Daxue Shan, Yunnan 174"	W
+3111	Cryptantha paradoxa	white 5cm Utah: Duchesne Co 164	W
+3112	Cucurbita foetidissima	yellow flr/blue lvs vine 30cm Utah: Kane Co 80	W
+3113	Cypripedium acaule	"pink 10-45cm Canada: Hillgrove, Nova Scotia 94"	W
+3114	Delphinium glaucum	purple 150cm Oregon: Mt Ashland 2073m 127	W
+3115	Desmodium ciliare	blue/purple 50cm Massachusetts: West Tisbury 125	W
+3116	Dichelostemma congestum	"blue-purple 40-50cm California: Inner North Coast Ranges, Lake Co 506m 175"	W
+3117	Dichelostemma multiflorum	"pale violet 30-40cm California: N Sierra Nevada Foothills, Butte Co 678m 175"	W
+3118	Dichelostemma volubile	"rose-pink 0.5-1m twining California: C Sierra Nevada Foothills, Mariposa Co 831m 175"	W
+3119	Diplacus grandiflorus	"melon orange 20cm California: N Sierra Nevada Foothills, Nevada Co 756m 175"	W
+3120	Dodecatheon amethystinum	purple/red 30cm Pennsylvania: Lancaster Co 50	W
+3121	Dodecatheon hendersonii	"pink 20cm Canada: Victoria, BC 187"	W
+3122	Dodecatheon hendersonii	"violet 20cm Oregon: Klamath Mtns, Douglas Co 246m 175"	W
+3123	Dodecatheon jeffreyi	"lavender-violet 20-30cm California: High North Coast Ranges, Glenn Co 175"	W
+3124	Dodecatheon jeffreyi	pink 30cm Oregon: Cascade Mtns 64	W
+3125	Draperia systyla	"white-pale lavender 10-20cm California: Northern Sierra Nevada, Plumas Co 1438m 175"	W
+3126	Dryas octopetala ssp hookeriana	white 5cm Colorado: Summit Co 78	W
+3127	Dudleya abramsii ssp affinis	California: San Bernardino Mtns 2260m 177	W
+3128	Echinacea pallida	"pink 90-100cm Arkansas: Ozark Prairie, Boone Co 28"	W
+3129	Echinacea paradoxa	"yellow 40-90m Missouri: Dolomite Glades, Taney Co 28"	W
+3130	Ehrendorferia (Dicentra) chrysantha	"dark yellow 1m California: C Sierra Nevada Foothills, Mariposa Co 856m 175"	W
+3131	Elymus hystrix	Michigan: Kent Co 141	W
+3132	Emmenanthe penduliflora v penduliflora	"pale yellow flr/fragrant lvs 30cm California: Inner North Coast Ranges, Lake Co 614m 175"	W
+3133	Epilobium canum ssp canum	"California: San Jacinto Mtns, Riverside Co 1845m 177"	W
+3134	Epilobium canum ssp latifolium	California: SW San Bernardino Mtns 1725m 177	W
+3135	Epilobium canum ssp latifolium	"red 20cm California: Northern Sierra Nevada, Sierra Co 1392m 175"	W
+3136	Eremogone (Arenaria) congesta v crassula	"white 10-20cm California: High North Coast Ranges, Glenn Co 2064m 175"	W
+3137	Eremogone (Arenaria) hookeri v hookeri	white 2.5cm Utah: Duchesne Co 164	W
+3138	Eremurus altaicus	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3139	Ericameria cuneata	"California: Laguna Mtns, San DIego Co 1665m 177"	W
+3140	Ericameria nauseosa	yellow 30cm Oregon: Crane Prairie 1402m 127	W
+3141	Ericameria nauseosa v nauseosa	yellow 60cm Colorado: Boulder Co 132	W
+3142	Erigeron aurantiacus	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3143	Erigeron compositus	white 6cm Colorado 2134m 52	W
+3144	Eriogonum compositum	yellow Oregon: Klamath Co 71	W
+3145	Eriogonum diclinum	"bright yellow flr/silver-blue lvs 2-4cm California: Siskiyou Mtns, Siskiyou Co 2110m 175"	W
+3146	Eriogonum umbellatum v modocense	"lemon yellow/orange-red tints 10-20cm California: N Sierra Nevada, Sierra Co serpentine 1735m 175"	W
+3147	Eriogonum umbellatum v modocense	"lemon yellow/orange-red tints 20-25cm California: Siskiyou Mtns, Siskiyou Co blue schist 1978m 175"	W
+3148	Eriogonum umbellatum v polyanthum (cf)	"yellow 20-30cm California: N Sierra Nevada, Sierra Co serpentine 1402m 175"	W
+3149	Eriogonum ursinum v ursinum	pale yellow 4-10cm California: N Sierra Nevada Sierra Co volcanic tuff 1707m 175	W
+3150	Eriogonum ursinum v ursinum	"pale yellow 4-10cm California: N Sierra Nevada, Sierra Co serpentine 1402m 175"	W
+3151	Eriophorum angustifolium	"Washington: Miner's Ridge, Pierce Co 1820m 177"	W
+3152	Eriophyllum confertiflorum	California: S Central San Bernardino Mtns 2345m 177	W
+3153	Eritrichium tianschanicum	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3154	Eryngium yuccifolium	"50-60cm Arkansas: Ozark Prairie, Boone Co 28"	W
+3155	Erysimum arenicola	"yellow 10cm Canada: Vancouver Island, BC 2000m 187"	W
+3156	Erythronium citrinum v citrinum	"creamy-white 10-15cm Oregon: Siskiyou Mtns, Josephine Co 2060m 175"	W
+3157	Erythronium grandiflorum	"yellow 25cm Canada: Cascades, BC 64"	W
+3158	Erythronium grandiflorum	yellow 20cm Oregon: Dutchman Peak 2073m 127	W
+3159	Erythronium grandiflorum ssp grandiflorum	"yellow 20-30cm Washington: Wenatchee Mtns, Kittitas Co 1768m 175"	W
+3160	Erythronium montanum	white 20cm Oregon: Mt Hood 104	W
+3161	Erythronium multiscapideum	"white 10-15cm California: N Sierra Nevada Foothills, Butte Co 701m 175"	W
+3162	Erythronium oregonum ssp leucandrum	"pale cream 10-15cm Oregon: Klamath Mtns, Douglas Co ultramafic substrate 175"	W
+3163	Erythronium revolutum	"pink 10cm Canada: Vancouver Island, BC 187"	W
+3164	Frangula californica	California: SW San Bernardino Mtns 1865m 177	W
+3165	Frangula caroliniana	red frt to 11m Virginia: Scott Co 176	W
+3166	Frasera albicaulis v nitida	"dark blue 30cm Oregon: Siskiyou Mtns, Jackson Co 1492m 175"	W
+3167	Frasera speciosa	green 1.5m Utah: La Sal Mtns 78	W
+3168	Frasera speciosa	"yellow-green/purple spots 1-1.5m California: High North Coast Ranges, Glenn Co 1973m 175"	W
+3169	Fraxinus dipetala	"white 3-5m California: C Sierra Nevada Foothills, Mariposa Co 175"	W
+3170	Fritillaria affinis	"brown/yellow 45cm Canada: Ruxton Island, BC 187"	W
+3171	Fritillaria affinis	"darker forms 15-25cm California: Inner North Coast Ranges, Lake Co 460m 175"	W
+3172	Fritillaria affinis	"green-yellow/fine red-brown mottling 30-50cm California: Inner North Coast Ranges, Lake Co 1128m 175"	W
+3173	Fritillaria affinis	tan 25cm California: Ukiah 24	W
+3174	Fritillaria pudica	yellow 20cm Washington: N Cascades Hwy 64	W
+3175	Fritillaria purdyi	"translucent white/brown striations 5-10cm California: High North Coast Ranges, Glenn Co 2019m 175"	W
+3176	Fritillaria recurva	"red 50-75cm California: High North Coast Ranges, Glenn Co 1626m 175"	W
+3177	Fritillaria striata	"white 20cm California: Tejon Ranch Conservancy, Kern Co 18"	W
+3178	Gagea (Lloydia) serotina	white/yellow 20cm Colorado: Hoosier Pass 154	W
+3179	Gaillardia pinnatifida	red/yellow 45cm Colorado 1890m 52	W
+3180	Genista tinctoria (PI)	Czech Republic: SE Moravia 93	W
+3181	Gentianella amarella	purple 25cm Oregon: Coast 64	W
+3182	Gentianopsis barbata	"China: Zhongdian, NapaHai, Yunnan 174"	W
+3183	Geranium maculatum	pink 38cm Connecticut: New Hartford 163	W
+3184	Geum peckii	yellow 40cm New Hampshire: Coos Co 137	W
+3185	Gillenia trifoliata	white 60cm Ohio: Vinton Co 7	W
+3186	Hastingsia alba	white 40cm California: Hornbrook 671m 127	W
+3187	Helenium bigelovii	yellow 50cm Oregon: Mt Ashland 2073m 127	W
+3188	Helianthus mollis	"yellow 70-80cm Arkansas: Ozark Prairie, Boone Co 28"	W
+3189	Helianthus occidentalis	"yellow 90-100cm Arkansas: Ozark Prairie, Boone Co 28"	W
+3190	Hesperoyucca whipplei	"California: Laguna Mtns, San DIego Co 1670m 177"	W
+3191	Hesperoyucca whipplei	California: NW San Bernardino Mtns 1470m 177	W
+3192	Hesperoyucca whipplei	"California: San Jacinto Mtns, Riverside Co 1815m 177"	W
+3193	Hesperoyucca whipplei	California: SW San Bernardino Mtns 1430m 177	W
+3194	Heteromeles arbutifolia	"California: Laguna Mtns, San DIego Co 1420m 177"	W
+3195	Heuchera micrantha v diversifolia	"white 50cm/panicles 10cm Washington: Cascade Range, Kittitas Co 1252m 175"	W
+3196	Heuchera parviflora	"light yellow 25cm Colorado: Glade Park, Mesa Co 78"	W
+3197	Heuchera villosa	white 30cm North Carolina: Watauga Co 62	W
+3198	Hosackia (Lotus) crassifolia	purple 100cm Oregon: Black Butte 127	W
+3199	Hydrangea arborescens	white 125cm Ohio: Vinton Co 7	W
+3200	Hypericum hirsutum	Czech Republic: SE Moravia 93	W
+3201	Ilex mucronata (moist packed)	insignificant flr/bright red frt 180cm Massachusetts: Tolland 54	W
+3202	Ionactis (Aster) linariifolia	lavender 22cm Connecticut: Canton 163	W
+3203	Ipomoea leptophylla	lavender/pink to 90cm Colorado: Douglas Co 1890m 144	W
+3204	Ipomopsis aggregata ssp aggregata	"red 30cm Washington: Wenatchee Mtns, Kittitas Co 1806m 175"	W
+3205	Iris chrysophylla	"pale yellow/violet veining 10-20cm Oregon: Klamath Mtns, Douglas Co 1083m 175"	W
+3206	Iris chrysophylla	white/violet 20cm Oregon: Donomore 1890m 127	W
+3207	Iris hookeri	blue 25cm Maine: Washington Co 137	W
+3208	Iris macrosiphon	"yellow/dark brown veining 10-20cm California: Inner North Coast Ranges, Lake Co 1131m 175"	W
+3209	Juniperus californica	"glaucous blue berries 4-8m California: Inner North Coast Ranges, Glenn Co 307m 175"	W
+3210	Kalmia microphylla v occidentalis	rose 25-30cm Oregon: Cascades 64	W
+3211	Keckiella breviflora v glabrisepala	"cream-pink/rose-purple lined 50-100cm California: High North Coast Ranges, Glenn Co 1755m 175"	W
+3212	Keckiella breviflora v glabrisepala	"cream-pink/rose-purple lined/glaucous lvs 1-1.5m California: Inner North Coast Ranges, Lake Co 986m 175"	W
+3213	Keckiella corymbosa	"carmine red 10-15cm California: High North Coast Ranges, Mendocino Co 1720m 175"	W
+3214	Keckiella corymbosa	"scarlet red 15-20cm California: Inner North Coast Ranges, Lake Co 1134m 175"	W
+3215	Keckiella ternata	California: SW San Bernardino Mtns 1150m 177	W
+3216	Leptarrhena pyrolifolia	"Washington: Miner's Ridge, Pierce Co 1820m 177"	W
+3217	Liatris mucronata	"purple 60cm Missouri: Dolomite Glades, Taney Co 28"	W
+3218	Liatris punctata	purple 45cm Colorado: Boulder Co 132	W
+3219	Lilium columbianum	"orange 75cm Canada: Cascades, BC 64"	W
+3220	Lilium columbianum	"orange-yellow 1-1.5m Washington: Cascade Range, Kittitas Co 1111m 175"	W
+3221	Lilium humboldtii ssp ocellatum	California: SE San Bernardino Mtns 1600m 177	W
+3222	Lilium pardalinum ssp pardalinum	"orange/red tips 75-100cm California: Northern Sierra Nevada, Plumas Co 1536m 175"	W
+3223	Lilium pardalinum ssp vollmeri	"orange-red 1-1.5m Oregon: Siskiyou Mtns, Jackson Co 1974m 175"	W
+3224	Lilium parryi	"California: San Bernardino Mtns, Big Bear Lake 2300m 177"	W
+3225	Lilium parryi	California: SE San Bernardino Mtns 2125m 177	W
+3226	Lilium washingtonianum ssp purpurascens	"white/purple throat 1.5-2m Oregon: Siskiyou Mtns, Josephine Co 1078m 175"	W
+3227	Lobelia siphilitica	Michigan: Barry Co 141	W
+3228	Lobelia siphilitica	Virginia: Grayson Co 79	W
+3229	Lobelia spicata	light purple 20-120cm Virginia: Scott Co 176	W
+3230	Lomatium canbyi	cream 20cm Oregon: Dutchman Peak 2073m 127	W
+3231	Lomatium nudicaule	Canada 161	W
+3232	Lomatium nudicaule	"yellow 40cm Canada: Victoria, BC 187"	W
+3233	Lomatium nudicaule	yellow 40cm Oregon: Donomore 1920m 127	W
+3234	Lomatium nudicaule	yellow 30cm Oregon: E of Shaniko 64	W
+3235	Lomatium utriculatum	"yellow 10cm Canada: Victoria, BC 187"	W
+3236	Lonicera hispidula	"dark pink 1-2m California: N Sierra Nevada Foothills, Nevada Co 777m 175"	W
+3237	Luetkea pectinata	"Washington: Miner's Ridge, Pierce Co 1820m 177"	W
+3238	Lupinus albicaulis v shastensis	purple 40cm Oregon: Diamond Lake 1046m 127	W
+3239	Lupinus andersonii	lilac 120cm Oregon: Jackson Gap 2134m 127	W
+3240	Lupinus argenteus	white/lavender 30-45cm Colorado: Douglas Co 1890m 144	W
+3241	Lupinus perennis	blue 60cm Michigan: Kent Co 141	W
+3242	Lygodesmia grandiflora	light purple 15cm Colorado: Mesa Co 78	W
+3243	Lysimachia quadrifolia	yellow 50cm Ohio: Vinton Co 7	W
+3244	Maianthemum (Smilacina) racemosum	Michigan: Kent Co 141	W
+3245	Maianthemum (Smilacina) racemosum	white 40cm Maine: Jackson 101	W
+3246	Maihuenia poeppigii	Chile: Shangri-La 174	W
+3247	Malacothamnus fremontii (cf)	California: NE San Bernardino Mtns 2240m 177	W
+3248	Meconopsis integrifolia	"China: Daxue Shan, Yunnan 174"	W
+3249	Medeola virginiana	"20-30cm Massachusetts: Chesterfield, Hampshire Co 48"	W
+3250	Medeola virginiana	"yellowish green 20-40cm Canada: Graywood, Nova Scotia 94"	W
+3251	Medeola virginiana (moist packed)	green 30cm Maine: Paris 105	W
+3252	Mentzelia laevicaulis	yellow 150cm California: Scott Valley 914m 127	W
+3253	Mentzelia nuda	white 60-90cm Colorado: Douglas Co 1750m 144	W
+3254	Mikania scandens (PI)	white to 4m North Carolina: Guilford Co 62	W
+3255	Mimulus cardinalis	"red/yellow 50-60cm California: Inner North Coast Ranges, Lake Co 488m 175"	W
+3256	Mimulus ringens	light violet 60cm Connecticut: New Hartford 163	W
+3257	Monarda luteola	yellow 40cm Texas: Henderson Co 28	W
+3258	Monardella odoratissima ssp discolor	"rose-violet 15-20cm Washington: E Cascade Foothills, Yakima Co 800m 175"	W
+3259	Monardella sheltonii	"rose-lavender 20-30cm Oregon: Klamath Mtns, Josephine Co 594m 175"	W
+3260	Monotropa uniflora	Connecticut: Southeast 178	W
+3261	Nama (Eriodictyon) lobbii	"red-purple 10cm California: Northern Sierra Nevada, Plumas Co 1665m 175"	W
+3262	Narthecium californicum	"yellow 30cm Oregon: Siskiyou Mtns, Josephine Co 556m 175"	W
+3263	Nassauvia glomerata	Chile: Lagunas de Teno 174	W
+3264	Nothochelone nemorosa	"dark red-purple 30cm Washington: Cascade Range, Kittitas Co 1111m 175"	W
+3265	Odontostomum hartwegii	"cream 20-30cm California: C Sierra Nevada Foothills, Mariposa Co 621m 175"	W
+3266	Oenothera pallida	white 25cm Washington: near Hancock Military Reserve 64	W
+3267	Opuntia sp	long white spines 40cm Arizona: Page 1255m 80	W
+3268	Orthocarpus cuspidatus	pink 20cm Oregon: Mt Ashland 2073m 127	W
+3269	Orthocarpus cuspidatus ssp cuspidatus	"white/bright rose bracts 10-15cm Oregon: Siskiyou Mtns, Jackson Co 2069m 175"	W
+3270	Osmundastrum cinnamomeum	60-90cm New York: Central 33	W
+3271	Paraquilegia anemonoides	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3272	Parnassia palustris	white 30cm Oregon: Dutchman Peak 2073m 127	W
+3273	Parnassia palustris	"white 10-15cm Oregon: Siskiyou Mtns, Jackson Co 2095m 175"	W
+3274	Passiflora lutea	pale yellow vine 122cm North Carolina: Wake Co 80	W
+3275	Pedicularis groenlandica	"Washington: Miner's Ridge, Pierce Co 1820m 177"	W
+3276	Pedicularis groenlandica	pink 60cm Oregon: Crane Prairie 1402m 127	W
+3277	Penstemon azureus ssp angustissimus	"dark blue-purple/red-violet tube/narrow lvs 25-35cm California: High North Coast Ranges, Mendocino Co 1889m 175"	W
+3278	Penstemon azureus ssp azureus	"blue 15-20cm California: Inner N Coast Ranges, Tehama Co serpentine substrate 934m 175"	W
+3279	Penstemon azureus ssp azureus	"blue/red-violet 20-25cm California: High N Coast Ranges, Tehama Co schist substrate 1462m 175"	W
+3280	Penstemon caesius	California: S Central San Bernardino Mtns 2345m 177	W
+3281	Penstemon caesius	"California: San Bernardino Mtns, Big Bear Lake 2300m 177"	W
+3282	Penstemon cardwellii	purple 20cm Oregon: Santiam Pass 1463m 127	W
+3283	Penstemon cardwellii	purple 25cm Washington: Mt St Helen 64	W
+3284	Penstemon centranthifolius (cf)	California: NW San Bernardino Mtns 1460m 177	W
+3285	Penstemon cinicola	purple-blue 30cm Oregon: Crane Prairie 1402m 127	W
+3286	Penstemon deustus	white 30cm California: Hornbrook 671m 127	W
+3287	Penstemon deustus v pedicellatus	"white/brown penciling 25cm California: Northern Sierra Nevada, Plumas Co 1555m 175"	W
+3288	Penstemon digitalis	Michigan: Kent Co 141	W
+3289	Penstemon digitalis	pale pink 90cm North Carolina: Wake Co 80	W
+3290	Penstemon fruticosus	pale blue 15cm Washington: Central Cascade Mtns 1500m 134	W
+3291	Penstemon fruticosus	"purple 30cm Canada: E of Princeton, BC 64"	W
+3292	Penstemon gairdneri v gairdneri	"rose-purple 10cm Washington: E Cascade Range, Yakima Co 1816m 175"	W
+3293	Penstemon grinnellii	"California: San Bernardino Mtns, Big Bear Lake 177"	W
+3294	Penstemon humilis v humilis	"dark blue 20cm Washington: E Cascade Range, Yakima Co 1816m 175"	W
+3295	Penstemon humilis v humilis	purple 40cm Oregon: Black Butte 1036m 127	W
+3296	Penstemon labrosus	California: S Central San Bernardino Mtns 2345m 177	W
+3297	Penstemon labrosus	California: SW San Bernardino Mtns 1830m 177	W
+3298	Penstemon laetus v leptosepalus	"dark blue 20cm California: Cascade Range, Tehama Co 1192m 175"	W
+3299	Penstemon neotericus	"lavender blue-violet California: Northern Sierra Nevada, Plumas Co 1665m 175"	W
+3300	Penstemon newberryi ssp newberryi	"bright rose-red 10-15cm California: Northern Sierra Nevada, Plumas Co 1814m 175"	W
+3301	Penstemon palmeri	pink 120cm Utah: Beaver Dam Mtns 1067m 86	W
+3302	Penstemon parvulus	"dark purple-blue 10-20cm Oregon: Siskiyou Mtns, Jackson Co 175"	W
+3303	Penstemon platyphyllus	lavender 20cm Utah: Davis Co 1707m 164	W
+3304	Penstemon procerus v brachyanthus	purple 30cm Oregon: Santiam Pass 1463m 127	W
+3305	Penstemon pruinosus	"dark blue 10-15cm Washington: Wenatchee Mtns, Kittitas Co 1808m 175"	W
+3306	Penstemon richardsonii v richardsonii	"rose-red 15cm Washington: E Cascade Foothills, Yakima Co 696m 175"	W
+3307	Penstemon roezlii	"blue-purple 15-20cm California: Northern Sierra Nevada, Plumas Co 1877m 175"	W
+3308	Penstemon rostriflorus	California: NE San Bernardino Mtns 2240m 177	W
+3309	Penstemon rostriflorus (cf) (P. labrosus?)	California: SW San Bernardino Mtns 1865m 177	W
+3310	Penstemon rupicola x fruticosus	"lavender-blue to rose-red 5-15cm Washington: Cascade Range, Kittitas Co 175"	W
+3311	Penstemon rydbergii v oreocharis	"dark blue 15-25cm California: High North Coast Ranges, Glenn Co 175"	W
+3312	Penstemon serrulatus	"purple 20cm Washington: Cascade Range, Kittitas Co 1361m 175"	W
+3313	Penstemon speciosus	"bright blue 40-50cm Washington: E Cascade Foothills, Yakima Co 696m 175"	W
+3314	Penstemon virens	blue 25cm Colorado 2073m 52	W
+3315	Penstemon virens	"blue 20cm Colorado: Geneva Peak, Park Co 3025m 144"	W
+3316	Peucedanum cervaria	Czech Republic: SE Moravia 93	W
+3317	Phacelia procera	white 70cm Oregon: Jackson Gap 2134m 127	W
+3318	Phacelia sericea	"blue Canada: Vancouver Island, BC 2000m 187"	W
+3319	Phoenicaulis cheiranthoides	"violet 5-10cm California: High North Coast Ranges, Mendocino Co 1707m 175"	W
+3320	Phyllodoce caerulea	pink 20cm New Hampshire: Coos Co 137	W
+3321	Phyllodoce empetriformis	"pink 20cm Canada: Coast Mtns, BC 64"	W
+3322	Physostegia virginiana ssp praemorsa	pink to 150cm Virginia: Scott Co 176	W
+3323	Pityopsis falcata	yellow 30cm Massachusetts: West Tisbury 125	W
+3324	Polemonium californicum	"blue 15cm Washington: Wenatchee Mtns, Kittitas Co 1784m 175"	W
+3325	Polemonium occidentale	"blue 30-50cm Washington: Wenatchee Mtns, Kittitas Co 1733m 175"	W
+3326	Polygonatum biflorum	Michigan: Kent Co 141	W
+3327	Polygonatum biflorum (tetraploid form)	100-120cm Massachusetts: Northampton 48	W
+3328	Polygonatum pubescens	"20-30cm Massachusetts: Granby, Hampshire Co 48"	W
+3329	Polystichum acrostichoides	30-60cm New York: Central 33	W
+3330	Polystichum lemmonii	40cm Oregon: Big Red Mtn 2012m 127	W
+3331	Primula chionantha	"China: Daxue Shan, Yunnan 174"	W
+3332	Primula gemmifera v amoena	"China: Beima Shan, Yunnan 174"	W
+3333	Primula nivalis	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3334	Primula nivalis v farinosa	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3335	Pulsatilla campanella	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3336	Pycnanthemum tenuifolium	"white 90-100cm Arkansas: Ozark Prairie, Boone Co 28"	W
+3337	Pyrethrum karelinii	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3338	Pyrola elliptica	white 10cm New Jersey 91m 21	W
+3339	Pyrrocoma racemosa	yellow 25cm California: Scott Mtns 2134m 127	W
+3340	Ranunculus kamchaticus	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3341	Rhododendron lapponicum	pink 20cm New Hampshire: Coos Co 137	W
+3342	Rhododendron macrophyllum	pink 2m Washington: Whidbey Island 60m 134	W
+3343	Rhodophiala montana	Chile: Laguna del Maule 174	W
+3344	Rudbeckia californica	black 100cm Oregon: Wrangle Gap 1890m 127	W
+3345	Sabatia angularis	pink/yellow 20-90cm Virginia: Scott Co 176	W
+3346	Salvia apiana	"California: Laguna Mtns, San DIego Co 1550m 177"	W
+3347	Salvia lyrata	purple lvs 25cm North Carolina: Wake Co 80	W
+3348	Salvia pratensis (PI)	Czech Republic: SE Moravia 93	W
+3349	Salvia viridis	colored bracts Turkey: Antalya 157	W
+3350	Sambucus cerulea	white 8m North Carolina: Okanoga Co 87	W
+3351	Sarracenia flava	"yellow 40-60cm Florida: Slope bog, Santa Rosa Co 28"	W
+3352	Sarracenia leucophylla	"maroon-reddish purple 40-70cm Florida: Slope bog, Santa Rosa Co 28"	W
+3353	Sarracenia psittacina	"maroon-reddish purple 10-20cm Florida: Slope bog, Santa Rosa Co 28"	W
+3354	Sarracenia purpurea	"red 20-40cm Canada: Hillgrove, Nova Scotia 94"	W
+3355	Schizanthus hookeri	Argentina: Paso Pehuenche 174	W
+3356	Scorzoneroides autumnalis (PI)	Czech Republic: SE Moravia 93	W
+3357	Scutellaria incana	purple 65cm Ohio: Franklin Co 7	W
+3358	Sedum lanceolatum	yellow to 15cm Colorado: Pitkin Co 2600m 144	W
+3359	Sedum niveum	California: S Central San Bernardino Mtns 2345m 177	W
+3360	Sedum obtusatum ssp retusum	"yellow/orange 10cm Oregon: Siskiyou Mtns, Jackson Co 2149m 175"	W
+3361	Silene bernardina	white 30cm Oregon: Jackson Gap 2134m 127	W
+3362	Silene laciniata ssp californica	"red 10cm California: Inner North Coast Ranges, Lake Co 1130m 175"	W
+3363	Silene parishii	California: S Central San Bernardino Mtns 2345m 177	W
+3364	Solidago nemoralis	yellow 10-130cm Virginia: Scott Co 176	W
+3365	Sphaeralcea ambigua	apricot flr/silver lvs 65cm Arizona: Page 1255m 80	W
+3366	Spiranthes tuberosa	white 20cm Massachusetts: West Tisbury 125	W
+3367	Stanleya pinnata	Utah: Wayne Co 112	W
+3368	Streptanthus maculatus	purple 80cm Texas: Henderson Co 28	W
+3369	Streptopus lanceolatus	"20-30cm Vermont: Fayston, Washington Co 48"	W
+3370	Streptopus lanceolatus	"20-30cm Vermont: Morristown, Lamoille Co 48"	W
+3371	Styrax americanus	white 2m North Carolina: Randolph Co 81	W
+3372	Styrax redivivus	"white 1-2m California: Inner N Coast Ranges, Tehama Co serpentine 175"	W
+3373	Symphyotrichum (Aster) puniceum	white 1.5m Michigan: Kent Co 141	W
+3374	Telesonix jamesii	pink 2.5cm Colorado 164	W
+3375	Tetradymia canescens	"California: San Bernardino Mtns, Big Bear Lake 2360m 177"	W
+3376	Tetraneuris acaulis	yellow 20cm Colorado 1829m 52	W
+3377	Teucrium chamaedrys	Czech Republic: SE Moravia 93	W
+3378	Thalictrum fendleri	white Colorado: Leadville 3353m 154	W
+3379	Thaspium trifoliatum v aureum	yellow 50cm North Carolina: Watauga Co 62	W
+3380	Toxicoscordion fremontii (cf)	"white 20-30cm California: Inner North Coast Ranges, Lake Co 506m 175"	W
+3381	Toxicoscordion paniculatum	white 40cm Oregon: Sisters 1036m 127	W
+3382	Triantha glutinosa	white 40cm Oregon: Crane Prairie 1402m 127	W
+3383	Triantha occidentalis ssp occidentalis	"white 20-30cm California: Northern Sierra Nevada, Plumas Co 1644m 175"	W
+3384	Trifolium dasyphyllum	white/pink 2.5cm Utah: Summit Co 164	W
+3385	Trillium erectum (moist packed)	"20cm Vermont: Fayston, Washington Co 48"	W
+3386	Trillium undulatum	"white/rose veining 10-45cm Canada: Hillgrove, Nova Scotia 94"	W
+3387	Triteleia bridgesii	"lavender-violet 20-30cm California: C Sierra Nevada Foothills, Mariposa Co 175"	W
+3388	Triteleia bridgesii	"red-violet 20-30cm California: N Sierra Nevada Foothills, Butte Co 960m 175"	W
+3389	Triteleia hyacinthina	"bluish white 15-20cm California: Cascade Range, Tehama Co 1234m 175"	W
+3390	Triteleia laxa	"blue-purple 20-30cm California: Inner North Coast Ranges, Lake Co 460m 175"	W
+3391	Triteleia peduncularis	"white/violet midvein/starburst inflorescence 20-30cm California: Inner North Coast Ranges, Lake Co 175"	W
+3392	Trollius laxus	"white 25cm Canada: Mt Thynne, BC 64"	W
+3393	Trollius lilacinus	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3394	Tulipa dasystemon	Kazakhstan: Trans-Ili Ala-Tau 174	W
+3395	Uvularia sessilifolia	"15-20cm Massachusetts: Granby, Hampshire Co 48"	W
+3396	Veratrum californicum	"California: San Bernardino Mtns, Big Bear Lake 2250m 177"	W
+3397	Verbena hastata	Michigan: Kent Co 141	W
+3398	Vernonia missurica	Michigan: Kent Co 141	W
+3399	Viola pubescens	yellow 45cm Pennsylvania: Franklin Co 51	W
+3400	Viola striata	white 45cm Pennsylvania: Franklin Co 51	W
+3401	Xerophyllum tenax	"white 1-1.5m Washington: Cascade Range, Kittitas Co 1166m 175"	W
+3402	Xylorhiza (Aster) venusta	white 50cm Colorado: Mesa Co 78	W
+3403	Yucca brevifolia ssp jaegeriana	cream 180-300cm Utah: Beaver Dam Mtns 1219m 86	W
+3404	Epilobium angustifolium	deep pink/purple  Vermont: Franklin Co  5	W
+3405	Pyrola americana	Connecticut: Franklin  5	W
+3406	Actaea spicata	black frt 50cm Norway: Harstad  188	W
+3407	Allium schoenoprasum	pink 30cm Norway: Harstad  188	W
+3408	Carex flava	green 25cm Norway: Harstad  188	W
+3409	Carex pallescens	green 30cm Norway: Harstad  188	W
+3410	Cypripedium calceolus	yellow/brown 30cm Norway: Rolla Island  188	W
+3411	Dactylorhiza fuchsii	pink 30cm Norway: Harstad  188	W
+3412	Dianthus superbus	pink 30cm Norway: Finnmark  188	W
+3413	Dryas octopetala	white 5cm Svalbard  188	W
+3414	Gentiana nivalis	blue 5cm Norway: Harstad 400m 188	W
+3415	Gymnadenia conopsea	pink 25cm Norway: Harstad  188	W
+3416	Micranthes (Saxifraga) nivalis	white 7cm Norway: Harstad 3m 188	W
+3417	Oxyria digyna	red 20cm Svalbard  188	W
+3418	Papaver dahlianum	yellow/white 10cm Svalbard  188	W
+3419	Paris quadrifolia	green 30cm Norway: Harstad  188	W
+3420	Phleum alpinum	green 25cm Norway: Harstad  188	W
+3421	Rhinanthus alectorolophus	yellow 30cm Norway: Harstad  188	W
+3422	Rubus arcticus	pink 10cm Norway: Troms County  188	W
+3423	Rubus chamaemorus	white 5cm Norway: Harstad  188	W
+3424	Rubus saxatilis	red frt 20cm Norway: Harstad  188	W
+3425	Saussurea alpina	violet 25cm Norway: Tjeldoya Island 2m 188	W
